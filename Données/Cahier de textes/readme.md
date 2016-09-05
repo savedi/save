@@ -10,9 +10,11 @@ Mardi 6 septembre 2016
 
 1. Exemple 2: Reconnaitre un trinôme du second degré.
 
-1. Théorème 3: forme canonique et variations.
+1. Théorème 3: Forme canonique et variations.
 
-1. Exemple 4: Signe de a et orientation de parabole
+1. Exemple 4: Signe de a et orientation de parabole.
+
+1. Exemple 5: Application du Théorème 3, variations d'un trinôme du second degré.
 
 1. Exercice [45 page 38](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/1.%20Second%20degr%C3%A9/Images/45p38.png?raw=true): 3 formes pour un trinôme.
 
@@ -21,6 +23,8 @@ Mardi 6 septembre 2016
 Devoirs
 
 Pour jeudi 8 septembre 2016
+
+1. Relire le théorème 3, apprendre par coeur les formules pour les coordonnées du sommet d'une prabole et la forme canonique.  
 
 1. Exercice [69 page 40](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/1.%20Second%20degr%C3%A9/Images/69p40.png?raw=true)
 
