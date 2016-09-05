@@ -16,6 +16,7 @@
 \usepackage[utf8]{inputenc}
 \usepackage[french]{babel}
 \usepackage{tikz,tkz-tab}
+\usepackage{multicol}
 
 \uselanguage{French}
 \languagepath{French}
@@ -145,6 +146,48 @@
     \end{theorem}
   \end{frame}
   
+  \begin{frame}
+    \begin{example}
+ 
+ \begin{multicols}{2}
+  
+  
+  \begin{center}
+  
+    \begin{tikzpicture}[scale=0.7]
+    
+  
+    \draw[very thick,->](-2.5,-2)--(2.5,-2);
+    \draw[very thick,->](-2,-2.5)--(-2,2.5);
+    \draw[thick][domain=-2.9:1.1] plot (\x,{(\x+1)*(\x+1)-1.5});
+    
+    \node[align=center,font=\bfseries, yshift=2em] (title) 
+    at (current bounding box.north)
+    {$a\uncover<2,3>{>0}$};
+    \end{tikzpicture}
+  \end{center}
+  
+  \columnbreak 
+  
+\begin{center}
+   \begin{tikzpicture}[scale=0.7]
+    
+    
+    \draw[very thick,->](-2.5,0)--(2.5,0);
+    \draw[very thick,->](-2,-2.5)--(-2,2.5);
+    \draw[thick][domain=-2.9:1] plot (\x,{-(\x+1)*(\x+1)+1.5});
+    
+    \node[align=center,font=\bfseries, yshift=2em] (title) 
+    at (current bounding box.north)
+    {$a\uncover<3>{<0}$};
+   \end{tikzpicture}
+   \end{center}
+  
+  \end{multicols}
+  
+   \end{example}
+  \end{frame}
+
     
   
   \begin{frame}
