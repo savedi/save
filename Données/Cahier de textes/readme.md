@@ -1,8 +1,8 @@
-<!-- Ceci n'est pas écrit
+<!-- Ceci n'est pas écrit -->
 
 Mardi 6 septembre 2016
 
-1. Exercice (pendant la vérification des exercices).
+1. Exercice [1 à 5 page 22](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/1.%20Second%20degr%C3%A9/Images/1-5p22.png): Factorisations, développements et résolution d'équation.
 
 1. Activité intéractive [Géogebra](https://www.geogebra.org/apps): Différents types possibles pour les variations et le signe d'un trinôme du second degré.
 
@@ -14,13 +14,17 @@ Mardi 6 septembre 2016
 
 1. Exemple 4: Signe de a et orientation de parabole
 
+1. Exercice [45 page 38](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/1.%20Second%20degr%C3%A9/Images/45p38.png?raw=true): 3 formes pour un trinôme.
+
 ***
 
 Devoirs
 
 Pour jeudi 8 septembre 2016
 
-1.  -->
+1. Exercice [69 page 40](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/1.%20Second%20degr%C3%A9/Images/69p40.png?raw=true)
+
+***
 
 Lundi 5 septembre 2016 (En salle informatique)
 
@@ -38,7 +42,7 @@ Pour mardi 6 septembre 2016
 
 1. [Terminer l'activité GitHub](https://github.com/EdisonLorgues1SD1617/Math1SD1617/tree/master/Donn%C3%A9es/Chapitres/1.%20Second%20degr%C3%A9/Activit%C3%A9s/GitHub). Poster une issue pour signaler une éventuelle difficulté dans l'utilisation du dépôt de la classe, de votre dépôt personnel ou du site ShareLaTeX.
 
-1. [Exercices 33,34 et 35 page 38](https://github.com/EdisonLorgues1SD1617/math1sd1617/blob/master/Donn%C3%A9es/Chapitres/1.%20Second%20degr%C3%A9/Images/33-34-35p38.jpg).
+1. [Exercices 33,34 et 35 page 38](https://github.com/EdisonLorgues1SD1617/Math1SD1617/raw/master/Donn%C3%A9es/Chapitres/1.%20Second%20degr%C3%A9/Images/33-34-35p38.png).
 
 1. Recopier la définition 1 et faire l'exemple 2 du [polycopié sur le second degré](https://github.com/EdisonLorgues1SD1617/math1sd1617/blob/master/Donn%C3%A9es/Chapitres/1.%20Second%20degr%C3%A9/Polycopi%C3%A9/secondDegre.pdf).
 
