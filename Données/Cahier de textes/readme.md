@@ -1,14 +1,24 @@
 <!-- Ceci n'est pas écrit -->
 
-<!-- Jeudi 8 septembre 2016
+Jeudi 8 septembre 2016
 
-1. Théorème 3: Forme canonique et variations.
+1. [Théorème 3](https://github.com/EdisonLorgues1SD1617/math1sd1617/raw/master/Donn%C3%A9es/Chapitres/1.%20Second%20degr%C3%A9/Pr%C3%A9sentation/secondDegre.pdf)): Forme canonique et variations.
 
 1. Exemple 4: Signe de a et orientation de parabole.
 
 1. Exemple 5: Application du Théorème 3, variations d'un trinôme du second degré.
 
 1. Exercice [45 page 38](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/1.%20Second%20degr%C3%A9/Images/45p38.png?raw=true): 3 formes pour un trinôme.
+
+1. [Problème ouvert page 23](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/1.%20Second%20degr%C3%A9/Images/2p23.png)
+
+1. Définition 6: Racines d'un trinôme.
+
+1. Exemple 7, proposition 8 : Nombres possibles de racines.
+
+1. Définition 9, exemple 10: Calcul du discriminant d'un trinôme.
+
+1. [Exercice 46 page 38](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/1.%20Second%20degr%C3%A9/Images/46p38.png) Résolution d'équations du second degré sans utiliser le discriminant.
 
 **Rappel : Devoir à la maison**:
 
@@ -17,7 +27,7 @@ Pour lundi 12 septembre 2016
  1. Recopier le théorème 3 du [polycopié sur le second degré](https://github.com/EdisonLorgues1SD1617/math1sd1617/blob/master/Donn%C3%A9es/Chapitres/1.%20Second%20degr%C3%A9/Polycopi%C3%A9/secondDegre.pdf).
 
  1. Puis faire l'exercice [43 page 38](https://github.com/EdisonLorgues1SD1617/math1sd1617/blob/master/Donn%C3%A9es/Chapitres/1.%20Second%20degr%C3%A9/Images/43p38.png)
--->
+
 
 Mardi 6 septembre 2016
 
