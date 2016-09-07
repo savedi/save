@@ -1,5 +1,15 @@
 <!-- Ceci n'est pas écrit -->
 
+<!-- Jeudi 8 septembre 2016
+
+1. Théorème 3: Forme canonique et variations.
+
+1. Exemple 4: Signe de a et orientation de parabole.
+
+1. Exemple 5: Application du Théorème 3, variations d'un trinôme du second degré.
+
+1. Exercice [45 page 38](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/1.%20Second%20degr%C3%A9/Images/45p38.png?raw=true): 3 formes pour un trinôme. -->
+
 Mardi 6 septembre 2016
 
 1. Exercice [1 à 5 page 22](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/1.%20Second%20degr%C3%A9/Images/1-5p22.png): Factorisations, développements et résolution d'équation.
@@ -9,14 +19,6 @@ Mardi 6 septembre 2016
 1. Présentation sur le [second degré ](https://github.com/EdisonLorgues1SD1617/math1sd1617/raw/master/Donn%C3%A9es/Chapitres/1.%20Second%20degr%C3%A9/Pr%C3%A9sentation/secondDegre.pdf) Définition 1: trinôme, forme développée et paraboles.
 
 1. Exemple 2: Reconnaitre un trinôme du second degré.
-
-1. Théorème 3: Forme canonique et variations.
-
-1. Exemple 4: Signe de a et orientation de parabole.
-
-1. Exemple 5: Application du Théorème 3, variations d'un trinôme du second degré.
-
-1. Exercice [45 page 38](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/1.%20Second%20degr%C3%A9/Images/45p38.png?raw=true): 3 formes pour un trinôme.
 
 ***
 
