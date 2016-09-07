@@ -2,7 +2,7 @@
 
 Jeudi 8 septembre 2016
 
-1. [Théorème 3](https://github.com/EdisonLorgues1SD1617/math1sd1617/raw/master/Donn%C3%A9es/Chapitres/1.%20Second%20degr%C3%A9/Pr%C3%A9sentation/secondDegre.pdf)): Forme canonique et variations.
+1. [Théorème 3](https://github.com/EdisonLorgues1SD1617/math1sd1617/raw/master/Donn%C3%A9es/Chapitres/1.%20Second%20degr%C3%A9/Pr%C3%A9sentation/secondDegre.pdf): Forme canonique et variations.
 
 1. Exemple 4: Signe de a et orientation de parabole.
 
