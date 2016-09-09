@@ -167,11 +167,11 @@
   \begin{exemple}
     Les fonctions suivantes sont-elles des trinômes ?
     \begin{enumerate}
-     \item $g(x)=2x^2+3x+1$. 
-     \item $h(x)=3(x-1)^2+1$.
-     \item $i(x)=4(x-1)(x+2)$.
-     \item $i(x)=5x+3$.
-     \item $j(x)=x^3+4x^2+1$.
+     \item $g(x)=2x^2+3x+1$. Oui avec $a=2$, $b=3$ et $c=1$
+     \item $h(x)=3(x-1)^2+1$. Oui avec $a=3$, $b=-6$ et $c=4$.
+     \item $i(x)=4(x-1)(x+2)$. Oui avec $a=4$, $b=4$ et $c=-8$
+     \item $i(x)=5x+3$. Non
+     \item $j(x)=x^3+4x^2+1$. Non
      \end{enumerate}
  
  \end{exemple}
@@ -259,6 +259,32 @@
     \item Identifier les coefficients $a,b,c$.
     \item Dresser le tableau de variation.
   \end{enumerate}
+  
+  Pour $P$, $a=2$, $b=4$ et $c=-3$,$\alpha=\frac{-4}{4}=-1$, $\beta=2 \times 2(-1)^2+4(-1)-3=-5$
+  Pour $Q$, $a=-1$, $b=4$ et $c=-4$. $\alpha=2$ et $\beta=0$ (se lit directement).
+   \begin{multicols}{2}
+   
+      \begin{tikzpicture}
+	\tkzTabInit{$x$ /1,$f(x)$/2}{$-\infty$, $-1$, $+\infty$}
+	
+	\tkzTabVar{+/$+\infty$,-/$-5$,+/$+\infty$}
+      \end{tikzpicture}
+      
+ %  \begin{tikzpicture}
+%	\tkzTabInit{$x$ /1,$P(x)$/2}{$-\infty$, $-1$, $+\infty$}
+%	
+%	\tkzTabVar{+/$+\infty$,$-5$,+/$+\infty$}
+%      \end{tikzpicture}
+   
+   \columnbreak 
+   
+   \begin{tikzpicture}
+	\tkzTabInit{$x$/1,$Q(x)$/2}{$-\infty$, $2$, $+\infty$}
+	
+	\tkzTabVar{-/$-\infty$,+/$0$,-/$-\infty$}
+      \end{tikzpicture}
+   
+   \end{multicols}
  \end{exemple}
 
 
@@ -281,10 +307,18 @@
     Et quelles sont-elles ?
     \begin{enumerate}
      \item $f(x)=3(x+1)(x-2)$. 
-     \item $g(x)=2(x-3)^2$.
-     \item $h(x)=x^2+3$.
+     
+     $f(x)=0 \Leftrightarrow $ $x+1=0$ ou $x-2=0$. $-1$ et $2$ sont les seules racines.
+     \item $g(x)=2(x-3)^2$. 
+     
+     $g(x)=0 \Leftrightarrow $ $x-3=0$. $3$ est la seule racine.
+     \item $h(x)=x^2+3$. 
+     
+     $x^2+3 \geq 3 >0$ pour tout nombre $x$ et $h$ n'admet pas de racine.
     \end{enumerate}
   \end{exemple}
+  
+  \newpage 
   
   \begin{proposition}
    Soit $f(x)$ un trinôme du second degré et $\mathcal{P}$ sa représentation graphique.
@@ -303,7 +337,7 @@
    
   \end{proposition}
   
-  \vspace{10cm}
+ % \vspace{10cm}
   
   
   
@@ -319,9 +353,9 @@
     
     Calculer les discriminants des trinômes suivants:
     \begin{enumerate}
-     \item Soit $i(x)=x^2-4x+3$.
-     \item Soit $j(x)=2x^2-4x+2$.
-     \item Soit $k(x)=-3x^2+12x-15$
+     \item Soit $i(x)=x^2-4x+3$. $\Delta=(-4)^2-4 \times 1 \times 3=16-12=4$.
+     \item Soit $j(x)=2x^2-4x+2$. $\Delta=(-4)^2-4 \times 2 \times 2=16-16=0$.
+     \item Soit $k(x)=-3x^2+12x-15$. $\Delta=(12)^2-4 \times (-3) \times (-15)=144-180=-36$.
     \end{enumerate}
    \end{exemple}
   
@@ -345,8 +379,20 @@
   \end{theorem}
   
   \begin{exemple}
-    Calculer les racines (éventuelles) des trinômes de l'exemple 4, puis factoriser
+    Calculer les racines (éventuelles) des trinômes de l'exemple 10, puis factoriser
     ces trinômes (si possible).
+    
+     \begin{enumerate}
+     \item Soit $i(x)=x^2-4x+3$. $\Delta=4>0$. $x_1=\frac{-(-4)-\sqrt{4}}{2}=1$ et $x_2=\frac{-(-4)+\sqrt{4}}{2}=3$.
+     
+     $i(x)=(x-1)(x-3)$ est la forme factorisée de $i(x)$.
+     \item Soit $j(x)=2x^2-4x+2$. $\Delta=0$. $x_0=\frac{-(-4)}{2 \times 2}=1$.
+     
+     $j(x)=2(x-1)^2$ est la forme factorisée de $j(x)$.
+     \item Soit $k(x)=-3x^2+12x-15$. $\Delta=-36<0$. $k$ n'admet pas de racine.
+     
+     $k(x)$ n'a pas de forme factorisée.
+    \end{enumerate}
    \end{exemple}
   
   \newpage
@@ -457,7 +503,7 @@
     {$a>0$};
     \node[align=center,font=\bfseries, yshift=1em] (title) 
     at (current bounding box.north)
-    {$\Delta<0$};
+    {$\Delta>0$};
     
     \end{tikzpicture}
   \end{center}
