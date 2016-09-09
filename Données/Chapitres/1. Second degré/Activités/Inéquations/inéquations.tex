@@ -1,0 +1,226 @@
+\documentclass{beamer}
+\usepackage[utf8]{inputenc}
+
+%\usetheme{Warsaw}
+%\usetheme{Hannover}
+\usetheme{Berkeley}
+%\usecolortheme{lily}
+\setbeamertemplate{theorems}[numbered] 
+%\setbeamertemplate{theorems}[ams style]
+\date{}
+
+%\theoremstyle{plain}
+
+\usepackage{lmodern}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[french]{babel}
+\usepackage{tikz,tkz-tab}
+
+\uselanguage{French}
+\languagepath{French}
+
+\newtheorem{proposition}[theorem]{\translate{Proposition}}
+\newtheorem{exercise}[theorem]{\translate{Exercise}}
+\newtheorem{methode}[theorem]{{Méthode}}
+
+\title{Inéquations du second degré.}
+\subtitle{Exercices}
+
+\begin{document}
+  
+  \begin{frame}
+    
+    \titlepage
+    
+  \end{frame}
+  
+  
+    
+  \section{Signe d'un trinôme.}
+  \subsection{Réaliser un tableau de signe}
+  \begin{frame} 
+    
+  \begin{exercise}
+    \'Etudier le signe des fonctions définies par les expressions suivantes:
+    \begin{itemize}
+     \item $a(x)=2x+3$.
+     \item $b(x)=(x+2)(x-5)$
+     \item $c(x)=\frac{3x+2}{5x-1}$
+     \item $d(x)=x^2-1$
+   \end{itemize}    
+  \end{exercise}
+  
+  \end{frame}
+  
+  \begin{frame}
+    \begin{methode}
+    \'Etude du signe de fonctions :
+    \begin{itemize}
+      \item $a(x)=2x+3$. Je reconnais \uncover<2,3,4,5,6,7,8,9,10,11,12,13>{une fonction affine}, 
+      c'est à dire de la forme \uncover<3,4,5,6,7,8,9,10,11,12,13>{$ax+b$}.
+      Je déduis du \uncover<4,5,6,7,8,9,10,11,12,13>{signe de a} les variations de $f$. Je peux alors déterminer 
+      \uncover<5,6,7,8,9,10,11,12,13>{le signe} de la fonction affine autour de sa racine
+      \uncover<6,7,8,9,10,11,12,13>{$-\frac{b}{a}$}.
+      \item $b(x)=(x+2)(x-5)$ est un 
+      \uncover<7,8,9,10,11,12,13>{produit de fonctions affines} dont je sais
+      étudier le signe comme pour $a(x)$. J'utilise 
+      \uncover<8,9,10,11,12,13>{la règle des signes} 
+      pour réaliser le tableau de signes.
+     \item $c(x)=\frac{3x+2}{5x-1}$ est un \uncover<9,10,11,12,13>{quotient} 
+     de fonctions dont je sais étudier le signe. J'utilise à nouveau 
+     \uncover<10,11,12,13>{la règle des signes} et
+     je n'oublie pas de représenter \uncover<11,12,13>{la valeur interdite} 
+     par une double barre .
+     \item $d(x)=x^2-1$. Je reconnais \uncover<12,13>{une identité remarquable} qui permet
+     de \uncover<13>{factoriser}. Je termine comme pour $b(x)$.
+     \item $e(x)=x^2+2x+2$
+     \item $f(x)=x^2-4x+3$
+     \item $g(x)=3x^2-18x+27$
+     \item $h(x)=-2x^2-2x+12=-2(x^2+x-6)=2(x+3)(x-2)$
+     \item $i(x)=\frac{3x^2+3x-6}{2x-2}$
+   \end{itemize}    
+  \end{methode}
+  \end{frame}
+  
+  \subsection{Résoudre une inéquation du second degré}
+  
+  \begin{frame}
+  \begin{exercise}
+    Résoudre les inéquations suivantes:
+    \begin{itemize}
+     \item $x^2+2x+2>0$
+     \item $x^2-4x+3<0$
+   \end{itemize}    
+  \end{exercise} 
+  \end{frame}
+  
+  \begin{frame}
+  \begin{methode}
+    \begin{itemize}
+     \item $x^2+2x+2>0$. J'introduis le trinôme $j(x)=x^2+2x+2$. Je calcule son 
+     \uncover<2,3,4,5,6,7,8,9>{discriminant}. 
+     Il est strictement négatif. J'en déduis 
+     \uncover<3,4,5,6,7,8,9>{qu'il n'y a pas de racine} et que le signe de
+     $j(x)$ est \uncover<4,5,6,7,8,9>{constant}. Celui de $f(0)=2>0$ par exemple. Je pense
+     à exhiber l'ensemble \uncover<5,6,7,8,9>{$S$ des solutions}
+     pour conclure.
+     
+     Méthode alternative: J'utilise \uncover<6,7,8,9>{la forme canonique}: 
+     $j(x)=(x^2+2x+1)+1=(x+1)^2+1>0$
+     \item $x^2-4 x+3<0$ J'introduis \uncover<7,8,9>{le trinôme
+       $k(x)=x^2-4x+3$}. Je calcule son discriminant.
+     Il est strictement positif. Je calcule \uncover<8,9>{les racines}
+     et je \uncover<9>{factorise}
+     $k(x)=(x-1)(x-3)$. Je réalise le tableau de signe et je conclus en donnant
+     l'ensemble des solutions.
+   \end{itemize}
+ \end{methode}
+\end{frame}
+
+  \begin{frame}
+  \begin{exercise}
+    Résoudre sur $\mathbb{R}$ l'inéquation:
+    \begin{itemize}
+     \item $3x^2-18x+31<4$
+   \end{itemize}    
+  \end{exercise} 
+  \end{frame}
+
+  
+  \begin{frame}
+  \begin{methode}
+    \begin{itemize}
+      \item $3x^2-18x+31<4$ \uncover<2,3,4,5,6,7,8,9>{En transposant}, 
+      je ramène la résolution de l'inéquation à l'étude 
+      du signe du trinôme 
+     \uncover<3,4,5,6,7,8,9>{$l(x)=3x^2-18x+27$}. Je 
+      factorise les coefficients pour faciliter mes calculs: 
+      $l(x)=3\uncover<4,5,6,7,8,9>{(x^2-6x+9)}$. Je calcule 
+      \uncover<5,6,7,8,9>{le discriminant}. Il est nul. 
+      Le signe du trinôme est \uncover<6,7,8,9>{constant}, par exemple 
+      celui de $f(0)=c=27>0$. Je pense à 
+      exclure \uncover<7,8,9>{la racine double} des solutions 
+      comme l'inégalité était \uncover<8,9>{stricte}. 
+     
+     Méthode alternative: Je reconnais une \uncover<9>{identité
+     remarquable}: $l(x)=3(x-3)^2$.
+     
+   \end{itemize}    
+  \end{methode} 
+  \end{frame}
+  
+   \begin{frame}
+  \begin{exercise}
+    Résoudre sur $\mathbb{R}$ les inéquations suivantes:
+    \begin{itemize}
+      \item $-2x^2+6>2x-6$
+     \item $\frac{3x^2+11x+2}{2x-2}>4$
+   \end{itemize}    
+  \end{exercise} 
+  \end{frame}
+  
+  \begin{frame}
+  \begin{methode}
+    \begin{itemize}
+      \item $-2x^2+5>2x-7$ Je me ramène à une étude de signe en transposant.
+      $-2x^2-2x+12=-2(x^2-x-6)$. Je calcule \uncover<2,3,4,5,6>{le discriminant}. Il
+      est \uncover<3,4,5,6>{strictement positif}. Je calcule \uncover<4,5,6>{les racines}.
+      Je \uncover<5,6> factorise le trinôme. Je réalise le \uncover<6> et
+      je conclus.
+     
+      \item $\frac{3x^2+11x+2}{2x-2}>4$. Je transpose et je 
+      \uncover<5,6>{réduis au même dénominateur}.
+    $\frac{3(x^2+x-2)}{2x-2}>0$. Je factorise le trinôme 
+    $x^2+x-2=(x-1)(x+2)$, je construis un tableau de signe et je conclus en pensant
+    \uncover<6>{aux valeurs interdites}.
+   \end{itemize}    
+  \end{methode} 
+  \end{frame}
+
+
+  
+\end{document}
+
+
+
+  
+  
+  
+  
+
+\RequirePackage{framed} %  ou usepackage. permet d'encadrer les theo.
+
+\RequirePackage[amsmath,thmmarks,hyperref,framed]{ntheorem}
+
+
+\let\remarque\undefined
+
+\theoremstyle{break}                  % passage à la ligne
+\theorembodyfont{\itshape}     % fonte
+\newtheorem{theoreme}{Th\'eor\`eme}
+\newtheorem{proposition}{Proposition}
+\newtheorem{propriete}{Propri\'et\'e}
+\newtheorem{lemme}{Lemme}
+\newtheorem{corollaire}{Corollaire}
+\newtheorem{axiome}{Axiome}
+\newframedtheorem{Theoreme}[theoreme]{Th\'eor\`eme} % theo. encadré
+\newframedtheorem{Axiome}[axiome]{Axiome}
+\newframedtheorem{Propriete}[propriete]{Propri\'et\'e}
+%\newframedtheorem{Corollaire}[corollaire]{Corollaire}
+
+\theorembodyfont{\upshape} % nouvelle fonte
+\newtheorem{exemple}{Exemple}
+\newtheorem{remarque}{Remarque}
+\newtheorem{definition}{D\'efinition}
+\newtheorem{convention}{Convention}
+\newtheorem{note}{Note}
+\newtheorem{representation}{Repr\'esentation graphique}
+\newframedtheorem{Exemple}[exemple]{Exemple}
+
+
+\theoremstyle{nonumberbreak} % pas de numerotation (de mémoire...)
+\theoremheaderfont{\scshape}
+\theoremsymbol{\ensuremath\square} % symbole en fin de theo.
+\newtheorem{demonstration}{D\'emonstration}
+\newtheorem{preuve}{D\'emonstration}
