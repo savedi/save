@@ -1,3 +1,61 @@
+<!-- 1. [Exercice 46 page 38](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/1.%20Second%20degr%C3%A9/Images/46p38.png) Résolution d'équations du second degré sans utiliser le discriminant. -->
+
+<!-- Jeudi 15 septembre 2016:
+
+1. Algorithmique: Réaliser un programme permettant d'étudier les racines d'un trinôme.
+
+1. [Exercices 49 à 52 page 38](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/1.%20Second%20degr%C3%A9/Images/47-52p38.png).
+
+1. [Démonstration du théorème central](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/1.%20Second%20degr%C3%A9/Activit%C3%A9s/D%C3%A9monstrations/demo_th_central.pdf).
+
+1.[Uxercice 70 page 40](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/1.%20Second%20degr%C3%A9/Images/70p40.png). Au sujet de l'équivalence logique.
+
+1. [58 page 39](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/1.%20Second%20degr%C3%A9/Images/58-59p39.png): Un problème de volume.
+
+---
+
+Mardi 13 septembre 2016:
+
+1. [Activités sur les inéquations](https://github.com/EdisonLorgues1SD1617/Math1SD1617/tree/master/Donn%C3%A9es/Chapitres/1.%20Second%20degr%C3%A9/Activit%C3%A9s/In%C3%A9quations).
+
+Pour jeudi 15 septembre 2016:
+
+1. Réaliser une fiche formulaire contenant toutes les formules du cours à savoir par coeur.
+
+1. Prendre sa calculatrice programmable.
+
+1. [Exercices 47 et 48 page 38](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/1.%20Second%20degr%C3%A9/Images/47-52p38.png).
+
+--- -->
+
+Lundi 12 septembre 2016:
+
+1. Proposition 8 : Nombres possibles de racines.
+
+1. Définition 9, exemple 10: Calcul du discriminant d'un trinôme.
+
+1. Théorème 11, exemple 12: Calcul de racines et forme factorisée.
+
+1. [Exercices 36, 37 et 38 page 38](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/1.%20Second%20degr%C3%A9/Images/36-37-38p38.png).
+
+Pour mardi 13 septembre 2016:
+
+1. [Exercices 39 à 42 page 38](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/1.%20Second%20degr%C3%A9/Images/39-42p38.png).
+
+1. Prendre en photo votre exercice.
+- Réaliser l'upload dans un répertoire du nom de l'exercice; dans votre dépot personnel.
+- Copier coller le lien vers ce fichier dans le fil de discussion correspondant du dépot devoirs de la classe et y cocher votre nom.
+
+1. Apprendre par coeur les formules du discriminant et des racines d'un trinôme.
+
+**Devoir à la maison**:
+
+1. Recopier le théorème 11 du cours.
+
+1. [Exercice 53 page 38](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/1.%20Second%20degr%C3%A9/Images/53p38.png).
+
+---
+
 Jeudi 8 septembre 2016
 
 1. [Théorème 3](https://github.com/EdisonLorgues1SD1617/math1sd1617/raw/master/Donn%C3%A9es/Chapitres/1.%20Second%20degr%C3%A9/Pr%C3%A9sentation/secondDegre.pdf): Forme canonique et variations.
@@ -10,13 +68,7 @@ Jeudi 8 septembre 2016
 
 1. [Problème ouvert page 23](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/1.%20Second%20degr%C3%A9/Images/2p23.png)
 
-1. Définition 6: Racines d'un trinôme.
-
-1. Exemple 7, proposition 8 : Nombres possibles de racines.
-
-1. Définition 9, exemple 10: Calcul du discriminant d'un trinôme.
-
-1. [Exercice 46 page 38](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/1.%20Second%20degr%C3%A9/Images/46p38.png) Résolution d'équations du second degré sans utiliser le discriminant.
+1. Définition 6, exemple 7: Racines d'un trinôme.
 
 **Rappel : Devoir à la maison**:
 
@@ -26,6 +78,7 @@ Pour lundi 12 septembre 2016
 
  1. Puis faire l'exercice [43 page 38](https://github.com/EdisonLorgues1SD1617/math1sd1617/blob/master/Donn%C3%A9es/Chapitres/1.%20Second%20degr%C3%A9/Images/43p38.png)
 
+---
 
 Mardi 6 septembre 2016
 
