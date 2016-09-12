@@ -43,12 +43,14 @@ Pour mardi 13 septembre 2016:
 1. [Exercices 39 à 42 page 38](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/1.%20Second%20degr%C3%A9/Images/39-42p38.png).
 
 1. Prendre en photo votre exercice.
-- Réaliser l'upload dans un répertoire du nom de l'exercice; dans votre dépot personnel.
+- Réaliser l'upload de cette photo dans un répertoire du nom de l'exercice; dans votre dépot personnel.
 - Copier coller le lien vers ce fichier dans le fil de discussion correspondant du dépot devoirs de la classe et y cocher votre nom.
 
 1. Apprendre par coeur les formules du discriminant et des racines d'un trinôme.
 
 **Devoir à la maison**:
+
+Pour lundi 19 septembre 2016:
 
 1. Recopier le théorème 11 du cours.
 
