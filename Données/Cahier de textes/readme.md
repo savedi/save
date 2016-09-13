@@ -13,8 +13,10 @@
 1. [58 page 39](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/1.%20Second%20degr%C3%A9/Images/58-59p39.png): Un problème de volume.
 
 ---
-
+-->
 Mardi 13 septembre 2016:
+
+1. [Exercices 36, 37 et 38 page 38](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/1.%20Second%20degr%C3%A9/Images/36-37-38p38.png).
 
 1. [Activités sur les inéquations](https://github.com/EdisonLorgues1SD1617/Math1SD1617/tree/master/Donn%C3%A9es/Chapitres/1.%20Second%20degr%C3%A9/Activit%C3%A9s/In%C3%A9quations).
 
@@ -24,9 +26,9 @@ Pour jeudi 15 septembre 2016:
 
 1. Prendre sa calculatrice programmable.
 
-1. [Exercices 47 et 48 page 38](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/1.%20Second%20degr%C3%A9/Images/47-52p38.png).
+1. [Exercices 47 et 48 page 38](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/1.%20Second%20degr%C3%A9/Images/47-52p38.png). N'oubliez pas de mettre un lien vers votre travail sur le fil correspondant.
 
---- -->
+---
 
 Lundi 12 septembre 2016:
 
@@ -35,8 +37,6 @@ Lundi 12 septembre 2016:
 1. Définition 9, exemple 10: Calcul du discriminant d'un trinôme.
 
 1. Théorème 11, exemple 12: Calcul de racines et forme factorisée.
-
-1. [Exercices 36, 37 et 38 page 38](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/1.%20Second%20degr%C3%A9/Images/36-37-38p38.png).
 
 Pour mardi 13 septembre 2016:
 
