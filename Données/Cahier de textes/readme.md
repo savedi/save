@@ -28,6 +28,14 @@ Pour jeudi 15 septembre 2016:
 
 1. [Exercices 47 et 48 page 38](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/1.%20Second%20degr%C3%A9/Images/47-52p38.png). N'oubliez pas de mettre un lien vers votre travail sur le fil correspondant.
 
+**Rappel: Devoir à la maison**:
+
+Pour lundi 19 septembre 2016:
+
+1. Recopier le théorème 11 du cours.
+
+1. [Exercice 53 page 38](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/1.%20Second%20degr%C3%A9/Images/53p38.png).
+
 ---
 
 Lundi 12 septembre 2016:
