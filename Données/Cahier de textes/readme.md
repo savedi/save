@@ -18,6 +18,8 @@ Mardi 13 septembre 2016:
 
 1. [Exercices 36, 37 et 38 page 38](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/1.%20Second%20degr%C3%A9/Images/36-37-38p38.png).
 
+1. Correction [exercice 41 page 38](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/1.%20Second%20degr%C3%A9/Images/39-42p38.png).
+
 1. [Activités sur les inéquations](https://github.com/EdisonLorgues1SD1617/Math1SD1617/tree/master/Donn%C3%A9es/Chapitres/1.%20Second%20degr%C3%A9/Activit%C3%A9s/In%C3%A9quations).
 
 Pour jeudi 15 septembre 2016:
