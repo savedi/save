@@ -10,7 +10,7 @@ Jeudi 15 septembre 2016:
 
 1. [Démonstration du théorème central](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/1.%20Second%20degr%C3%A9/Activit%C3%A9s/D%C3%A9monstrations/demo_th_central.pdf).
 
-1.[Exercice 70 page 40](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/1.%20Second%20degr%C3%A9/Images/70p40.png). Au sujet de l'équivalence logique.
+1. [Exercice 70 page 40](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/1.%20Second%20degr%C3%A9/Images/70p40.png). Au sujet de l'équivalence logique.
 
 1. [Exercice 58 page 39](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/1.%20Second%20degr%C3%A9/Images/58-59p39.png): Un problème de volume.
 
