@@ -1,6 +1,8 @@
 <!-- 1. [Exercice 46 page 38](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/1.%20Second%20degr%C3%A9/Images/46p38.png) Résolution d'équations du second degré sans utiliser le discriminant. -->
 
-<!-- Jeudi 15 septembre 2016:
+Jeudi 15 septembre 2016:
+
+1. [Activités sur les inéquations (suite) ](https://github.com/EdisonLorgues1SD1617/Math1SD1617/tree/master/Donn%C3%A9es/Chapitres/1.%20Second%20degr%C3%A9/Activit%C3%A9s/In%C3%A9quations).
 
 1. Algorithmique: Réaliser un programme permettant d'étudier les racines d'un trinôme.
 
@@ -13,7 +15,7 @@
 1. [58 page 39](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/1.%20Second%20degr%C3%A9/Images/58-59p39.png): Un problème de volume.
 
 ---
--->
+
 Mardi 13 septembre 2016:
 
 1. [Exercices 36, 37 et 38 page 38](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/1.%20Second%20degr%C3%A9/Images/36-37-38p38.png).
