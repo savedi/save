@@ -1,12 +1,8 @@
 # [Cahier de textes](https://github.com/EdisonLorgues1SD1617/math1sd1617/blob/master/Donn%C3%A9es/Cahier%20de%20textes/readme.md)
 
-**Devoir à la maison**:
+**Contrôle sur le second degré**:
 
-Pour lundi 19 septembre 2016:
-
-1. Recopier le théorème 11 du cours.
-
-1. [Exercice 53 page 38](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/1.%20Second%20degr%C3%A9/Images/53p38.png).
+Il aura lieu le mardi 27 septembre 2016.
 
 ## Chapitre en cours: Second degré
 

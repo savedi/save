@@ -1,19 +1,69 @@
-<!-- 1. [Exercice 46 page 38](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/1.%20Second%20degr%C3%A9/Images/46p38.png) Résolution d'équations du second degré sans utiliser le discriminant. -->
+<!--
+après le contrôle
+
+**Devoir à la maison**:
+
+Pour lundi 3 octobre 2016:
+
+Réaliser un programme en langage naturel permettant d'afficher le nombre de racines d'un trinôme.
+
+1. [Démonstration du théorème central](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/1.%20Second%20degr%C3%A9/Activit%C3%A9s/D%C3%A9monstrations/demo_th_central.pdf).
+
+ 1. [Exercice 46 page 38](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/1.%20Second%20degr%C3%A9/Images/46p38.png) Résolution d'équations du second degré sans utiliser le discriminant.
+
+---
+
+1. [Exercices 49 à 52 page 38](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/1.%20Second%20degr%C3%A9/Images/47-52p38.png).
+
+1. [Exercice 59 page 39](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/1.%20Second%20degr%C3%A9/Images/58-59p39.png): Un problème de partage.
+
+Mardi 20 septembre 2016:
+
+
+
+1. [Exercice 100 page 43](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/1.%20Second%20degr%C3%A9/Images/100p43.png): Implication réciproque.
+
+-->
+
+Lundi 19 septembre 2016:
+
+[Activités sur les inéquations (suite) ](https://github.com/EdisonLorgues1SD1617/Math1SD1617/tree/master/Donn%C3%A9es/Chapitres/1.%20Second%20degr%C3%A9/Activit%C3%A9s/In%C3%A9quations).
+
+1. Méthode 6.
+
+1. Exercice 7 et méthode 8: Inéquations avec quotients.
+
+1. [Exercice 67 page 40](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/1.%20Second%20degr%C3%A9/Images/67p40.png): Signe de a, c et du dicriminant d'un trinôme.
+
+1. [Exercice 57 page 39](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/1.%20Second%20degr%C3%A9/Images/57-60p39.png): Trinôme à paramètre.
+
+1. [Exercice 70 page 40](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/1.%20Second%20degr%C3%A9/Images/70p40.png). Au sujet de l'équivalence logique.
+
+Pour mardi 20 septembre 2016:
+
+1.  [Exercice 60 page 39](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/1.%20Second%20degr%C3%A9/Images/57-60p39.png): Trinôme à paramètre.
+
+**Contrôle sur le second degré**:
+
+Il aura lieu le mardi 27 septembre 2016.
+
+---
 
 Jeudi 15 septembre 2016:
 
 1. [Activités sur les inéquations (suite) ](https://github.com/EdisonLorgues1SD1617/Math1SD1617/tree/master/Donn%C3%A9es/Chapitres/1.%20Second%20degr%C3%A9/Activit%C3%A9s/In%C3%A9quations).
 
-1. Algorithmique: Réaliser un programme permettant d'étudier les racines d'un trinôme.
-
-1. [Exercices 49 à 52 page 38](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/1.%20Second%20degr%C3%A9/Images/47-52p38.png).
-
-1. [Démonstration du théorème central](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/1.%20Second%20degr%C3%A9/Activit%C3%A9s/D%C3%A9monstrations/demo_th_central.pdf).
-
-1. [Exercice 70 page 40](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/1.%20Second%20degr%C3%A9/Images/70p40.png). Au sujet de l'équivalence logique.
+1. Algorithmique: Réaliser un programme permettant de calculer le discriminant  d'un trinôme.
 
 1. [Exercice 58 page 39](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/1.%20Second%20degr%C3%A9/Images/58-59p39.png): Un problème de volume.
 
+**Rappel: Devoir à la maison**:
+
+Pour lundi 19 septembre 2016:
+
+1. Recopier le théorème 11 du cours.
+
+1. [Exercice 53 page 38](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/1.%20Second%20degr%C3%A9/Images/53p38.png).
 ---
 
 Mardi 13 septembre 2016:
