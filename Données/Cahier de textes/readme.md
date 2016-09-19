@@ -43,7 +43,7 @@ Pour mardi 20 septembre 2016:
 
 1.  [Exercice 60 page 39](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/1.%20Second%20degr%C3%A9/Images/57-60p39.png): Trinôme à paramètre.
 
-1. Déposer son travail sur son dépot personnel, copier un lien vers celui ci dans le fil (issue correspondant) et cocher votre nom dans la liste de ce fil.
+1. Suivre les tutoriels sur la page d'accueil du dépot [Devoirs](https://github.com/EdisonLorgues1SD1617/Devoirs) pour déposer son travail sur son dépot personnel, copier un lien vers celui ci dans le fil (issue correspondant) et cocher votre nom dans la liste de ce fil.
 
 **Contrôle sur le second degré**:
 
