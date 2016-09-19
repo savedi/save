@@ -33,7 +33,7 @@ Lundi 19 septembre 2016:
 
 1. Exercice 7 et méthode 8: Inéquations avec quotients.
 
-1. [Exercice 67 page 40](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/1.%20Second%20degr%C3%A9/Images/67p40.png): Signe de a, c et du dicriminant d'un trinôme.
+1. [Exercice 67 page 40](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/1.%20Second%20degr%C3%A9/Images/67p40.png): Signe de a, c et du discriminant d'un trinôme.
 
 1. [Exercice 57 page 39](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/1.%20Second%20degr%C3%A9/Images/57-60p39.png): Trinôme à paramètre.
 
@@ -42,6 +42,8 @@ Lundi 19 septembre 2016:
 Pour mardi 20 septembre 2016:
 
 1.  [Exercice 60 page 39](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/1.%20Second%20degr%C3%A9/Images/57-60p39.png): Trinôme à paramètre.
+
+1. Déposer son travail sur son dépot personnel, copier un lien vers celui ci dans le fil (issue correspondant) et cocher votre nom dans la liste de ce fil.
 
 **Contrôle sur le second degré**:
 
