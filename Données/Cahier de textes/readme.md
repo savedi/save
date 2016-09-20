@@ -33,7 +33,7 @@ Mardi 20 septembre 2016:
 
 Pour Jeudi 22 septembre 2016:
 
-1. [Exercice 62 page 39](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/1.%20Second%20degr%C3%A9/Images/62p39.png): Calcul des points d'intersections de deux paraboles.
+1. [Exercice 62 page 39](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/1.%20Second%20degr%C3%A9/Images/62p39.png): Calcul des des coordonnées des points d'intersections de deux paraboles.
 
 ---
 
