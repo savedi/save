@@ -17,13 +17,23 @@ Réaliser un programme en langage naturel permettant d'afficher le nombre de rac
 
 1. [Exercice 59 page 39](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/1.%20Second%20degr%C3%A9/Images/58-59p39.png): Un problème de partage.
 
+1. [Exercice 70 page 40](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/1.%20Second%20degr%C3%A9/Images/70p40.png). Au sujet de l'équivalence logique.
+
+-->
+
 Mardi 20 septembre 2016:
 
+1. [Exercice 67 page 40](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/1.%20Second%20degr%C3%A9/Images/67p40.png): Signe de a, c et du discriminant d'un trinôme.
 
+1. [Exercice 57 page 39](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/1.%20Second%20degr%C3%A9/Images/57-60p39.png): Trinôme à paramètre.
 
 1. [Exercice 100 page 43](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/1.%20Second%20degr%C3%A9/Images/100p43.png): Implication réciproque.
 
--->
+Pour Jeudi 22 septembre 2016:
+
+1. [Exercice 62 page 39](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/1.%20Second%20degr%C3%A9/Images/62p39.png): Calcul des points d'intersections de deux paraboles.
+
+---
 
 Lundi 19 septembre 2016:
 
@@ -32,12 +42,6 @@ Lundi 19 septembre 2016:
 1. Méthode 6.
 
 1. Exercice 7 et méthode 8: Inéquations avec quotients.
-
-1. [Exercice 67 page 40](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/1.%20Second%20degr%C3%A9/Images/67p40.png): Signe de a, c et du discriminant d'un trinôme.
-
-1. [Exercice 57 page 39](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/1.%20Second%20degr%C3%A9/Images/57-60p39.png): Trinôme à paramètre.
-
-1. [Exercice 70 page 40](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/1.%20Second%20degr%C3%A9/Images/70p40.png). Au sujet de l'équivalence logique.
 
 Pour mardi 20 septembre 2016:
 
