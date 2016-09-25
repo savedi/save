@@ -21,6 +21,19 @@ Réaliser un programme en langage naturel permettant d'afficher le nombre de rac
 
 -->
 
+Lundi 26 septembre 2016:
+
+1. [Exercice 59 page 39 suite](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/1.%20Second%20degr%C3%A9/Images/58-59p39.png): Un problème de partage.
+
+1. Correction [Exercice 62 page 39](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/1.%20Second%20degr%C3%A9/Images/62p39.png): Calcul des des coordonnées des points d'intersections de deux paraboles.
+
+1. [Exercice 61 page 39](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/1.%20Second%20degr%C3%A9/Images/61p39.png): Intersection d'une droite et d'une parabole.
+
+Pour jeudi 29 septembre 2016:
+
+[Exercice68 page 40](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/1.%20Second%20degr%C3%A9/Images/68p40.png): Courbes et formes factorisées.
+---
+
 Jeudi 22 septembre 2016:
 
 1. Correction [Exercice 57 page 39](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/1.%20Second%20degr%C3%A9/Images/57-60p39.png): Trinôme à paramètre.
@@ -28,8 +41,6 @@ Jeudi 22 septembre 2016:
 1. [Exercices 49 à 52 page 38](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/1.%20Second%20degr%C3%A9/Images/47-52p38.png).
 
 1.  Correction [Exercice 60 page 39](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/1.%20Second%20degr%C3%A9/Images/57-60p39.png): Trinôme à paramètre.
-
-1. Correction [Exercice 62 page 39](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/1.%20Second%20degr%C3%A9/Images/62p39.png): Calcul des des coordonnées des points d'intersections de deux paraboles.
 
 1. [Exercice 59 page 39](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/1.%20Second%20degr%C3%A9/Images/58-59p39.png): Un problème de partage.
 
