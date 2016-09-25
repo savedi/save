@@ -29,13 +29,13 @@ Lundi 26 septembre 2016:
 
 1. [Exercice 61 page 39](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/1.%20Second%20degr%C3%A9/Images/61p39.png): Intersection d'une droite et d'une parabole.
 
-Pour le mardi 27 septembre 2016 Rappel:
+Pour le mardi 27 septembre 2016:
 
-**Contrôle sur le second degré**
+Rappel: **Contrôle sur le second degré**
 
 Pour jeudi 29 septembre 2016:
 
-[Exercice68 page 40](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/1.%20Second%20degr%C3%A9/Images/68p40.png): Courbes et formes factorisées.
+[Exercice 68 page 40](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/1.%20Second%20degr%C3%A9/Images/68p40.png): Courbes et formes factorisées.
 
 **Devoir à la maison**:
 
