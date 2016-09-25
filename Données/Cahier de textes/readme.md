@@ -1,11 +1,13 @@
 <!--
 après le contrôle
 
+[Exercice 68 page 40](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/1.%20Second%20degr%C3%A9/Images/68p40.png): Courbes et formes factorisées.
+
 **Devoir à la maison**:
 
 Pour lundi 3 octobre 2016:
 
-Réaliser un programme en langage naturel permettant d'afficher le nombre de racines d'un trinôme.
+
 
 1. [Démonstration du théorème central](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/1.%20Second%20degr%C3%A9/Activit%C3%A9s/D%C3%A9monstrations/demo_th_central.pdf).
 
@@ -35,13 +37,18 @@ Rappel: **Contrôle sur le second degré**
 
 Pour jeudi 29 septembre 2016:
 
-[Exercice 68 page 40](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/1.%20Second%20degr%C3%A9/Images/68p40.png): Courbes et formes factorisées.
+[Exercices 4 et 5 page 166](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/4-5p166.png): Coordonnées de vecteurs.
 
 **Devoir à la maison**:
 
 Pour lundi 3 octobre 2016:
 
-[Exercices 4 et 5 page 166](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/4-5p166.png): Coordonnées de vecteurs.
+1. Réaliser un programme en langage naturel permettant d'afficher le nombre de racines d'un trinôme.
+
+1. Souligner
+  - un exemple d'instruction d'entrée, en bleu
+  - un exemple d'affectation, en rouge
+  - un exemple d'instruction de sortie, en noir
 
 ---
 
