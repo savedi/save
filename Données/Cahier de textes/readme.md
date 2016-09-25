@@ -23,19 +23,26 @@ Réaliser un programme en langage naturel permettant d'afficher le nombre de rac
 
 Lundi 26 septembre 2016:
 
-1. [Exercice 59 page 39 suite](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/1.%20Second%20degr%C3%A9/Images/58-59p39.png): Un problème de partage.
+1. Correction [Exercice 59 page 39 ](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/1.%20Second%20degr%C3%A9/Images/58-59p39.png)(suite): Un problème de partage.
 
 1. Correction [Exercice 62 page 39](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/1.%20Second%20degr%C3%A9/Images/62p39.png): Calcul des des coordonnées des points d'intersections de deux paraboles.
 
 1. [Exercice 61 page 39](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/1.%20Second%20degr%C3%A9/Images/61p39.png): Intersection d'une droite et d'une parabole.
 
+Pour le mardi 27 septembre 2016 Rappel:
+
+**Contrôle sur le second degré**
+
 Pour jeudi 29 septembre 2016:
 
 [Exercice68 page 40](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/1.%20Second%20degr%C3%A9/Images/68p40.png): Courbes et formes factorisées.
 
-Pour le mardi 27 septembre 2016 Rappel:
+**Devoir à la maison**:
 
-**Contrôle sur le second degré**
+Pour lundi 3 octobre 2016:
+
+[Exercices 4 et 5 page 166](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/4-5p166.png): Coordonnées de vecteurs.
+
 ---
 
 Jeudi 22 septembre 2016:
