@@ -32,6 +32,10 @@ Lundi 26 septembre 2016:
 Pour jeudi 29 septembre 2016:
 
 [Exercice68 page 40](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/1.%20Second%20degr%C3%A9/Images/68p40.png): Courbes et formes factorisées.
+
+Pour le mardi 27 septembre 2016 Rappel:
+
+**Contrôle sur le second degré**
 ---
 
 Jeudi 22 septembre 2016:
@@ -46,7 +50,7 @@ Jeudi 22 septembre 2016:
 
 Pour le mardi 27 septembre 2016 Rappel:
 
-**Contrôle sur le second degré**:
+**Contrôle sur le second degré**
 
 ---
 
