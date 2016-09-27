@@ -40,7 +40,7 @@ Pour lundi 3 octobre 2016:
 
 1. Réaliser un programme en langage naturel permettant d'afficher le nombre de racines d'un trinôme.
 
-1. Souligner
+1. Souligner dans votre programme
   - un exemple d'instruction d'entrée, en bleu
   - un exemple d'affectation, en rouge
   - un exemple d'instruction de sortie, en noir
@@ -69,7 +69,7 @@ Pour lundi 3 octobre 2016:
 
 1. Réaliser un programme en langage naturel permettant d'afficher le nombre de racines d'un trinôme.
 
-1. Souligner
+1. Souligner dans votre programme
   - un exemple d'instruction d'entrée, en bleu
   - un exemple d'affectation, en rouge
   - un exemple d'instruction de sortie, en noir
