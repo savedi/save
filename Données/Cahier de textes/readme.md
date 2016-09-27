@@ -21,15 +21,39 @@ Pour lundi 3 octobre 2016:
 
 1. [Exercice 70 page 40](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/1.%20Second%20degr%C3%A9/Images/70p40.png). Au sujet de l'équivalence logique.
 
+1. Correction [Exercice 62 page 39](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/1.%20Second%20degr%C3%A9/Images/62p39.png): Calcul des des coordonnées des points d'intersections de deux paraboles.
+
+1. [Exercice 61 page 39](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/1.%20Second%20degr%C3%A9/Images/61p39.png): Intersection d'une droite et d'une parabole.
 -->
+
+Mardi 27 septembre 2016:
+
+Contrôle sur le second degré.
+
+Pour jeudi 29 septembre 2016:
+
+[Exercices 4 et 5 page 166](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/4-5p166.png): Coordonnées de vecteurs.
+
+**Devoir à la maison**:
+
+Pour lundi 3 octobre 2016:
+
+1. Réaliser un programme en langage naturel permettant d'afficher le nombre de racines d'un trinôme.
+
+1. Souligner
+  - un exemple d'instruction d'entrée, en bleu
+  - un exemple d'affectation, en rouge
+  - un exemple d'instruction de sortie, en noir
+
+---
 
 Lundi 26 septembre 2016:
 
 1. Correction [Exercice 59 page 39 ](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/1.%20Second%20degr%C3%A9/Images/58-59p39.png)(suite): Un problème de partage.
 
-1. Correction [Exercice 62 page 39](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/1.%20Second%20degr%C3%A9/Images/62p39.png): Calcul des des coordonnées des points d'intersections de deux paraboles.
+1. Un exercice de trinôme avec paramètre.
 
-1. [Exercice 61 page 39](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/1.%20Second%20degr%C3%A9/Images/61p39.png): Intersection d'une droite et d'une parabole.
+1. Une inéquation.
 
 Pour le mardi 27 septembre 2016:
 
