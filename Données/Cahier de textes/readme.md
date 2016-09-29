@@ -41,7 +41,20 @@ Jeudi 29 septembre 2016:
 
 1. [Exercice 61 page 39](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/1.%20Second%20degr%C3%A9/Images/61p39.png): Intersection d'une droite et d'une parabole.
 
+Pour jeudi 6 octobre 2016:
 
+Rendre une correction du contrôle.
+
+**Devoir à la maison**:
+
+Rappel : pour lundi 3 octobre 2016:
+
+1. Réaliser un programme en langage naturel permettant d'afficher le nombre de racines d'un trinôme.
+
+1. Souligner dans votre programme
+  - un exemple d'instruction d'entrée, en bleu
+  - un exemple d'affectation, en rouge
+  - un exemple d'instruction de sortie, en noir
 
 ---
 
