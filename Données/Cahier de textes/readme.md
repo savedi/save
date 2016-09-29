@@ -21,10 +21,29 @@ Pour lundi 3 octobre 2016:
 
 1. [Exercice 70 page 40](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/1.%20Second%20degr%C3%A9/Images/70p40.png). Au sujet de l'équivalence logique.
 
+
+-->
+
+Jeudi 29 septembre 2016:
+
+1. Elements de correction pour le contrôle.
+
+1. [Démonstrations pour le second degré](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/1.%20Second%20degr%C3%A9/Activit%C3%A9s/D%C3%A9monstrations/DemoDecDeg.pdf).
+
+1. [Exercices 4 et 5 page 166](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/4-5p166.png): Coordonnées de vecteurs.
+
+1. [Vecteurs et équations de droites](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/presentation/vecteurs.pdf).
+  - Colinéarité : Définition1 et exemple 2.
+  - Repères du plan: Théorème 3, exemple 4, définition 5, exemple 6.
+  - Systèmes de coordonnées: Proposition 7, exemple 8.
+
 1. Correction [Exercice 62 page 39](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/1.%20Second%20degr%C3%A9/Images/62p39.png): Calcul des des coordonnées des points d'intersections de deux paraboles.
 
 1. [Exercice 61 page 39](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/1.%20Second%20degr%C3%A9/Images/61p39.png): Intersection d'une droite et d'une parabole.
--->
+
+
+
+---
 
 Mardi 27 septembre 2016:
 
