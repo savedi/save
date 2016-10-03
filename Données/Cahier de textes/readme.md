@@ -23,13 +23,17 @@ Mardi 4 octobre 2016:
 
 Lundi 3 octobre 2016:
 
+1. Correction [Exercice 62 page 39](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/1.%20Second%20degr%C3%A9/Images/62p39.png): Calcul des des coordonnées des points d'intersections de deux paraboles.
+
 1. [Exercice 100 page 43](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/1.%20Second%20degr%C3%A9/Images/100p43.png): Implication réciproque.
 
 1. [Exercice 70 page 40](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/1.%20Second%20degr%C3%A9/Images/70p40.png). Au sujet de l'équivalence logique.
 
-1. Correction [Exercice 62 page 39](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/1.%20Second%20degr%C3%A9/Images/62p39.png): Calcul des des coordonnées des points d'intersections de deux paraboles.
+Pour mardi 4 octobre 2016:
 
 1. [Exercice 61 page 39](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/1.%20Second%20degr%C3%A9/Images/61p39.png): Intersection d'une droite et d'une parabole.
+
+---
 
 Jeudi 29 septembre 2016:
 
