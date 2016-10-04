@@ -15,13 +15,16 @@ après le contrôle
 
 Mardi 4 octobre 2016:
 
-1. [Exercices 4 et 5 page 166](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/4-5p166.png): Coordonnées de vecteurs.
-
 1. [Vecteurs et équations de droites](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/presentation/vecteurs.pdf).
   - Colinéarité : Définition 1 et exemple 2.
   - Repères du plan: Théorème 3, exemple 4, définition 5, exemple 6.
   - Systèmes de coordonnées: Proposition 7, exemple 8.
 
+1. [Exercices 4 et 5 page 166](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/4-5p166.png): Coordonnées de vecteurs.
+
+Pour jeudi 6 octobre 2016:
+
+1. [Exercices 1 et 2 page 166](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/1-2p166.png): Relation de Chasles.
 ---
 
 
