@@ -25,6 +25,11 @@ Mardi 4 octobre 2016:
 Pour jeudi 6 octobre 2016:
 
 1. [Exercices 1 et 2 page 166](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/1-2p166.png): Relation de Chasles.
+
+**Contrôle avec des problèmes**:
+
+Aura lieu le jeudi 13 octobre 2016.
+
 ---
 
 
