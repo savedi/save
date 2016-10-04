@@ -1,15 +1,8 @@
 # [Cahier de textes](https://github.com/EdisonLorgues1SD1617/math1sd1617/blob/master/Donn%C3%A9es/Cahier%20de%20textes/readme.md)
 
-**Devoir à la maison**:
+**Contrôle avec des problèmes**:
 
-Pour lundi 3 octobre 2016:
-
-1. Réaliser un programme en langage naturel permettant d'afficher le nombre de racines d'un trinôme.
-
-1. Souligner
-  - un exemple d'instruction d'entrée, en bleu
-  - un exemple d'affectation, en rouge
-  - un exemple d'instruction de sortie, en noir
+Aura lieu le jeudi 13 octobre 2016. 
 
 ## [Sujets du contrôle sur le second degré](https://github.com/EdisonLorgues1SD1617/Math1SD1617/tree/master/Donn%C3%A9es/Chapitres/1.%20Second%20degr%C3%A9/Controles).
 
