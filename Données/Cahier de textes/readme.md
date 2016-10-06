@@ -48,8 +48,6 @@ Mardi 4 octobre 2016:
 1. [Vecteurs et équations de droites](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/presentation/vecteurs.pdf).
   - Colinéarité : Définition 1 et exemple 2.
   - Repères du plan: Théorème 3, exemple 4, définition 5, exemple 6.
-  - Systèmes de coordonnées: Proposition 7, exemple 8.
-
 
 Pour jeudi 6 octobre 2016:
 
