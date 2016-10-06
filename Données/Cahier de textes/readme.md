@@ -15,9 +15,27 @@ après le contrôle
 
 Jeudi 5 octobre 2016:
 
+1. Trouver tous les couples de deux nombres dont la somme fait 3 et le produit fait 5.
+
 1. Correction 1. [Exercices 1 et 2 page 166](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/1-2p166.png): Relation de Chasles.
 
 1. Correction [Exercices 4 et 5 page 166](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/4-5p166.png): Coordonnées de vecteurs.
+
+1. [Vecteurs et équations de droites](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/presentation/vecteurs.pdf).
+
+  - Systèmes de coordonnées: Proposition 7, exemple 8.
+  - Critère de colinéarité: Proposition 9 et exemple 10.
+  - Vecteurs directeurs: Définition 11, exemple 12, proposition 13 et exemple 14.
+
+1. [39 à 45 page 182](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/39-45p182.png) : Vecteurs directeurs.
+
+1. Exemples d'équations d'objets géométriques et équivalence fondamentale.
+
+Pour Lundi 10 octobre 2016:
+
+[Exercice 82 page 41](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/1.%20Second%20degr%C3%A9/Images/82p41.png): Un problème d'aire.
+
+---
 
 Mardi 4 octobre 2016:
 
