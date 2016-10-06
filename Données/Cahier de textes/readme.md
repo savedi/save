@@ -11,6 +11,10 @@ après le contrôle
 
 1. [Exercice 70 page 40](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/1.%20Second%20degr%C3%A9/Images/70p40.png). Au sujet de l'équivalence logique.
 
+Dm pour lundi 17 ocyobre 2016
+
+[Exercice 61 page 183](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/61p183.png): Unp problème d'alignement.
+
 -->
 
 Jeudi 5 octobre 2016:
@@ -33,7 +37,7 @@ Jeudi 5 octobre 2016:
 
 1. Exemples d'équations d'objets géométriques et équivalence fondamentale.
 
-Pour Lundi 10 octobre 2016:
+Pour [Lundi 10 octobre 2016](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/13):
 
 [Exercice 82 page 41](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/1.%20Second%20degr%C3%A9/Images/82p41.png): Un problème d'aire.
 
