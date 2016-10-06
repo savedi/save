@@ -37,6 +37,10 @@ Pour Lundi 10 octobre 2016:
 
 [Exercice 82 page 41](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/1.%20Second%20degr%C3%A9/Images/82p41.png): Un problème d'aire.
 
+**Contrôle avec des problèmes**:
+
+Rappel: il aura lieu le jeudi 13 octobre 2016.
+
 ---
 
 Mardi 4 octobre 2016:
