@@ -17,6 +17,8 @@ Jeudi 5 octobre 2016:
 
 1. Trouver tous les couples de deux nombres dont la somme fait 3 et le produit fait 5.
 
+1. Trouver tous les couples de deux nombres dont la somme fait 5 et le produit fait 3.
+
 1. Correction 1. [Exercices 1 et 2 page 166](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/1-2p166.png): Relation de Chasles.
 
 1. Correction [Exercices 4 et 5 page 166](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/4-5p166.png): Coordonnées de vecteurs.
@@ -47,7 +49,7 @@ Mardi 4 octobre 2016:
 
 Pour jeudi 6 octobre 2016:
 
-1. Correction 1. [Exercices 1 et 2 page 166](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/1-2p166.png): Relation de Chasles.
+1. [Exercices 1 et 2 page 166](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/1-2p166.png): Relation de Chasles.
 
 **Contrôle avec des problèmes**:
 
