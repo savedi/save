@@ -11,6 +11,7 @@ après le contrôle
 
 1. [Exercice 70 page 40](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/1.%20Second%20degr%C3%A9/Images/70p40.png). Au sujet de l'équivalence logique.
 
+1. Exemples d'équations d'objets géométriques et équivalence fondamentale.
 -->
 
 Lundi 10 octobre 2016:
@@ -55,8 +56,6 @@ Jeudi 5 octobre 2016:
 1. Correction [Exercices 1 page 166](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/1-2p166.png): Relation de Chasles.
 
 1. [39 à 41 page 182](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/39-45p182.png) : Vecteurs directeurs.
-
-1. Exemples d'équations d'objets géométriques et équivalence fondamentale.
 
 Pour [Lundi 10 octobre 2016](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/13):
 
