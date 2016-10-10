@@ -20,6 +20,7 @@ Lundi 10 octobre 2016:
   - Systèmes de coordonnées: Proposition 7, exemple 8.
   - Critère de colinéarité: Proposition 9 et exemple 10.
   - Vecteurs directeurs: Définition 11, exemple 12, proposition 13 et exemple 14.
+  - Parallélisme et alignement: Théorème 15, exemple 16, proposition 17, exemple 18.
 
 1. Correction [Exercices 4 et 5 page 166](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/4-5p166.png): Coordonnées de vecteurs.
 
