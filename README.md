@@ -2,7 +2,17 @@
 
 **Contrôle avec des problèmes**:
 
-Aura lieu le jeudi 13 octobre 2016. 
+Aura lieu le jeudi 13 octobre 2016.
+
+**Devoir à la maison**:
+
+Pour lundi 17 ocyobre 2016
+
+1. Rappeler la relation de Chasles pour les points C,D,E.
+
+1. Recopier la définition 1 du cours.
+
+[Exercice 61 page 183](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/61p183.png): Un problème d'alignement.
 
 ## [Sujets du contrôle sur le second degré](https://github.com/EdisonLorgues1SD1617/Math1SD1617/tree/master/Donn%C3%A9es/Chapitres/1.%20Second%20degr%C3%A9/Controles).
 

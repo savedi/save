@@ -11,21 +11,9 @@ après le contrôle
 
 1. [Exercice 70 page 40](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/1.%20Second%20degr%C3%A9/Images/70p40.png). Au sujet de l'équivalence logique.
 
-Dm pour lundi 17 ocyobre 2016
-
-[Exercice 61 page 183](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/61p183.png): Unp problème d'alignement.
-
 -->
 
-Jeudi 5 octobre 2016:
-
-1. Trouver tous les couples de deux nombres dont la somme fait 3 et le produit fait 5.
-
-1. Trouver tous les couples de deux nombres dont la somme fait 5 et le produit fait 3.
-
-1. Correction 1. [Exercices 1 et 2 page 166](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/1-2p166.png): Relation de Chasles.
-
-1. Correction [Exercices 4 et 5 page 166](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/4-5p166.png): Coordonnées de vecteurs.
+Lundi 10 octobre 2016:
 
 1. [Vecteurs et équations de droites](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/presentation/vecteurs.pdf).
 
@@ -33,7 +21,39 @@ Jeudi 5 octobre 2016:
   - Critère de colinéarité: Proposition 9 et exemple 10.
   - Vecteurs directeurs: Définition 11, exemple 12, proposition 13 et exemple 14.
 
-1. [39 à 45 page 182](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/39-45p182.png) : Vecteurs directeurs.
+1. Correction [Exercices 4 et 5 page 166](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/4-5p166.png): Coordonnées de vecteurs.
+
+1. [42 à 45 page 182](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/39-45p182.png) : Vecteurs directeurs.
+
+Pour [mardi 11 octobre 2016](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/15):
+
+[Exercice 49 page 182](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/49p182.png): Tester l'alignement de points.
+
+**Devoir à la maison**:
+
+Pour lundi 17 ocyobre 2016
+
+1. Rappeler la relation de Chasles pour les points C,D,E.
+
+1. Recopier la définition 1 du cours.
+
+[Exercice 61 page 183](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/61p183.png): Un problème d'alignement.
+
+**Contrôle avec des problèmes**:
+
+Rappel : Il aura lieu le jeudi 13 octobre 2016.
+
+---
+
+Jeudi 5 octobre 2016:
+
+1. Trouver tous les couples de deux nombres dont la somme fait 3 et le produit fait 5.
+
+1. Trouver tous les couples de deux nombres dont la somme fait 5 et le produit fait 3.
+
+1. Correction [Exercices 1 page 166](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/1-2p166.png): Relation de Chasles.
+
+1. [39 à 41 page 182](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/39-45p182.png) : Vecteurs directeurs.
 
 1. Exemples d'équations d'objets géométriques et équivalence fondamentale.
 
