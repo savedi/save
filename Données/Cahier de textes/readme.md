@@ -23,9 +23,9 @@ Mardi 11 octobre 2016:
   - Vecteurs directeurs: Définition 11, exemple 12, proposition 13 et exemple 14.
   - Parallélisme et alignement: Théorème 15, exemple 16, proposition 17, exemple 18.
 
-  1. [Exercice 51 page 182](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/51p182.png): Intersection d'une droite avec les axes de coordonnées.
+1. [Exercice 51 page 182](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/51p182.png): Intersection d'une droite avec les axes de coordonnées.
 
-  1. Correction [Exercice 49 page 182](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/49p182.png): Tester l'alignement de points.
+1. Correction [Exercice 49 page 182](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/49p182.png): Tester l'alignement de points.
 
 1. [42 à 45 page 182](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/39-45p182.png) : Vecteurs directeurs.
 
