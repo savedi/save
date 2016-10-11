@@ -25,7 +25,8 @@ Mardi 11 octobre 2016:
 
 1. [42 à 45 page 182](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/39-45p182.png) : Vecteurs directeurs.
 
-1. [Exercice 51 page 182](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/51p182.png): Intersection d'une droite avec les axes de coordonnées.
+1. [Exercice 51 page 182](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/51p182.png): Inte
+rsection d'une droite avec les axes de coordonnées.
 
 1. Correction [Exercice 49 page 182](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/49p182.png): Tester l'alignement de points.
 
@@ -42,6 +43,7 @@ Rappel : pour lundi 17 ocyobre 2016
 **Contrôle avec des problèmes**:
 
 Rappel : Il aura lieu le jeudi 13 octobre 2016.
+
 ---
 
 Lundi 10 octobre 2016:
