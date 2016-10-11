@@ -14,7 +14,7 @@ après le contrôle
 1. Exemples d'équations d'objets géométriques et équivalence fondamentale.
 -->
 
-Lundi 10 octobre 2016:
+Mardi 11 octobre 2016:
 
 1. [Vecteurs et équations de droites](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/presentation/vecteurs.pdf).
 
@@ -23,9 +23,33 @@ Lundi 10 octobre 2016:
   - Vecteurs directeurs: Définition 11, exemple 12, proposition 13 et exemple 14.
   - Parallélisme et alignement: Théorème 15, exemple 16, proposition 17, exemple 18.
 
-1. Correction [Exercices 4 et 5 page 166](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/4-5p166.png): Coordonnées de vecteurs.
-
 1. [42 à 45 page 182](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/39-45p182.png) : Vecteurs directeurs.
+
+1. [Exercice 51 page 182](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/51p182.png): Intersection d'une droite avec les axes de coordonnées.
+
+1. Correction [Exercice 49 page 182](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/49p182.png): Tester l'alignement de points.
+
+**Devoir à la maison**:
+
+Rappel : pour lundi 17 ocyobre 2016
+
+1. Rappeler la relation de Chasles pour les points C,D,E.
+
+1. Recopier la définition 1 du cours.
+
+[Exercice 61 page 183](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/61p183.png): Un problème d'alignement.
+
+**Contrôle avec des problèmes**:
+
+Rappel : Il aura lieu le jeudi 13 octobre 2016.
+---
+
+Lundi 10 octobre 2016:
+
+1. Correction [Exercice 82 page 41](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/1.%20Second%20degr%C3%A9/Images/82p41.png): Un problème d'aire.
+
+
+1. Correction [Exercices 4 et 5 page 166](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/4-5p166.png): Coordonnées de vecteurs.
 
 Pour [mardi 11 octobre 2016](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/15):
 
