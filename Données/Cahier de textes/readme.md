@@ -14,16 +14,26 @@ après le contrôle
 1. Exemples d'équations d'objets géométriques et équivalence fondamentale.
 -->
 
+Jeudi 13 octobre 2016:
+
+1. [Vecteurs et équations de droites](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/presentation/vecteurs.pdf).
+
+  - Exemple 10: critère de colinéarité.
+  - Vecteurs directeurs: Définition 11, exemple 12, proposition 13 et exemple 14.
+  - Parallélisme et alignement: Théorème 15, exemple 16, proposition 17, exemple 18.
+
+1. [Exercice 51 page 182](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/51p182.png): Intersection d'une droite avec les axes de coordonnées.
+
+1. [Exercice 6 et 7 page 172](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/6-7p172.png): Utiliser la colinéarité en géométrie non repèrée.
+
+---
+
 Mardi 11 octobre 2016:
 
 1. [Vecteurs et équations de droites](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/presentation/vecteurs.pdf).
 
   - Systèmes de coordonnées: Proposition 7, exemple 8.
-  - Critère de colinéarité: Proposition 9 et exemple 10.
-  - Vecteurs directeurs: Définition 11, exemple 12, proposition 13 et exemple 14.
-  - Parallélisme et alignement: Théorème 15, exemple 16, proposition 17, exemple 18.
-
-1. [Exercice 51 page 182](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/51p182.png): Intersection d'une droite avec les axes de coordonnées.
+  - Critère de colinéarité: Proposition 9.
 
 1. Correction [Exercice 49 page 182](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/49p182.png): Tester l'alignement de points.
 
