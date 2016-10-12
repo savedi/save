@@ -24,7 +24,7 @@ Jeudi 13 octobre 2016:
 
 1. [Exercice 51 page 182](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/51p182.png): Intersection d'une droite avec les axes de coordonnées.
 
-1. [Exercice 6 et 7 page 172](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/6-7p172.png): Utiliser la colinéarité en géométrie non repèrée.
+1. [Exercice 6 et 7 page 172](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/6-7p172.png) : Utiliser la colinéarité en géométrie non repérée.
 
 1. [Vecteurs et équations de droites](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/presentation/vecteurs.pdf).
 
