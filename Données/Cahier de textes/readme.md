@@ -29,7 +29,7 @@ Jeudi 13 octobre 2016:
 1. [Vecteurs et équations de droites](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/presentation/vecteurs.pdf).
 
   - Théorème 19 et 20. Démonstration 21 et exemple 22: Equation cartésiennes de droites.
-  - Théorème 23.
+  - Théorème 23: Equations réduites.
 
 
 
