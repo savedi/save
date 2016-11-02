@@ -1,12 +1,9 @@
 # [Cahier de textes](https://github.com/EdisonLorgues1SD1617/math1sd1617/blob/master/Donn%C3%A9es/Cahier%20de%20textes/readme.md)
 
-**Contrôle avec des problèmes**:
-
-Aura lieu le jeudi 13 octobre 2016.
 
 **Devoir à la maison**:
 
-Pour lundi 17 ocyobre 2016
+Pour lundi 7 novembre 2016
 
 1. Rappeler la relation de Chasles pour les points C,D,E.
 
