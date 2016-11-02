@@ -14,6 +14,29 @@ après le contrôle
 1. Exemples d'équations d'objets géométriques et équivalence fondamentale.
 -->
 
+Jeudi 3 novembre 2016:
+
+1. [Activité sur les équations de droites](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/Activit%C3%A9s/Cart%C3%A9siennes.pdf).
+
+1. [Vecteurs et équations de droites](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/presentation/vecteurs.pdf).
+
+  - Théorème 19 et Démonstration 20. Théorème 21, Défintion 22 et Exemple 23: Equation cartésiennes de droites.
+  - Théorème 24: Equations réduites.
+
+1. Eléments de correction du controle avec des problèmes du second degré.
+
+**Devoir à la maison**:
+
+Rappel : pour lundi 7 novembre 2016
+
+1. Rappeler la relation de Chasles pour les points C,D,E.
+
+1. Recopier la définition 1 du cours.
+
+[Exercice 61 page 183](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/61p183.png) : Un problème d'alignement.
+
+---
+
 Jeudi 13 octobre 2016:
 
 1. [Vecteurs et équations de droites](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/presentation/vecteurs.pdf).
@@ -26,14 +49,9 @@ Jeudi 13 octobre 2016:
 
 1. [Exercice 6 et 7 page 172](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/6-7p172.png) : Utiliser la colinéarité en géométrie non repérée.
 
-1. [Vecteurs et équations de droites](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/presentation/vecteurs.pdf).
-
-  - Théorème 19 et 20. Démonstration 21 et exemple 22: Equation cartésiennes de droites.
-  - Théorème 23: Equations réduites.
-
   **Devoir à la maison**:
 
-  Rappel : pour lundi 17 ocyobre 2016
+  Rappel : pour lundi 7 novembre 2016
 
   1. Rappeler la relation de Chasles pour les points C,D,E.
 
