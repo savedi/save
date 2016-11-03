@@ -35,6 +35,10 @@ Rappel : pour lundi 7 novembre 2016
 
 [Exercice 61 page 183](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/61p183.png) : Un problème d'alignement.
 
+Pour [mardi 8 novembre 2016](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/16):
+
+[Exercice 73 page 184](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/73p184.png): Equation cartésienne et vecteur directeur.
+
 ---
 
 Jeudi 13 octobre 2016:
