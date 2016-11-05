@@ -12,9 +12,20 @@ après le contrôle
 1. [Exercice 70 page 40](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/1.%20Second%20degr%C3%A9/Images/70p40.png). Au sujet de l'équivalence logique.
 
 1. Exemples d'équations d'objets géométriques et équivalence fondamentale.
+
 -->
 
+Lundi 7 novembre 2016:
+
+1. [exercices 46 et 47 page 182](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/46-47p182.png)
+
+1.
+
+---
+
 Jeudi 3 novembre 2016:
+
+1. **Contrôle avec des problèmes**
 
 1. [Activité sur les équations de droites](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/Activit%C3%A9s/Cart%C3%A9siennes.pdf).
 
@@ -76,16 +87,6 @@ Mardi 11 octobre 2016:
 
 1. [42 à 45 page 182](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/39-45p182.png) : Vecteurs directeurs.
 
-**Devoir à la maison**:
-
-Rappel : pour lundi 17 ocyobre 2016
-
-1. Rappeler la relation de Chasles pour les points C,D,E.
-
-1. Recopier la définition 1 du cours.
-
-[Exercice 61 page 183](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/61p183.png) : Un problème d'alignement.
-
 **Contrôle avec des problèmes**:
 
 Rappel : Il aura lieu le jeudi 13 octobre 2016.
@@ -102,16 +103,6 @@ Lundi 10 octobre 2016:
 Pour [mardi 11 octobre 2016](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/15):
 
 [Exercice 49 page 182](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/49p182.png): Tester l'alignement de points.
-
-**Devoir à la maison**:
-
-Pour lundi 17 ocyobre 2016
-
-1. Rappeler la relation de Chasles pour les points C,D,E.
-
-1. Recopier la définition 1 du cours.
-
-[Exercice 61 page 183](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/61p183.png): Un problème d'alignement.
 
 **Contrôle avec des problèmes**:
 
