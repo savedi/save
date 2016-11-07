@@ -58,25 +58,25 @@ Il aura lieu le jeudi 17 novembre 2016.
 
 Lundi 7 novembre 2016:
 
-1. [Exercice 82 page 185](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/82p185.png): De la géométrie analytique dans un repère quelconque.
+1. Exercice [82 page 185](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/82p185.png): De la géométrie analytique dans un repère quelconque.
 
 Devoirs:
 
 - Pour [mardi 8 novembre 2016](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/16):
 
-1. [Exercice 73 page 184](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/73p184.png): Equation cartésienne et vecteur directeur.
+1. Exercice [73 page 184](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/73p184.png): Equation cartésienne et vecteur directeur.
 
 1. Finir l'exercice [82 page 185](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/82p185.png).
 
 - Pour [jeudi 10 novembre 2016:](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/17)
 
-[Exercice 64 page 183](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/64p183.png): Utilisation d'un repère.
+Exercice [64 page 183](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/64p183.png): Utilisation d'un repère.
 
 **Devoir à la maison**:
 
 Pour lundi 14 novembre 2016:
 
-[Exercice 81 page 185](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/81p185.png): Géométrie analytique.
+Exercice [81 page 185](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/81p185.png): Géométrie analytique.
 
 **Contrôle avec des droites et vecteurs**
 
