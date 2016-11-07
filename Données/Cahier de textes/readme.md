@@ -66,7 +66,7 @@ Devoirs:
 
 1. [Exercice 73 page 184](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/73p184.png): Equation cartésienne et vecteur directeur.
 
-1. [Exercice 82 page 185](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/82p185.png): De la géométrie analytique dans un repère quelconque. Fin 1) 2) a) et 2) b).
+1. Finir l'exercice [Exercice 82 page 185](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/82p185.png).
 
 - Pour [jeudi 10 novembre 2016:](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/17)
 
