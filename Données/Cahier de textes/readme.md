@@ -21,7 +21,7 @@ après le contrôle
 1. [Exercice 56 page 182](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/56p182.png): Sur le coefficient de colinéarité.
 
 
--->
+
 
 Mardi 8 novembre 2016:
 
@@ -54,6 +54,7 @@ Il aura lieu le jeudi 17 novembre 2016.
 
 
 ---
+-->
 
 Lundi 7 novembre 2016:
 
@@ -63,7 +64,7 @@ Devoirs:
 
 - Pour [mardi 8 novembre 2016](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/16):
 
-[Exercice 73 page 184](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/73p184.png): Equation cartésienne et vecteur directeur.
+1. [Exercice 73 page 184](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/73p184.png): Equation cartésienne et vecteur directeur.
 
 1. [Exercice 82 page 185](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/82p185.png): De la géométrie analytique dans un repère quelconque. Fin 1) 2) a) et 2) b).
 
