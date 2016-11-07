@@ -33,7 +33,7 @@ Lundi 7 novembre 2016:
 
 1. [Exercice 88 page 186](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/88p186.png): Logique, vecteurs et équations.
 
-Devoirs
+Devoirs:
 
 - Pour [mardi 8 novembre 2016](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/16):
 
