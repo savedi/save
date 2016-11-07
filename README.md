@@ -9,7 +9,7 @@ Pour lundi 14 novemnre 2016:
 
 **Contrôle avec des droites et vecteurs**
 
-Il aura lieu le mardi 15 novembre 2016.
+Il aura lieu le jeudi 17 novembre 2016.
 
 ## [Sujets du contrôle sur le second degré](https://github.com/EdisonLorgues1SD1617/Math1SD1617/tree/master/Donn%C3%A9es/Chapitres/1.%20Second%20degr%C3%A9/Controles).
 
