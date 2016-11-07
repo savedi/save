@@ -7,6 +7,10 @@ Pour lundi 14 novemnre 2016:
 
 [Exercice 81 page 185](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/81p185.png): Géométrie analytique.
 
+**Contrôle avec des droites et vecteurs**
+
+Il aura lieu le mardi 15 novembre 2016.
+
 ## [Sujets du contrôle sur le second degré](https://github.com/EdisonLorgues1SD1617/Math1SD1617/tree/master/Donn%C3%A9es/Chapitres/1.%20Second%20degr%C3%A9/Controles).
 
 ## Chapitre en cours: Vecteurs et équations de droites.

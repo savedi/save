@@ -39,9 +39,13 @@ Devoirs pour [jeudi 10 novembre 2016:](https://github.com/EdisonLorgues1SD1617/D
 
 **Devoir à la maison**:
 
-Pour lundi 14 novemnre 2016:
+Pour lundi 14 novembre 2016:
 
 [Exercice 81 page 185](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/81p185.png): Géométrie analytique.
+
+**Contrôle avec des droites et vecteurs**
+
+Il aura lieu le mardi 15 novembre 2016.
 
 ---
 
