@@ -39,7 +39,7 @@ Pour [mardi 8 novembre 2016](https://github.com/EdisonLorgues1SD1617/Devoirs/iss
 
 Devoirs pour [jeudi 10 novembre 2016:](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/17)
 
-1. [Exercice 64 page 183](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/64p183.png): Utilisation d'un repère.
+[Exercice 64 page 183](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/64p183.png): Utilisation d'un repère.
 
 **Devoir à la maison**:
 
