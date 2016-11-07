@@ -33,12 +33,13 @@ Lundi 7 novembre 2016:
 
 1. [Exercice 88 page 186](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/88p186.png): Logique, vecteurs et équations.
 
-
 Devoirs pour [jeudi 10 novembre 2016:](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/17)
 
 1. [Exercice 64 page 183](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/64p183.png): Utilisation d'un repère.
 
 **Devoir à la maison**:
+
+Pour lundi 14 novemnre 2016:
 
 [Exercice 81 page 185](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/81p185.png): Géométrie analytique.
 
