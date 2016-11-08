@@ -25,7 +25,9 @@ après le contrôle
 
 Mardi 8 novembre 2016:
 
-1. Correction 1. [Exercice 82 page 185](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/82p185.png): De la géométrie analytique dans un repère quelconque. Fin 1) 2) a) et 2) b).
+1. Correction [Exercice 82 page 185](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/82p185.png): De la géométrie analytique dans un repère quelconque. Fin 1) 2) a) et 2) b).
+
+1. Exercice [87 page 185](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/87p185.png): Intersection de droites.
 
 1. [Fiche de synthèse](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/Comp%C3%A9tences/synthese.pdf).
 
@@ -40,7 +42,9 @@ Devoirs:
 
 - Pour [jeudi 10 novembre 2016:](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/17)
 
-[Exercice 64 page 183](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/64p183.png): Utilisation d'un repère.
+1. [Exercice 64 page 183](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/64p183.png): Utilisation d'un repère.
+
+1. Amener la calculatrice programmable.
 
 **Devoir à la maison**:
 
