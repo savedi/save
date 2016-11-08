@@ -1,4 +1,4 @@
-1. Trouver les coordonnées de points dans un repère. 
+1. Trouver les coordonnées d'un point dans un repère. 
 1. Tester l'appartenance d'un point à une droite dont on a une équation.
 1. Tester la colinéarité de deux vecteurs à l'aide leur coordonnées dans un repère.
 1. Tester l'alignement de trois points.
