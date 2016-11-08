@@ -20,13 +20,6 @@ après le contrôle
 
 1. [Exercice 56 page 182](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/56p182.png): Sur le coefficient de colinéarité.
 
-
--->
-
-Mardi 8 novembre 2016:
-
-1. Correction [Exercice 82 page 185](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/82p185.png): De la géométrie analytique dans un repère quelconque. Fin 1) 2) a) et 2) b).
-
 1. Exercice [87 page 185](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/87p185.png): Intersection de droites.
 
 1. [Fiche de synthèse](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/Comp%C3%A9tences/synthese.pdf).
@@ -37,6 +30,11 @@ Mardi 8 novembre 2016:
 
 1. [Exercice 88 page 186](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/88p186.png): Logique, vecteurs et équations.
 
+-->
+
+Mardi 8 novembre 2016:
+
+1. Méthodes alternatives pour[Exercice 82 page 185](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/82p185.png): De la géométrie analytique dans un repère quelconque. Fin 1) 2) a) et 2) b).
 
 Devoirs:
 
