@@ -15,10 +15,12 @@ Il aura lieu le jeudi 17 novembre 2016.
 
 ## Chapitre en cours: Vecteurs et équations de droites.
 
-* [Présentation](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/presentation/vecteurs.pdf)
+- [Présentation](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/presentation/vecteurs.pdf)
 
-* [Polycopié](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/polycopie/vecteurs.pdf)
+-  [Polycopié](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/polycopie/vecteurs.pdf)
 
-*
+-
 [Compétences](https://github.com/EdisonLorgues1SD1617/Math1SD1617/tree/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/Comp%C3%A9tences)
-* [Fiche de synthèse de cours](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/Comp%C3%A9tences/synthese.pdf)
+
+- 
+[Fiche de synthèse de cours](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/Comp%C3%A9tences/synthese.pdf)
