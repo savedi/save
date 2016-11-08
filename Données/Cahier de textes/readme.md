@@ -21,7 +21,7 @@ après le contrôle
 1. [Exercice 56 page 182](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/56p182.png): Sur le coefficient de colinéarité.
 
 
-
+-->
 
 Mardi 8 novembre 2016:
 
@@ -54,7 +54,6 @@ Il aura lieu le jeudi 17 novembre 2016.
 
 
 ---
--->
 
 Lundi 7 novembre 2016:
 
