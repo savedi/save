@@ -56,7 +56,7 @@ Devoirs:
 
 [Exercice 81 page 185](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/81p185.png): Géométrie analytique.
 
-- Pour mardi 15 novembre 2016:
+- Pour [mardi 15 novembre 2016](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/18):
 
 Exercice [56 page 182](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/56p182.png): Sur le coefficient de colinéarité.
 
