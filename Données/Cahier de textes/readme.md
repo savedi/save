@@ -14,15 +14,29 @@ après le contrôle
 1. Exemples d'équations d'objets géométriques et équivalence fondamentale.
 
 
-1. [Exercices 46 et 47 page 182](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/46-47p182.png): Colinéarité pour des vecteurs décomposés dans un repère.
 
-1. [Exercice 52 page 182](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/52p182.png): Utilisation de la colinéarité pour trouver un intersection avec une droite parallèle.
 
-1. [Exercice 56 page 182](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/56p182.png): Sur le coefficient de colinéarité.
+
+1. [Fiche de synthèse](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/Comp%C3%A9tences/synthese.pdf).
+
+
+
+
+-->
+
+Jeudi 10 novembre 2016:
+
+1. Méthodes pour la démonstration: correction du devoir à la maison:
+
+[Exercice 61 page 183](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/61p183.png) : Un problème d'alignement.
 
 1. Exercice [87 page 185](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/87p185.png): Intersection de droites.
 
-1. [Fiche de synthèse](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/Comp%C3%A9tences/synthese.pdf).
+1. [Compétences](https://github.com/EdisonLorgues1SD1617/Math1SD1617/tree/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/Comp%C3%A9tences) pour le chapitre sur les vecteurs.
+
+1. Exercice [70 page 184](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/70p184.png): Coefficient directeur et ordonnée à l'origine.
+
+1. Exercice [69 page 184](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/69p184.png): Equation de droite passant par deux points.
 
 1. [Exercices 83 à 85 page 185](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/83-85p185.png): Equations cartésiennes et parallélisme.
 
@@ -30,7 +44,32 @@ après le contrôle
 
 1. [Exercice 88 page 186](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/88p186.png): Logique, vecteurs et équations.
 
--->
+1. [Exercices 46 et 47 page 182](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/46-47p182.png): Colinéarité pour des vecteurs décomposés dans un repère.
+
+1. [Exercice 52 page 182](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/52p182.png): Utilisation de la colinéarité pour trouver un intersection avec une droite parallèle.
+
+Devoirs:
+
+- Pour lundi 14 novembre 2016:
+
+1. Réaliser une fiche de synthèse de cours.
+
+1. **Devoir à la maison**:
+
+[Exercice 81 page 185](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/81p185.png): Géométrie analytique.
+
+- Pour mardi 15 novembre 2016:
+
+Exercice [56 page 182](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/56p182.png): Sur le coefficient de colinéarité.
+
+Exercice [65 page 183](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/65p183.png): Calcul de coordonnées dans un repère.
+
+
+**Contrôle avec des droites et vecteurs**
+
+Il aura lieu le jeudi 17 novembre 2016.
+
+---
 
 Mardi 8 novembre 2016:
 
