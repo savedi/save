@@ -41,6 +41,7 @@ Lundi 14 novembre 2016:
 **Rappel: Contrôle avec des droites et des vecteurs**
 
 Il aura lieu le jeudi 17 novembre 2016.
+
 ---
 
 Jeudi 10 novembre 2016:
