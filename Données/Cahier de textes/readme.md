@@ -26,9 +26,11 @@ après le contrôle
 
 Lundi 14 novembre 2016:
 
-1. [Exercices 83 à 85 page 185](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/83-85p185.png): Equations cartésiennes et parallélisme.
-
 1. [Exercices 86 page 185](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/86p185.png): Equation cartésienne à paramètre.
+
+1. [Fiche de synthèse de cours](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/Comp%C3%A9tences/synthese.pdf).
+
+1. [Exercices 83 à 85 page 185](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/83-85p185.png): Equations cartésiennes et parallélisme.
 
 1. [Exercice 88 page 186](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/88p186.png): Logique, vecteurs et équations.
 
