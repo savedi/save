@@ -42,6 +42,14 @@ Lundi 14 novembre 2016:
 
 Il aura lieu le jeudi 17 novembre 2016.
 
+Devoirs:
+
+- Pour [mardi 15 novembre 2016](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/18):
+
+Exercice [56 page 182](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/56p182.png): Sur le coefficient de colinéarité.
+
+Exercice [65 page 183](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/65p183.png): Calcul de coordonnées dans un repère.
+
 ---
 
 Jeudi 10 novembre 2016:
