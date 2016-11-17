@@ -28,6 +28,31 @@ après le contrôle
 
 -->
 
+Mardi 22 novembre 2016:
+
+[Présentation dérivation](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/3.%20Derivation/Pr%C3%A9sentation/Derivation.pdf).
+
+1. Théorème 11 et exemple 12: Variation de fonction et signe de la dérivée.
+
+1. Exercices [18 à 20 p84](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/3.%20Derivation/Images/18-20p84.png): Tangentes et nombres dérivés.
+
+Devoirs:
+
+Pour [jeudi 24 novembre 2016](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/21):
+
+Exercice [35 à 39 page 85](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/3.%20Derivation/Images/35-39p85.png): Equations de tangentes.
+
+
+**Devoir à la maison**:
+
+Pour lundi 28 novembre 2016:
+
+- Recopier la définition 3 et le théorème 5 du cours.
+
+- Faire l'exercice [4 page 78](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/3.%20Derivation/Images/4p78.png): Equations de tangentes.
+
+---
+
 Lundi 21 novembre 2016:
 
 [Présentation dérivation](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/3.%20Derivation/Pr%C3%A9sentation/Derivation.pdf).
@@ -58,6 +83,8 @@ Pour lundi 28 novembre 2016:
 - Recopier la définition 3 et le théorème 5 du cours.
 
 - Faire l'exercice [4 page 78](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/3.%20Derivation/Images/4p78.png): Equations de tangentes.
+
+---
 
 Jeudi 17 novembre 2016:
 
