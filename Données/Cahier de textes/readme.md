@@ -20,13 +20,41 @@ après le contrôle
 1. [Fiche de synthèse](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/Comp%C3%A9tences/synthese.pdf).
 
 
-1. [Exercice 88 page 186](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/88p186.png): Logique, vecteurs et équations.
+
 
 1. [Exercices 46 et 47 page 182](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/46-47p182.png): Colinéarité pour des vecteurs décomposés dans un repère.
 
 1. [Exercice 52 page 182](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/52p182.png): Utilisation de la colinéarité pour trouver un intersection avec une droite parallèle.
 
 -->
+
+Jeudi 24 novembre 2016:
+
+1. Algorithmique exercice [89 page 186](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/89p186.png): Un programme pour étudier la position relative de deux droites.
+
+1. Exercice [30 page 84](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/3.%20Derivation/Images/30p84.png): Lecture graphique de nombres dérivés.
+
+1. Correction des exercices [18 à 20 p84](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/3.%20Derivation/Images/18-20p84.png): Tangentes et nombres dérivés.
+
+1. Exercices [31 et 32 page 84](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/3.%20Derivation/Images/31-32p84.png).
+
+1. Exercice [43 page 85](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/3.%20Derivation/Images/43p85.png): Fonctions admettant la même fonction dérivée.
+
+1. Exercice [42 page 85](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/3.%20Derivation/Images/42p85.png): Courbes tangentes.
+
+1. [Exercice 88 page 186](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/88p186.png): Logique, vecteurs et équations.
+
+Devoirs:
+
+**Devoir à la maison**:
+
+Pour lundi 28 novembre 2016:
+
+- Recopier la définition 3 et le théorème 5 du cours.
+
+- Faire l'exercice [4 page 78](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/3.%20Derivation/Images/4p78.png): Equations de tangentes.
+
+---
 
 Mardi 22 novembre 2016:
 
