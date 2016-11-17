@@ -34,7 +34,9 @@ Lundi 21 novembre 2016:
 
 1. Fonctions de références.
 
-1. Opérations de fonctions et dérivées.
+1. Proposotion 9: Opérations de fonctions et dérivées.
+
+1. Exemple 10: Calcul de dérivées.
 
 1. Activité: Trouver une équation réduite pour une tangente.
 
@@ -44,7 +46,9 @@ Pour [mardi 22 novembre 2016](https://github.com/EdisonLorgues1SD1617/Devoirs/is
 
 Exercice [ 3 page 77](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/3.%20Derivation/Images/3p77.png): Tracer l'allure d'une courbe en utilisant ses tangentes.
 
-Pour [jeudi 24 novembre 2016]():
+Pour [jeudi 24 novembre 2016](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/21):
+
+Exercice [35 à 39 page 85](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/3.%20Derivation/Images/35-39p85.png): Equations de tangentes.
 
 
 **Devoir à la maison**:
