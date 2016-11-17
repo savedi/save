@@ -46,6 +46,10 @@ Pour [lundi 21 novembre 2016](https://github.com/EdisonLorgues1SD1617/Devoirs/is
 
 Exercices [1 et 2 page 77](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/3.%20Derivation/Images/1-2p77.png): Nombre dérivé et tangentes.
 
+Pour [mardi 22 novembre 2016](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/20):
+
+Exercice [ 3 page 77](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/3.%20Derivation/Images/3p77.png): Tracer l'allure d'une courbe en utilisant ses tangentes.
+
 ---
 
 Mardi 15 novembre 2016:
