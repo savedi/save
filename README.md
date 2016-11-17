@@ -19,8 +19,7 @@ Pour lundi 28 novembre 2016:
 
 -  [Polycopié](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/3.%20Derivation/Polycopie/Derivation.pdf)
 
-
- - [Compétences](https://github.com/EdisonLorgues1SD1617/Math1SD1617/tree/master/Donn%C3%A9es/Chapitres/3.%20Derivation/Comp%C3%A9tences)
+- [Compétences](https://github.com/EdisonLorgues1SD1617/Math1SD1617/tree/master/Donn%C3%A9es/Chapitres/3.%20Derivation/Comp%C3%A9tences)
 
 <!--
 
