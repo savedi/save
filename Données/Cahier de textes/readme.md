@@ -20,17 +20,35 @@ après le contrôle
 1. [Fiche de synthèse](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/Comp%C3%A9tences/synthese.pdf).
 
 
-
-
--->
-
-Mardi 15 novembre 2016:
-
 1. [Exercice 88 page 186](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/88p186.png): Logique, vecteurs et équations.
 
 1. [Exercices 46 et 47 page 182](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/46-47p182.png): Colinéarité pour des vecteurs décomposés dans un repère.
 
 1. [Exercice 52 page 182](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/52p182.png): Utilisation de la colinéarité pour trouver un intersection avec une droite parallèle.
+
+-->
+
+Jeudi 17 novembre 2016:
+
+[Présentation dérivation](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/3.%20Derivation/Pr%C3%A9sentation/Derivation.pdf).
+
+1. Définition 1, Exemple 2: Tangente.
+
+1. Définition 3, exemple 4: Nombre dérivé.
+
+1. Activité: Trouver une équation réduite pour une tangente.
+
+1. Théorème 5, exemple 6: Formule pour l'équation d'une tangente.
+
+Devoirs:
+
+Pour [lundi 21 novembre 2016](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/19):
+
+Exercices [1 et 2 page 77](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/3.%20Derivation/Images/1-2p77.png): Nombre dérivé et tangentes.
+
+---
+
+Mardi 15 novembre 2016:
 
 1. Correction exercice [56 page 182](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/56p182.png): Sur le coefficient de colinéarité.
 
