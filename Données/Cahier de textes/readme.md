@@ -26,8 +26,6 @@ après le contrôle
 
 1. [Exercice 52 page 182](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/52p182.png): Utilisation de la colinéarité pour trouver un intersection avec une droite parallèle.
 
--->
-
 Jeudi 24 novembre 2016:
 
 1. Algorithmique exercice [89 page 186](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/89p186.png): Un programme pour étudier la position relative de deux droites.
@@ -113,6 +111,8 @@ Pour lundi 28 novembre 2016:
 - Faire l'exercice [4 page 78](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/3.%20Derivation/Images/4p78.png): Equations de tangentes.
 
 ---
+
+-->
 
 Jeudi 17 novembre 2016:
 
