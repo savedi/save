@@ -5,6 +5,14 @@
 
 Il aura lieu le jeudi 17 novembre 2016.
 
+**Devoir à la maison**:
+
+Pour lundi 28 novembre 2016:
+
+- Recopier la définition 3 et le théorème 5 du cours.
+
+- Faire l'exercice [4 page 78](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/3.%20Derivation/Images/4p78.png): Equations de tangentes.
+
 ## Chapitre en cours: Dérivation.
 
 - [Présentation](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/3.%20Derivation/Pr%C3%A9sentation/Derivation.pdf)
