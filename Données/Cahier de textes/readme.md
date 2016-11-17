@@ -28,6 +28,33 @@ après le contrôle
 
 -->
 
+Lundi 21 novembre 2016:
+
+[Présentation dérivation](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/3.%20Derivation/Pr%C3%A9sentation/Derivation.pdf).
+
+1. Fonctions de références.
+
+1. Opérations de fonctions et dérivées.
+
+1. Activité: Trouver une équation réduite pour une tangente.
+
+Devoirs:
+
+Pour [mardi 22 novembre 2016](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/20):
+
+Exercice [ 3 page 77](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/3.%20Derivation/Images/3p77.png): Tracer l'allure d'une courbe en utilisant ses tangentes.
+
+Pour [jeudi 24 novembre 2016]():
+
+
+**Devoir à la maison**:
+
+Pour lundi 28 novembre 2016:
+
+- Recopier la définition 3 et le théorème 5 du cours.
+
+- Faire l'exercice [4 page 78](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/3.%20Derivation/Images/4p78.png): Equations de tangentes.
+
 Jeudi 17 novembre 2016:
 
 [Présentation dérivation](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/3.%20Derivation/Pr%C3%A9sentation/Derivation.pdf).
@@ -36,15 +63,15 @@ Jeudi 17 novembre 2016:
 
 1. Définition 3, exemple 4: Nombre dérivé.
 
-1. Activité: Trouver une équation réduite pour une tangente.
-
 1. Théorème 5, exemple 6: Formule pour l'équation d'une tangente.
 
 Devoirs:
 
 Pour [lundi 21 novembre 2016](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/19):
 
-Exercices [1 et 2 page 77](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/3.%20Derivation/Images/1-2p77.png): Nombre dérivé et tangentes.
+- Exercices [1 et 2 page 77](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/3.%20Derivation/Images/1-2p77.png): Nombre dérivé et tangentes.
+
+- Apprendre toutes les formules de la partie 2 du cours.
 
 Pour [mardi 22 novembre 2016](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/20):
 
