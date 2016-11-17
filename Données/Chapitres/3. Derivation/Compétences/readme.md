@@ -9,3 +9,5 @@
 1. Utiliser le lien entre les variations d'une fonction et le signe sa dérivée.
 
 1. Exploiter les variations d'une fonction pour obtenir des inégalités ou des extremas.
+
+![](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/3.%20Derivation/Images/DerivationProgramme.png)
