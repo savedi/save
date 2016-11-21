@@ -54,6 +54,8 @@ Pour lundi 28 novembre 2016:
 
 ---
 
+-->
+
 Mardi 22 novembre 2016:
 
 [Présentation dérivation](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/3.%20Derivation/Pr%C3%A9sentation/Derivation.pdf).
@@ -79,9 +81,6 @@ Pour lundi 28 novembre 2016:
 
 ---
 
-
--->
-
 Lundi 21 novembre 2016:
 
 [Présentation dérivation](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/3.%20Derivation/Pr%C3%A9sentation/Derivation.pdf).
@@ -91,8 +90,6 @@ Lundi 21 novembre 2016:
 1. Proposotion 9: Opérations de fonctions et dérivées.
 
 1. Exemple 10: Calcul de dérivées.
-
-1. Activité: Trouver une équation réduite pour une tangente.
 
 Devoirs:
 
