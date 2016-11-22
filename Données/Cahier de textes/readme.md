@@ -62,7 +62,7 @@ Mardi 22 novembre 2016:
 
 1. Théorème 11 et exemple 12: Variation de fonction et signe de la dérivée.
 
-1. Exercices [18 à 20 p84](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/3.%20Derivation/Images/18-20p84.png): Tangentes et nombres dérivés.
+1. Exercices [18 à 20 page  84](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/3.%20Derivation/Images/18-20p84.png): Tangentes et nombres dérivés.
 
 Devoirs:
 
