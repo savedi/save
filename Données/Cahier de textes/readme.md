@@ -27,6 +27,14 @@ Lundi 28 novembre 2016:
 
 Devoirs:
 
+Pour [mardi 29 novembre 2016](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/22):
+
+Exercices [7 et 8 page 98](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/3.%20Derivation/Images/7-8p98.png): Dérivée d'un produit et d'un quotient.
+
+Pour [jeudi 1er décembre 2016](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/23):
+
+Exercices [11 et 12 page 99](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/3.%20Derivation/Images/11-12p99.png): Etude des variations et des extremums locaux d'une fonction en utilisant sa dérivée.
+
 **Devoir à la maison**:
 
 Pour le lundi 5 décembre 2016:
@@ -34,15 +42,6 @@ Pour le lundi 5 décembre 2016:
 - Recopier le théorème 11 du cours.
 
 - Faire l'exercice [13 page 100](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/3.%20Derivation/Images/13p100.png): Recherche d'un maximum dans un problème.
-
-* Pour [mardi 29 novembre 2016](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/22):
-
-Exercices [7 et 8 page 98](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/3.%20Derivation/Images/7-8p98.png): Dérivée d'un produit et d'un quotient.
-
-* Pour [jeudi 1er décembre 2016](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/23):
-
-Exercices [11 et 12 page 99](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/3.%20Derivation/Images/11-12p99.png): Etude des variations et des extremums locaux d'une fonction en utilisant sa dérivée.
-
 ---
 
 Jeudi 24 novembre 2016:
