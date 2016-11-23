@@ -42,6 +42,7 @@ Pour le lundi 5 décembre 2016:
 - Recopier le théorème 11 du cours.
 
 - Faire l'exercice [13 page 100](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/3.%20Derivation/Images/13p100.png): Recherche d'un maximum dans un problème.
+
 ---
 
 Jeudi 24 novembre 2016:
