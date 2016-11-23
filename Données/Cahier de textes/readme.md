@@ -13,22 +13,37 @@ après le contrôle
 
 1. Exemples d'équations d'objets géométriques et équivalence fondamentale.
 
-
-
-
-
-1. [Fiche de synthèse](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/Comp%C3%A9tences/synthese.pdf).
-
-
-
-
 1. [Exercices 46 et 47 page 182](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/46-47p182.png): Colinéarité pour des vecteurs décomposés dans un repère.
 
 1. [Exercice 52 page 182](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/52p182.png): Utilisation de la colinéarité pour trouver un intersection avec une droite parallèle.
 
-
-
 -->
+
+Lundi 28 novembre 2016:
+
+1. Exercices [5 et 6 page 98](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/3.%20Derivation/Images/5-6p98.png): utiliser les formules pour le produit et le quotient de fonctions dérivables.
+
+1. Exercices [9 et 10 page 99](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/3.%20Derivation/Images/9-10p99.png): Etude des variations d'une fonction en utilisant sa dérivée.
+
+Devoirs:
+
+**Devoir à la maison**:
+
+Pour le lundi 5 décembre 2016:
+
+- Recopier le théorème 11 du cours.
+
+- Faire l'exercice [13 page 100](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/3.%20Derivation/Images/13p100.png): Recherche d'un maximum dans un problème.
+
+* Pour [mardi 29 novembre 2016](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/22):
+
+Exercices [7 et 8 page 98](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/3.%20Derivation/Images/7-8p98.png): Dérivée d'un produit et d'un quotient.
+
+* Pour jeudi 1er décembre 2016:
+
+Exercices [11 et 12 page 99](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/3.%20Derivation/Images/11-12p99.png): Etude des variations et des extremums locaux d'une fonction en utilisant sa dérivée.
+
+---
 
 Jeudi 24 novembre 2016:
 
@@ -59,6 +74,14 @@ Pour lundi 28 novembre 2016:
 - Recopier la définition 3 et le théorème 5 du cours.
 
 - Faire l'exercice [4 page 78](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/3.%20Derivation/Images/4p78.png): Equations de tangentes.
+
+* Pour [mardi 29 novembre 2016](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/22):
+
+Exercices [7 et 8 page 98](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/3.%20Derivation/Images/7-8p98.png): Dérivée d'un produit et d'un quotient.
+
+* Pour jeudi 1er décembre 2016:
+
+Exercices [11 et 12 page 99](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/3.%20Derivation/Images/11-12p99.png): Etude des variations et des extremums locaux d'une fonction en utilisant sa dérivée.
 
 ---
 
