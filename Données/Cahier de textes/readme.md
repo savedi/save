@@ -40,7 +40,7 @@ Jeudi 24 novembre 2016:
 
 1. Exercice [30 page 84](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/3.%20Derivation/Images/30p84.png): Lecture graphique de nombres dérivés.
 
-1. Correction des exercices [18 à 20 p84](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/3.%20Derivation/Images/18-20p84.png): Tangentes et nombres dérivés.
+1. Correction des exercices [18 à 20 page 84](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/3.%20Derivation/Images/18-20p84.png): Tangentes et nombres dérivés.
 
 1. Exercices [31 et 32 page 84](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/3.%20Derivation/Images/31-32p84.png).
 
