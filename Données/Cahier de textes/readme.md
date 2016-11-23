@@ -17,7 +17,8 @@ après le contrôle
 
 1. [Exercice 52 page 182](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/52p182.png): Utilisation de la colinéarité pour trouver un intersection avec une droite parallèle.
 
--->
+
+
 
 Jeudi 1er décembre 2016:
 
@@ -82,6 +83,8 @@ Exercices [11 et 12 page 99](https://github.com/EdisonLorgues1SD1617/Math1SD1617
 1. Faire l'exercice [13 page 100](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/3.%20Derivation/Images/13p100.png): Recherche d'un maximum dans un problème.
 
 ---
+-->
+
 
 Jeudi 24 novembre 2016:
 
