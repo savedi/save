@@ -98,13 +98,13 @@ Jeudi 24 novembre 2016:
 
 1. Correction des exercices [18 à 20 page 84](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/3.%20Derivation/Images/18-20p84.png): Tangentes et nombres dérivés.
 
-1. Exercices [31 et 32 page 84](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/3.%20Derivation/Images/31-32p84.png).
-
 1. Exercice [43 page 85](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/3.%20Derivation/Images/43p85.png): Fonctions admettant la même fonction dérivée.
 
 1. Exercice [42 page 85](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/3.%20Derivation/Images/42p85.png): Courbes tangentes.
 
 1. [Exercice 88 page 186](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/88p186.png): Logique, vecteurs et équations.
+
+1. Exercices [31 et 32 page 84](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/3.%20Derivation/Images/31-32p84.png): Equation de tangentes par lecture graphique.
 
 Devoirs:
 
