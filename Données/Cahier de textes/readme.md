@@ -26,9 +26,17 @@ après le contrôle
 
 1. [Exercice 52 page 182](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/52p182.png): Utilisation de la colinéarité pour trouver un intersection avec une droite parallèle.
 
+
+
+-->
+
 Jeudi 24 novembre 2016:
 
 1. Algorithmique exercice [89 page 186](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/89p186.png): Un programme pour étudier la position relative de deux droites.
+
+1. Exercices [18 à 20 page  84](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/3.%20Derivation/Images/18-20p84.png): Tangentes et nombres dérivés.
+
+1. Correction exercice [ 3 page 77](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/3.%20Derivation/Images/3p77.png): Tracer l'allure d'une courbe en utilisant ses tangentes.
 
 1. Exercice [30 page 84](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/3.%20Derivation/Images/30p84.png): Lecture graphique de nombres dérivés.
 
@@ -54,15 +62,11 @@ Pour lundi 28 novembre 2016:
 
 ---
 
--->
-
 Mardi 22 novembre 2016:
 
 [Présentation dérivation](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/3.%20Derivation/Pr%C3%A9sentation/Derivation.pdf).
 
 1. Théorème 11 et exemple 12: Variation de fonction et signe de la dérivée.
-
-1. Exercices [18 à 20 page  84](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/3.%20Derivation/Images/18-20p84.png): Tangentes et nombres dérivés.
 
 Devoirs:
 
