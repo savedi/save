@@ -93,8 +93,6 @@ Jeudi 24 novembre 2016:
 
 1. Exercices [18 à 20 page  84](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/3.%20Derivation/Images/18-20p84.png): Tangentes et nombres dérivés.
 
-1. Correction exercice [ 3 page 77](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/3.%20Derivation/Images/3p77.png): Tracer l'allure d'une courbe en utilisant ses tangentes.
-
 1. Exercice [30 page 84](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/3.%20Derivation/Images/30p84.png): Lecture graphique de nombres dérivés.
 
 1. Correction des exercices [18 à 20 page 84](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/3.%20Derivation/Images/18-20p84.png): Tangentes et nombres dérivés.
