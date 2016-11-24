@@ -17,14 +17,15 @@ après le contrôle
 
 1. [Exercice 52 page 182](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/52p182.png): Utilisation de la colinéarité pour trouver un intersection avec une droite parallèle.
 
+1. [Exercice 88 page 186](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/88p186.png): Logique, vecteurs et équations.
+
+1. Exercices [31 et 32 page 84](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/3.%20Derivation/Images/31-32p84.png): Equation de tangentes par lecture graphique.
 
 
 
 Jeudi 1er décembre 2016:
 
 1. Exercices [25 à 30 page 106](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/3.%20Derivation/Images/25-30p106.png): Exercices qu'on peut faire de tête.
-
-1. Exercice [52 page 88](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/3.%20Derivation/Images/52p86.png): Trajectoire d'un mobile.
 
 Devoirs:
 
@@ -102,9 +103,9 @@ Jeudi 24 novembre 2016:
 
 1. Exercice [42 page 85](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/3.%20Derivation/Images/42p85.png): Courbes tangentes.
 
-1. [Exercice 88 page 186](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/88p186.png): Logique, vecteurs et équations.
+1. Exercice [52 page 88](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/3.%20Derivation/Images/52p86.png): Trajectoire d'un mobile.
 
-1. Exercices [31 et 32 page 84](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/3.%20Derivation/Images/31-32p84.png): Equation de tangentes par lecture graphique.
+
 
 Devoirs:
 
