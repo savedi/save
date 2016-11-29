@@ -25,29 +25,13 @@ après le contrôle
 
 Jeudi 1er décembre 2016:
 
-1. Exercices [25 à 30 page 106](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/3.%20Derivation/Images/25-30p106.png): Exercices qu'on peut faire de tête.
-
-Devoirs:
-
-- Pour le lundi 5 décembre 2016:
-
-**Devoir à la maison**:
-
-1. Recopier le théorème 11 du cours.
-
-1. Faire l'exercice [13 page 100](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/3.%20Derivation/Images/13p100.png): Recherche d'un maximum dans un problème.
-
----
-
-Mardi 29 novembre 2016:
-
 1. Exercices [31 à 37 page 106](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/3.%20Derivation/Images/31-37p106.png): Entrainement au calcul de dérivées.
 
+1. Exercices [25 à 30 page 106](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/3.%20Derivation/Images/25-30p106.png): Exercices qu'on peut faire de tête.
+
+13 Exercice [58 page 88](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/3.%20Derivation/Images/58p88.png): Trouver les tangentes qui passent par un point.
+
 Devoirs:
-
-- Pour [jeudi 1er décembre 2016](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/23):
-
-Exercices [11 et 12 page 99](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/3.%20Derivation/Images/11-12p99.png): Etude des variations et des extremums locaux d'une fonction en utilisant sa dérivée.
 
 - Pour le lundi 5 décembre 2016:
 
@@ -58,7 +42,6 @@ Exercices [11 et 12 page 99](https://github.com/EdisonLorgues1SD1617/Math1SD1617
 1. Faire l'exercice [13 page 100](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/3.%20Derivation/Images/13p100.png): Recherche d'un maximum dans un problème.
 
 ---
-
 
 Lundi 28 novembre 2016:
 
