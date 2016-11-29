@@ -38,7 +38,7 @@ Devoirs:
 1. Faire l'exercice [13 page 100](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/3.%20Derivation/Images/13p100.png): Recherche d'un maximum dans un problème.
 
 ---
-
+-->
 Mardi 29 novembre 2016:
 
 1. Exercices [3& à 37 page 106](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/3.%20Derivation/Images/31-37p106.png): Entrainement au calcul de dérivées.
@@ -58,7 +58,7 @@ Exercices [11 et 12 page 99](https://github.com/EdisonLorgues1SD1617/Math1SD1617
 1. Faire l'exercice [13 page 100](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/3.%20Derivation/Images/13p100.png): Recherche d'un maximum dans un problème.
 
 ---
--->
+
 
 Lundi 28 novembre 2016:
 
