@@ -29,7 +29,7 @@ Jeudi 1er décembre 2016:
 
 1. Exercices [25 à 30 page 106](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/3.%20Derivation/Images/25-30p106.png): Exercices qu'on peut faire de tête.
 
-13 Exercice [58 page 88](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/3.%20Derivation/Images/58p88.png): Trouver les tangentes qui passent par un point.
+1. Exercice [58 page 88](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/3.%20Derivation/Images/58p88.png): Trouver les tangentes qui passent par un point.
 
 Devoirs:
 
