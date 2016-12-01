@@ -41,6 +41,10 @@ Devoirs:
 
 1. Faire l'exercice [13 page 100](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/3.%20Derivation/Images/13p100.png): Recherche d'un maximum dans un problème.
 
+- Pour [mardi 6 décembre 2016](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/24):
+
+Exercice [59 page 98](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/3.%20Derivation/Images/59p88.png): un problème de tangente à une parabole.
+
 ---
 
 Lundi 28 novembre 2016:
