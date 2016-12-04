@@ -23,6 +23,24 @@ après le contrôle
 
 -->
 
+Lundi 5 décembre 2016:
+
+1. Exercice [62  page 108](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/3.%20Derivation/Images/62p108.png): associer un graphe avec le graphe de sa dérivée.
+
+1. Exercice [67 page 109](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/3.%20Derivation/Images/67p109.png): Démonstration d'négalité.
+
+1. Exercice [69 page 109 ](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/3.%20Derivation/Images/69p109.pngVariations): Dérivées et encadrements.
+
+1. Exercice [80 page 111](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/3.%20Derivation/Images/80p111.png): Optimistion de volume.
+
+Devoirs:
+
+- Pour [mardi 6 décembre 2016](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/24):
+
+Exercice [59 page 98](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/3.%20Derivation/Images/59p88.png): un problème de tangente à une parabole.
+
+---
+
 Jeudi 1er décembre 2016:
 
 1. Exercices [31 à 37 page 106](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/3.%20Derivation/Images/31-37p106.png): Entrainement au calcul de dérivées.
