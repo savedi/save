@@ -29,7 +29,7 @@ Lundi 5 décembre 2016:
 
 1. Exercice [67 page 109](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/3.%20Derivation/Images/67p109.png): Démonstration d'inégalité.
 
-1. Exercice [69 page 109 ](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/3.%20Derivation/Images/69p109.pngVariations): Dérivées et encadrements.
+1. Exercice [69 page 109 ](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/3.%20Derivation/Images/69p109.png): Dérivées et encadrements.
 
 1. Exercice [80 page 111](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/3.%20Derivation/Images/80p111.png): Optimisation de volume.
 
