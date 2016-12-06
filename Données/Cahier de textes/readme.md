@@ -23,6 +23,22 @@ après le contrôle
 
 -->
 
+Mardi 6 décembre 2016:
+
+1. Activité sur la définition du nombre dérivé.
+
+1. Correction Exercice [59 page 98](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/3.%20Derivation/Images/59p88.png): un problème de tangente à une parabole.
+
+1. Exercice [65 page 89](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/3.%20Derivation/Images/65p89.png): Tangentes parallèles.
+
+Devoirs :
+
+- Pour [jeudi 8 décembre 2016](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/25):
+
+Exercices [66 et 67 page 89](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/3.%20Derivation/Images/66-67p89.png): Exercices avec prise d'initiative.
+
+-
+
 Lundi 5 décembre 2016:
 
 1. Exercice [62  page 108](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/3.%20Derivation/Images/62p108.png): Associer un graphe avec le graphe de sa dérivée.
