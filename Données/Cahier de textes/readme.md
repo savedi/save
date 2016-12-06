@@ -23,15 +23,26 @@ après le contrôle
 
 -->
 
-Mardi 6 décembre 2016:
-
-1. Activité sur la définition du nombre dérivé.
+Jeudi 8 décembre 2016:
 
 1. Correction Exercice [59 page 98](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/3.%20Derivation/Images/59p88.png): un problème de tangente à une parabole.
 
 1. Exercice [65 page 89](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/3.%20Derivation/Images/65p89.png): Tangentes parallèles.
 
 1. Exercice [80 page 111](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/3.%20Derivation/Images/80p111.png): Optimisation de volume.
+
+Devoirs:
+
+- Pour lundi 12 décembre 2016:
+
+
+---
+
+Mardi 6 décembre 2016:
+
+1. Activité sur la définition du nombre dérivé.
+
+1. Calcul de la dérivée de la fonction carrée et d'une fonction affine à l'aide du taux d'accroissement.
 
 Devoirs :
 
