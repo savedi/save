@@ -25,6 +25,8 @@ après le contrôle
 
 Jeudi 8 décembre 2016:
 
+1. Calcul de la dérivée de la fonction cube et de la fonction inverse en utilisant le taux d'accroissement.
+
 1. Correction Exercice [59 page 98](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/3.%20Derivation/Images/59p88.png): un problème de tangente à une parabole.
 
 1. Exercice [65 page 89](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/3.%20Derivation/Images/65p89.png): Tangentes parallèles.
@@ -35,12 +37,14 @@ Devoirs:
 
 - Pour lundi 12 décembre 2016:
 
+Exercices [7 et 8 page](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/3.%20Derivation/Images/7-8p98.png): Dérivées de quotients.
 
+Exercice [14 page 100](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/3.%20Derivation/Images/14p100.png): Optimisation de l'aire d'une surface.
 ---
 
 Mardi 6 décembre 2016:
 
-1. Activité sur la définition du nombre dérivé.
+1. Activité sur la définition du nombre dérivé comme limite du taux d'accroissement.
 
 1. Calcul de la dérivée de la fonction carrée et d'une fonction affine à l'aide du taux d'accroissement.
 
