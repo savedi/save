@@ -40,6 +40,7 @@ Devoirs:
 Exercices [7 et 8 page](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/3.%20Derivation/Images/7-8p98.png): Dérivées de quotients.
 
 Exercice [14 page 100](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/3.%20Derivation/Images/14p100.png): Optimisation de l'aire d'une surface.
+
 ---
 
 Mardi 6 décembre 2016:
