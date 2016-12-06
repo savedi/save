@@ -31,13 +31,15 @@ Mardi 6 décembre 2016:
 
 1. Exercice [65 page 89](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/3.%20Derivation/Images/65p89.png): Tangentes parallèles.
 
+1. 1. Exercice [80 page 111](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/3.%20Derivation/Images/80p111.png): Optimisation de volume.
+
 Devoirs :
 
 - Pour [jeudi 8 décembre 2016](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/25):
 
 Exercices [66 et 67 page 89](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/3.%20Derivation/Images/66-67p89.png): Exercices avec prise d'initiative.
 
--
+---
 
 Lundi 5 décembre 2016:
 
@@ -47,7 +49,7 @@ Lundi 5 décembre 2016:
 
 1. Exercice [69 page 109 ](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/3.%20Derivation/Images/69p109.png): Dérivées et encadrements.
 
-1. Exercice [80 page 111](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/3.%20Derivation/Images/80p111.png): Optimisation de volume.
+
 
 Devoirs:
 
