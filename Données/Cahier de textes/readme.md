@@ -27,7 +27,7 @@ Jeudi 8 décembre 2016:
 
 1. Calcul de la dérivée de la fonction cube et de la fonction inverse en utilisant le taux d'accroissement.
 
-1. Correction de l'xercice [59 page 98](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/3.%20Derivation/Images/59p88.png): un problème de tangente à une parabole.
+1. Correction de l'xercice [59 page 98](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/3.%20Derivation/Images/59p88.png): Un problème de tangente à une parabole.
 
 1. Exercice [65 page 89](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/3.%20Derivation/Images/65p89.png): Tangentes parallèles.
 
