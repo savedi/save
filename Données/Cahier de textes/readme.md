@@ -15,13 +15,22 @@ après le contrôle
 
 1. [Exercices 46 et 47 page 182](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/46-47p182.png): Colinéarité pour des vecteurs décomposés dans un repère.
 
-1. [Exercice 52 page 182](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/52p182.png): Utilisation de la colinéarité pour trouver un intersection avec une droite parallèle.
-
-1. [Exercice 88 page 186](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/88p186.png): Logique, vecteurs et équations.
-
-1. Exercices [31 et 32 page 84](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/3.%20Derivation/Images/31-32p84.png): Equation de tangentes par lecture graphique.
 
 -->
+
+Lundi 11 décembre 2016:
+
+1. Exercice [80 page 111](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/3.%20Derivation/Images/80p111.png): Optimisation de volume.
+
+1. Correction exercice [67 page 89](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/3.%20Derivation/Images/66-67p89.png): Exercices avec prise d'initiative.
+
+1. Exercice [88 page 113](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/3.%20Derivation/Images/88p113.png): Etude d'une cubique.
+
+Devoirs:
+
+- Pour mardi 13 décembre 2016:
+
+Contrôle avec des dérivées.
 
 Jeudi 8 décembre 2016:
 
@@ -33,9 +42,7 @@ Jeudi 8 décembre 2016:
 
 1. Exercice [65 page 89](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/3.%20Derivation/Images/65p89.png): Tangentes parallèles.
 
-1. Correction exercices [66 et 67 page 89](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/3.%20Derivation/Images/66-67p89.png): Exercices avec prise d'initiative.
-
-1. Exercice [80 page 111](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/3.%20Derivation/Images/80p111.png): Optimisation de volume.
+1. Correction exercices [66 page 89](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/3.%20Derivation/Images/66-67p89.png): Exercices avec prise d'initiative.
 
 Devoirs:
 
@@ -44,6 +51,10 @@ Devoirs:
 Exercices [7 et 8 page](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/3.%20Derivation/Images/7-8p98.png): Dérivées de quotients.
 
 Exercice [14 page 100](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/3.%20Derivation/Images/14p100.png): Optimisation de l'aire d'une surface.
+
+- Pour mardi 13 décembre 2016:
+
+Contrôle avec des dérivées.
 
 ---
 
