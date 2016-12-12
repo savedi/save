@@ -32,8 +32,6 @@ Devoirs:
 
 Contrôle avec des dérivées.
 
-- Pour jeudi 15 décembre 2016:
-
 - Pour mardi 3 janvier 2017:
 
 Devoir à la maison:
