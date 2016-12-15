@@ -24,10 +24,6 @@ Devinettes et jeux mathématiques.
 
 Devoirs:
 
-- Pour mardi 13 décembre 2016:
-
-Contrôle avec des dérivées.
-
 - Pour mardi 3 janvier 2017:
 
 Devoir à la maison:
