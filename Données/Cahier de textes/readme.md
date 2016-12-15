@@ -18,6 +18,32 @@ après le contrôle
 
 -->
 
+Jeudi 14 décembre 2016:
+
+Devinettes et jeux mathématiques.
+
+Devoirs:
+
+- Pour mardi 13 décembre 2016:
+
+Contrôle avec des dérivées.
+
+- Pour mardi 3 janvier 2017:
+
+Devoir à la maison:
+
+1. Donner la formule pour le taux d'accroissement d'une fonction g au point d'abscisse b pour une variation d'abscisse l.
+
+1. Exercice 66 page 109](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/3.%20Derivation/Images/66p109.png): Utiliser la dérivée seconde.
+
+---
+
+Mardi 12 décembre 2016:
+
+Contrôle avec des dérivées.
+
+---
+
 Lundi 11 décembre 2016:
 
 1. Exercice [80 page 111](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/3.%20Derivation/Images/80p111.png): Optimisation de volume.
