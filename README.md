@@ -1,6 +1,6 @@
 # [Cahier de textes](https://github.com/EdisonLorgues1SD1617/math1sd1617/blob/master/Donn%C3%A9es/Cahier%20de%20textes/readme.md)
 
-Pour mardi 13 décembre 2016:
+Pour mardi 3 janvier 2017:
 
 **Contrôle avec des dérivées**
 
