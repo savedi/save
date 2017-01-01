@@ -22,8 +22,8 @@ Mardi 3 janvier 2016:
 
 [Présentation sur les suites](https://github.com/EdisonLorgues1SD1617/Math1SD1617/raw/master/Donn%C3%A9es/Chapitres/4.%20Suites/Pr%C3%A9sentation/Suites.pdf)
 
-1. Définition 1: Suite numérique, exemple 2.
-1. Definition 3: Définition explicite d'une suite, exemple 4.
+1. Définition 1, exemple 2: Suite numérique.
+1. Definition 3, exemple 4: Définition explicite d'une suite.
 1. Exercice [52 page 132](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/52-53p132.png): Utiliser une forme explicite pour calculer des termes d'une suite.
 1. Théorème 5, exemple 6: Définition par récurrence.
 1. Exercices [54 à 56 page 132](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/54-56p132.png)
