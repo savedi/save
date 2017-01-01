@@ -16,7 +16,7 @@ après le contrôle
 1. [Exercices 46 et 47 page 182](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/46-47p182.png): Colinéarité pour des vecteurs décomposés dans un repère.
 
 
--->
+
 
 Mardi 3 janvier 2016:
 
@@ -24,6 +24,9 @@ Mardi 3 janvier 2016:
 
 1. Définition 1: Suite numérique, exemple 2.
 1. Definition 3: Définition explicite d'une suite, exemple 4.
+
+
+-->
 
 Jeudi 14 décembre 2016:
 
@@ -41,7 +44,7 @@ Devoir à la maison:
 
 - Pour [mardi 3 janvier 2016](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/27):
 
-Lire la partie 1 [Définition et mode de génération d'une suite](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/4.%20Suites/Polycopie/Suites.pdf) du cours polycopié sur les suites. 
+Lire la partie 1 [Définition et mode de génération d'une suite](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/4.%20Suites/Polycopie/Suites.pdf) du cours polycopié sur les suites.
 
 
 ---
