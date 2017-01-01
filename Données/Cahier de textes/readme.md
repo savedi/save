@@ -33,7 +33,7 @@ Devoirs:
 
 - Pour [jeudi 5 janvier 2016](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/28):
 
-1. Exercices [1 à 5 page 118](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/1-5p118.png): Calculs sur les puissances et isentités remarquables généralisées.
+1. Exercices [1 à 5 page 118](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/1-5p118.png): Calculs sur les puissances et identités remarquables généralisées.
 
 1. Activité [1 page 118](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/act1p118.png): Dénombrement nombre d'intervalles et nombre de bornes.
 
