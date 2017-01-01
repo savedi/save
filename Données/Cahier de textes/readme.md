@@ -43,6 +43,8 @@ Devoirs:
 
 Exercice [58 page 132](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/58p132.png): Ne pas confondre suites définies explicitement et suites définies par récurrence.
 
+---
+
 Jeudi 14 décembre 2016:
 
 Devinettes et jeux mathématiques.
