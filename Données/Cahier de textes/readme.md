@@ -17,6 +17,49 @@ après le contrôle
 
 -->
 
+Lundi 9 janvier 2016:
+
+1. Exercices [1 à 6 page 123](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/1-6p123.png): Reconnaitre si une suite est arithmétique ou pas.
+
+---
+
+Jeudi 5 janvier 2016:
+
+1. Activité nombre d'intervalles d'entiers.
+
+[Présentation sur les suites](https://github.com/EdisonLorgues1SD1617/Math1SD1617/raw/master/Donn%C3%A9es/Chapitres/4.%20Suites/Pr%C3%A9sentation/Suites.pdf).
+
+1. Définition 7, exemple 8, théorème 9: Suites arithmétiques et formes explicites.
+
+1. Exercices [37 à 39 page 132](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/37-39p132.png): Exercices à faire de tête.
+
+1. Exercices [40 à 43 page 132](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/40-43p132.png): Utilisation de la forme explicite pour une suite arithmétique.
+
+1. Exercices[](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/62-64p133.png): Reconnaitre une suite arithmétique.
+
+1. Exercices [](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/65-66p133.png): Appliquer la formule explicite pour un calcul de terme.
+
+1. Définition 10, exemple 11, théorème 12: Suites géométriques et formes explicites.
+
+1. Exercices [44 à 46 page 132](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/44-46p132.png): Exercices à faire de tête.
+
+1. Exercices [83 et 84 page 134](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/83-84p134.png): Reconnaître une suite géométrique.
+
+1. Exercices [85 à 90 page 134](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/85-90p134.png): Appliquer la formule explicite pour un calcul de terme.
+
+1. Exercice [82 page 134](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/82p134.png):
+Démontrer par un contre-exemple.
+
+1. Exercices [102 et 103 page 135](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/102-103p135.png):
+Sommes de termes en progression arithmétique ou géométrique.
+
+1. Exercices [110 à 112 page 135](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/110-112p135.png): Un problème de placement.
+
+1. Définition 13, exemple 14: Sens de variation.
+
+
+
+---
 
 Mardi 3 janvier 2016:
 
@@ -27,15 +70,15 @@ Mardi 3 janvier 2016:
 1. Exercice [52 page 132](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/52-53p132.png): Utiliser une forme explicite pour calculer des termes d'une suite.
 1. Théorème 5, exemple 6: Définition par récurrence.
 1. Exercices [54 à 56 page 132](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/54-56p132.png): conjectures de formes explicites de suites définies par récurrence.
-1. Exercice [57p132](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/57p132.png): Suite constante sur ses premiers termes.
+1. Exercice [57 page 132](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/57p132.png): Suite constante sur ses premiers termes.
 
 Devoirs:
 
 - Pour [jeudi 5 janvier 2016](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/28):
 
-1. Exercices [1 à 5 page 118](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/1-5p118.png): Calculs sur les puissances et identités remarquables généralisées.
-
 1. Activité [1 page 118](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/act1p118.png): Dénombrement nombre d'intervalles et nombre de bornes.
+
+1. Exercices [1 à 5 page 118](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/1-5p118.png): Calculs sur les puissances et identités remarquables généralisées.
 
 - Pour lundi 9 janvier 2016:
 
