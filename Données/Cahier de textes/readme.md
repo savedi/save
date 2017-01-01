@@ -26,7 +26,8 @@ Mardi 3 janvier 2016:
 1. Definition 3, exemple 4: Définition explicite d'une suite.
 1. Exercice [52 page 132](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/52-53p132.png): Utiliser une forme explicite pour calculer des termes d'une suite.
 1. Théorème 5, exemple 6: Définition par récurrence.
-1. Exercices [54 à 56 page 132](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/54-56p132.png)
+1. Exercices [54 à 56 page 132](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/54-56p132.png): conjectures de formes explicites de suites définies par récurrence.
+1. Exercice [57p132](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/57p132.png): Suite constante sur ses premiers termes.
 
 Devoirs:
 
@@ -36,6 +37,11 @@ Devoirs:
 
 1. Activité [1 page 118](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/act1p118.png): Dénombrement nombre d'intervalles et nombre de bornes.
 
+- Pour lundi 9 janvier 2016:
+
+**Devoir à la maison**:
+
+Exercice [58 page 132](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/58p132.png): Ne pas confondre suites définies explicitement et suites définies par récurrence.
 
 Jeudi 14 décembre 2016:
 
@@ -45,7 +51,7 @@ Devoirs:
 
 - Pour mardi 3 janvier 2017:
 
-Devoir à la maison:
+**Devoir à la maison**:
 
 1. Donner la formule pour le taux d'accroissement d'une fonction g au point d'abscisse b pour une variation d'abscisse k.
 
@@ -80,7 +86,7 @@ Contrôle avec des dérivées.
 
 - Pour mardi 3 janvier 2017:
 
-Devoir à la maison:
+**Devoir à la maison**:
 
 1. Donner la formule pour le taux d'accroissement d'une fonction g au point d'abscisse b pour une variation d'abscisse l.
 
