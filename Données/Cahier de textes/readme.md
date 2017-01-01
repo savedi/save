@@ -35,9 +35,9 @@ Jeudi 5 janvier 2016:
 
 1. Exercices [40 à 43 page 132](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/40-43p132.png): Utilisation de la forme explicite pour une suite arithmétique.
 
-1. Exercices[](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/62-64p133.png): Reconnaitre une suite arithmétique.
+1. Exercices[62 et 64 page 133](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/62-64p133.png): Reconnaitre une suite arithmétique.
 
-1. Exercices [](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/65-66p133.png): Appliquer la formule explicite pour un calcul de terme.
+1. Exercices [65 et 66 page 133](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/65-66p133.png): Appliquer la formule explicite pour un calcul de terme.
 
 1. Définition 10, exemple 11, théorème 12: Suites géométriques et formes explicites.
 
