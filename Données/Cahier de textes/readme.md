@@ -15,7 +15,7 @@ après le contrôle
 
 1. [Exercices 46 et 47 page 182](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/46-47p182.png): Colinéarité pour des vecteurs décomposés dans un repère.
 
-
+-->
 
 
 Mardi 3 janvier 2016:
@@ -24,9 +24,18 @@ Mardi 3 janvier 2016:
 
 1. Définition 1: Suite numérique, exemple 2.
 1. Definition 3: Définition explicite d'une suite, exemple 4.
+1. Exercice [52 page 132](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/52-53p132.png): Utiliser une forme explicite pour calculer des termes d'une suite.
+1. Théorème 5, exemple 6: Définition par récurrence.
+1. Exercices [54 à 56 page 132](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/54-56p132.png)
 
+Devoirs:
 
--->
+- Pour [jeudi 5 janvier 2016](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/28):
+
+1. Exercices [1 à 5 page 118](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/1-5p118.png): Calculs sur les puissances et isentités remarquables généralisées.
+
+1. Activité [1 page 118](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/act1p118.png): Dénombrement nombre d'intervalles et nombre de bornes.
+
 
 Jeudi 14 décembre 2016:
 
