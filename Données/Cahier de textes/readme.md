@@ -25,9 +25,9 @@ Lundi 9 janvier 2016:
 
 Jeudi 5 janvier 2016:
 
-1. Activité nombre d'intervalles d'entiers.
-
 [Présentation sur les suites](https://github.com/EdisonLorgues1SD1617/Math1SD1617/raw/master/Donn%C3%A9es/Chapitres/4.%20Suites/Pr%C3%A9sentation/Suites.pdf).
+
+1. Activité nombre d'intervalles d'entiers.
 
 1. Définition 7, exemple 8, théorème 9: Suites arithmétiques et formes explicites.
 
