@@ -15,7 +15,7 @@ après le contrôle
 
 1. [Exercices 46 et 47 page 182](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/46-47p182.png): Colinéarité pour des vecteurs décomposés dans un repère.
 
--->
+
 
 Lundi 9 janvier 2016:
 
@@ -90,6 +90,7 @@ Devoirs:
 
 Exercice [58 page 132](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/58p132.png): Ne pas confondre suites définies explicitement et suites définies par récurrence.
 
+-->
 ---
 
 Jeudi 14 décembre 2016:
