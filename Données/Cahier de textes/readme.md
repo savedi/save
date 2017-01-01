@@ -18,6 +18,13 @@ après le contrôle
 
 -->
 
+Mardi 3 janvier 2016:
+
+[Présentation sur les suites](https://github.com/EdisonLorgues1SD1617/Math1SD1617/raw/master/Donn%C3%A9es/Chapitres/4.%20Suites/Pr%C3%A9sentation/Suites.pdf)
+
+1. Définition 1: Suite numérique, exemple 2.
+1. Definition 3: Définition explicite d'une suite, exemple 4.
+
 Jeudi 14 décembre 2016:
 
 Devinettes et jeux mathématiques.
@@ -31,6 +38,11 @@ Devoir à la maison:
 1. Donner la formule pour le taux d'accroissement d'une fonction g au point d'abscisse b pour une variation d'abscisse k.
 
 1. Exercice [66 page 109](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/3.%20Derivation/Images/66p109.png): Utiliser la dérivée seconde.
+
+- Pour [mardi 3 janvier 2016](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/27):
+
+Lire la partie 1 [Définition et mode de génération d'une suite](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/4.%20Suites/Polycopie/Suites.pdf) du cours polycopié sur les suites. 
+
 
 ---
 
