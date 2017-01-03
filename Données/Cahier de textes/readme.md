@@ -26,6 +26,7 @@ Reconnaitre une suite géométrique.
 
 
 ---
+-->
 
 Jeudi 5 janvier 2016:
 
@@ -61,10 +62,7 @@ Sommes de termes en progression arithmétique ou géométrique.
 
 1. Définition 13, exemple 14: Sens de variation.
 
-
-
 ---
--->
 
 Mardi 3 janvier 2016:
 
