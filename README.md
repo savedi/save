@@ -2,9 +2,7 @@
 
 Pour mardi 3 janvier 2017:
 
-**Contrôle avec des dérivées**
-
-Devoir à la maison:
+**Devoir à la maison**:
 
 1. Donner la formule pour le taux d'accroissement d'une fonction g au point d'abscisse b pour une variation d'abscisse k.
 
