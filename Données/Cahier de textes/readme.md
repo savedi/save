@@ -85,6 +85,8 @@ Devoirs:
 
 1. Exercices [1 à 5 page 118](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/1-5p118.png): Calculs sur les puissances et identités remarquables généralisées.
 
+1. Lire et questionner les parties 2 et 3 [Suites arithmétiques et géométriques(https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/4.%20Suites/Polycopie/Suites.pdf) du cours polycopié.
+
 - Pour lundi 9 janvier 2016:
 
 **Devoir à la maison**:
