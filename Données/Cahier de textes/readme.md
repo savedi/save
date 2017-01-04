@@ -40,7 +40,7 @@ Jeudi 5 janvier 2016:
 
 1. Exercice [52 page 132](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/52-53p132.png): Utiliser une forme explicite pour calculer des termes d'une suite.
 
-1. Exercices [54 à 56 page 132](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/54-56p132.png): conjectures de formes explicites de suites définies par récurrence. 
+1. Exercices [54 à 56 page 132](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/54-56p132.png): Conjectures de formes explicites de suites définies par récurrence. 
 
 1. Activité nombre d'intervalles d'entiers.
 
