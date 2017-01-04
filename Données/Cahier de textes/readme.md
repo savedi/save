@@ -28,6 +28,12 @@ Reconnaitre une suite géométrique.
 ---
 
 
+
+
+
+---
+-->
+
 Jeudi 5 janvier 2016:
 
 [Présentation sur les suites](https://github.com/EdisonLorgues1SD1617/Math1SD1617/raw/master/Donn%C3%A9es/Chapitres/4.%20Suites/Pr%C3%A9sentation/Suites.pdf).
@@ -62,9 +68,11 @@ Sommes de termes en progression arithmétique ou géométrique.
 
 1. Définition 13, exemple 14: Sens de variation.
 
+1. Exercice [52 page 132](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/52-53p132.png): Utiliser une forme explicite pour calculer des termes d'une suite.
 
----
--->
+1. Exercices [54 à 56 page 132](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/54-56p132.png): conjectures de formes explicites de suites définies par récurrence.
+
+1. Exercice [57 page 132](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/57p132.png): Suite constante sur ses premiers termes.
 
 Mardi 3 janvier 2016:
 
@@ -72,10 +80,7 @@ Mardi 3 janvier 2016:
 
 1. Définition 1, exemple 2: Suite numérique.
 1. Definition 3, exemple 4: Définition explicite d'une suite.
-1. Exercice [52 page 132](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/52-53p132.png): Utiliser une forme explicite pour calculer des termes d'une suite.
 1. Théorème 5, exemple 6: Définition par récurrence.
-1. Exercices [54 à 56 page 132](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/54-56p132.png): conjectures de formes explicites de suites définies par récurrence.
-1. Exercice [57 page 132](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/57p132.png): Suite constante sur ses premiers termes.
 
 Devoirs:
 
