@@ -44,13 +44,13 @@ Jeudi 5 janvier 2017:
 
 1. Activité nombre d'intervalles d'entiers.
 
-1. Définition 7, exemple 8, théorème 9: Suites arithmétiques et formes explicites.
+1. Définition 7, exemple 8.
 
 1. Exercices [37 à 39 page 132](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/37-39p132.png): Exercices à faire de tête.
 
-1. Exercices [40 à 43 page 132](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/40-43p132.png): Utilisation de la forme explicite pour une suite arithmétique.
-
 1. Exercices [62 et 64 page 133](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/62-64p133.png): Reconnaitre une suite arithmétique.
+
+1. Théorème 9: Suites arithmétiques et formes explicites.
 
 1. Exercices [65 et 66 page 133](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/65-66p133.png): Appliquer la formule explicite pour un calcul de terme.
 
@@ -65,6 +65,7 @@ Jeudi 5 janvier 2017:
 1. Exercice [82 page 134](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/82p134.png):
 Démontrer par un contre-exemple.
 
+1. Exercices [40 à 43 page 132](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/40-43p132.png): Utilisation de la forme explicite pour une suite arithmétique.
 
 
 Devoirs:
