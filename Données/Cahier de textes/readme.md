@@ -34,7 +34,7 @@ Reconnaitre une suite géométrique.
 ---
 -->
 
-Jeudi 5 janvier 2016:
+Jeudi 5 janvier 2017:
 
 [Présentation sur les suites](https://github.com/EdisonLorgues1SD1617/Math1SD1617/raw/master/Donn%C3%A9es/Chapitres/4.%20Suites/Pr%C3%A9sentation/Suites.pdf).
 
@@ -69,13 +69,13 @@ Démontrer par un contre-exemple.
 
 Devoirs:
 
-- Pour lundi 9 janvier 2016:
+- Pour lundi 9 janvier 2017:
 
 **Devoir à la maison**:
 
 Exercice [58 page 132](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/58p132.png): Ne pas confondre suites définies explicitement et suites définies par récurrence.
 
-- Pour [mardi 10 janvier 2016](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/29):
+- Pour [mardi 10 janvier 2017](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/29):
 
 1. Lire la définition 13 et l'exemple 14 du polycopié: Sens de variation.
 
@@ -88,7 +88,7 @@ Sommes de termes en progression arithmétique ou géométrique.
 
 ---
 
-Mardi 3 janvier 2016:
+Mardi 3 janvier 2017:
 
 [Présentation sur les suites](https://github.com/EdisonLorgues1SD1617/Math1SD1617/raw/master/Donn%C3%A9es/Chapitres/4.%20Suites/Pr%C3%A9sentation/Suites.pdf)
 
@@ -98,7 +98,7 @@ Mardi 3 janvier 2016:
 
 Devoirs:
 
-- Pour [jeudi 5 janvier 2016](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/28):
+- Pour [jeudi 5 janvier 2017](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/28):
 
 1. Activité [1 page 118](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/act1p118.png): Dénombrement nombre d'intervalles et nombre de bornes.
 
@@ -106,7 +106,7 @@ Devoirs:
 
 1. Lire et questionner les parties 2 et 3 [Suites arithmétiques et géométriques](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/4.%20Suites/Polycopie/Suites.pdf) du cours polycopié.
 
-- Pour lundi 9 janvier 2016:
+- Pour lundi 9 janvier 2017:
 
 **Devoir à la maison**:
 
