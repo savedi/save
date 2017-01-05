@@ -75,7 +75,7 @@ Devoirs:
 
 Exercice [58 page 132](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/58p132.png): Ne pas confondre suites définies explicitement et suites définies par récurrence.
 
-- Pour mardi 10 janvier 2016:
+- Pour [mardi 10 janvier 2016](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/29):
 
 1. Lire la définition 13 et l'exemple 14 du polycopié: Sens de variation.
 
