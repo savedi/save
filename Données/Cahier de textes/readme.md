@@ -65,14 +65,7 @@ Jeudi 5 janvier 2016:
 1. Exercice [82 page 134](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/82p134.png):
 Démontrer par un contre-exemple.
 
-1. Exercices [102 et 103 page 135](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/102-103p135.png):
-Sommes de termes en progression arithmétique ou géométrique.
 
-1. Exercices [110 à 112 page 135](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/110-112p135.png): Un problème de placement.
-
-1. Définition 13, exemple 14: Sens de variation.
-
-1. Exercice [57 page 132](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/57p132.png): Suite constante sur ses premiers termes.
 
 Devoirs:
 
@@ -82,7 +75,16 @@ Devoirs:
 
 Exercice [58 page 132](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/58p132.png): Ne pas confondre suites définies explicitement et suites définies par récurrence.
 
+- Pour mardi 10 janvier 2016:
 
+1. Lire la définition 13 et l'exemple 14 du polycopié: Sens de variation.
+
+1. Exercices [102 et 103 page 135](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/102-103p135.png):
+Sommes de termes en progression arithmétique ou géométrique.
+
+1. Exercices [110 à 112 page 135](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/110-112p135.png): Un problème de placement.
+
+1. Exercice [57 page 132](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/57p132.png): Suite constante sur ses premiers termes.
 
 ---
 
