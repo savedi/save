@@ -40,7 +40,7 @@ Jeudi 5 janvier 2016:
 
 1. Exercice [52 page 132](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/52-53p132.png): Utiliser une forme explicite pour calculer des termes d'une suite.
 
-1. Exercices [54 à 56 page 132](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/54-56p132.png): Conjectures de formes explicites de suites définies par récurrence. 
+1. Exercices [54 à 56 page 132](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/54-56p132.png): Conjectures de formes explicites de suites définies par récurrence.
 
 1. Activité nombre d'intervalles d'entiers.
 
@@ -73,6 +73,18 @@ Sommes de termes en progression arithmétique ou géométrique.
 1. Définition 13, exemple 14: Sens de variation.
 
 1. Exercice [57 page 132](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/57p132.png): Suite constante sur ses premiers termes.
+
+Devoirs:
+
+- Pour lundi 9 janvier 2016:
+
+**Devoir à la maison**:
+
+Exercice [58 page 132](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/58p132.png): Ne pas confondre suites définies explicitement et suites définies par récurrence.
+
+
+
+---
 
 Mardi 3 janvier 2016:
 
