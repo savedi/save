@@ -45,7 +45,7 @@ Lundi 9 janvier 2016:
 
 1. Exercices [1 à 6 page 123](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/1-6p123.png): Reconnaitre une suite arithmétique.
 
-1. Exercices [7 à 10 page 124](https://github.com/EdisonLorgues1SD1617/Math1SD1617/raw/master/Donn%C3%A9es/Chapitres/4.%20Suites/Pr%C3%A9sentation/Suites.pdf):
+1. Exercices [7 à 10 page 124](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/7-11p124.png):
 Reconnaitre une suite géométrique.
 
 ---
