@@ -48,6 +48,16 @@ Lundi 9 janvier 2016:
 1. Exercices [7 à 10 page 124](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/7-11p124.png):
 Reconnaitre une suite géométrique.
 
+- Pour [mardi 10 janvier 2017](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/29):
+
+1. Lire la définition 13 et l'exemple 14 du polycopié: Sens de variation.
+
+1. Exercices [102 et 103 page 135](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/102-103p135.png):
+Sommes de termes en progression arithmétique ou géométrique.
+
+1. Exercices [110 à 112 page 135](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/110-112p135.png): Un problème de placement.
+
+1. Exercice [57 page 132](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/57p132.png): Suite constante sur ses premiers termes.
 ---
 
 Jeudi 5 janvier 2017:
