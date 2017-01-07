@@ -17,12 +17,7 @@ après le contrôle
 
 
 
-Lundi 9 janvier 2016:
 
-1. Exercices [1 à 6 page 123](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/1-6p123.png): Reconnaitre une suite arithmétique.
-
-1. Exercices [7 à 10 page 124]([Présentation sur les suites](https://github.com/EdisonLorgues1SD1617/Math1SD1617/raw/master/Donn%C3%A9es/Chapitres/4.%20Suites/Pr%C3%A9sentation/Suites.pdf):
-Reconnaitre une suite géométrique.
 
 
 ---
@@ -33,6 +28,27 @@ Reconnaitre une suite géométrique.
 
 ---
 -->
+
+Mardi 10 janvier 2016:
+
+1. Exercices [83 et 84 page 134](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/83-84p134.png): Reconnaître une suite géométrique.
+
+1. Exercices [85 à 90 page 134](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/85-90p134.png): Appliquer la formule explicite pour un calcul de terme.
+
+1. Exercice [82 page 134](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/82p134.png):
+Démontrer par un contre-exemple.
+
+1. Exercices [40 à 43 page 132](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/40-43p132.png): Utilisation de la forme explicite pour une suite arithmétique.
+
+---
+Lundi 9 janvier 2016:
+
+1. Exercices [1 à 6 page 123](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/1-6p123.png): Reconnaitre une suite arithmétique.
+
+1. Exercices [7 à 10 page 124]([Présentation sur les suites](https://github.com/EdisonLorgues1SD1617/Math1SD1617/raw/master/Donn%C3%A9es/Chapitres/4.%20Suites/Pr%C3%A9sentation/Suites.pdf):
+Reconnaitre une suite géométrique.
+
+---
 
 Jeudi 5 janvier 2017:
 
@@ -57,16 +73,6 @@ Jeudi 5 janvier 2017:
 1. Définition 10, exemple 11, théorème 12: Suites géométriques et formes explicites.
 
 1. Exercices [44 à 46 page 132](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/44-46p132.png): Exercices à faire de tête.
-
-1. Exercices [83 et 84 page 134](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/83-84p134.png): Reconnaître une suite géométrique.
-
-1. Exercices [85 à 90 page 134](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/85-90p134.png): Appliquer la formule explicite pour un calcul de terme.
-
-1. Exercice [82 page 134](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/82p134.png):
-Démontrer par un contre-exemple.
-
-1. Exercices [40 à 43 page 132](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/40-43p132.png): Utilisation de la forme explicite pour une suite arithmétique.
-
 
 Devoirs:
 
