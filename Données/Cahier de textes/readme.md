@@ -41,7 +41,7 @@ Démontrer par un contre-exemple.
 1. Exercices [40 à 43 page 132](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/40-43p132.png): Utilisation de la forme explicite pour une suite arithmétique.
 
 ---
-Lundi 9 janvier 2016:
+
 
 1. Exercices [1 à 6 page 123](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/1-6p123.png): Reconnaitre une suite arithmétique.
 
@@ -61,6 +61,29 @@ Sommes de termes en progression arithmétique ou géométrique.
 
 ---
 -->
+
+Lundi 9 janvier 2016:
+
+1. Exercices [19 à 24 page 126](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/19-24p126.png): Sommes de termes consécutifs de suites arithmétiques et géométriques.
+
+1. Exercices [12 à 15 page 125](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/12-15p125.png): Calcul de termes d'une suite arithmétique.
+
+1. Exercices [16 à 18 page 125](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/16-18p125.png): Calcul de termes d'une suite géométriques.
+
+Devoirs:
+
+- Pour [mardi 10 janvier 2017](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/29):
+
+1. Lire la définition 13 et l'exemple 14 du polycopié: Sens de variation.
+
+1. Exercices [102 et 103 page 135](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/102-103p135.png):
+Sommes de termes en progression arithmétique ou géométrique.
+
+1. Exercices [110 à 112 page 135](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/110-112p135.png): Un problème de placement.
+
+1. Exercice [57 page 132](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/57p132.png): Suite constante sur ses premiers termes.
+
+---
 
 Jeudi 5 janvier 2017:
 
