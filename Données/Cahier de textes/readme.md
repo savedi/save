@@ -83,6 +83,14 @@ Sommes de termes en progression arithmétique ou géométrique.
 
 1. Exercice [57 page 132](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/57p132.png): Suite constante sur ses premiers termes.
 
+Pour [jeudi 12 janvier 2017](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/30):
+
+1. Exercices [1 et 2 page 142](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/1-2p142.png): Comparaison de termes de suite.
+
+1. Exercice [115 page 136](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/115p136.png): Algorithmique, comprendre un algorithme.
+
+1. Exercice [116 page 136](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/116p136.png): Ecrire un algorithme.
+
 ---
 
 Jeudi 5 janvier 2017:
