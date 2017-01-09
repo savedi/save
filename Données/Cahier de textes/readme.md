@@ -51,7 +51,7 @@ Reconnaitre une suite géométrique.
 
 1. Exercices [16 à 18 page 125](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/16-18p125.png): Calcul de termes d'une suite géométriques.
 ---
--->
+
 
 Mardi 10 janvier 2016:
 
@@ -83,7 +83,7 @@ Devoirs:
 1. Exercice [82 page 134](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/82p134.png):
 Démontrer par un contre-exemple.
 ---
-
+-->
 Lundi 9 janvier 2017:
 
 1. Exercices [19 à 24 page 126](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/19-24p126.png): Sommes de termes consécutifs de suites arithmétiques et géométriques.
