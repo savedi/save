@@ -29,7 +29,7 @@ après le contrôle
 ---
 
 
-Mardi 10 janvier 2016:
+
 
 1. Exercices [83 et 84 page 134](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/83-84p134.png): Reconnaître une suite géométrique.
 
@@ -47,16 +47,48 @@ Mardi 10 janvier 2016:
 1. Exercices [7 à 10 page 124](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/7-11p124.png):
 Reconnaitre une suite géométrique.
 
----
--->
-
-Lundi 9 janvier 2016:
-
-1. Exercices [19 à 24 page 126](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/19-24p126.png): Sommes de termes consécutifs de suites arithmétiques et géométriques.
-
 1. Exercices [12 à 15 page 125](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/12-15p125.png): Calcul de termes d'une suite arithmétique.
 
 1. Exercices [16 à 18 page 125](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/16-18p125.png): Calcul de termes d'une suite géométriques.
+---
+-->
+
+Mardi 10 janvier 2016:
+
+1. Exercices [30 à 33 page 158](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/30-33p158.png): Conjectures concernant un sens de variation de suite.
+
+1. Définition 13, exemple 14: Sens de variation d'une suite.
+
+1. Exercices [41 et 42 page 158](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/41-42p158.png): Démonstration d'un sens de variation de suite.
+
+Devoirs:
+
+
+- Pour [jeudi 12 janvier 2017](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/30):
+
+1. Exercices [1 et 2 page 142](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/1-2p142.png): Comparaison de termes de suite.
+
+1. Exercice [115 page 136](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/115p136.png): Algorithmique, comprendre un algorithme.
+
+1. Exercice [116 page 136](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/116p136.png): Ecrire un algorithme.
+
+- Pour lundi 16 janvier 2017:
+
+**Devoir à la maison**:
+
+1. Donner sans démonstration une formule pour calculer 1+q+q^2+...+q^n.
+
+1. Donner sans démonstration une formule permettant de calculer 1+2+3+...+n.
+
+1. Exercice [82 page 134](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/82p134.png):
+Démontrer par un contre-exemple.
+---
+
+Lundi 9 janvier 2017:
+
+1. Exercices [19 à 24 page 126](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/19-24p126.png): Sommes de termes consécutifs de suites arithmétiques et géométriques.
+
+
 
 Devoirs:
 
