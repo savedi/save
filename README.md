@@ -8,6 +8,9 @@
 
 1. Donner sans démonstration une formule permettant de calculer 1+2+3+...+n.
 
+1. Exercice [82 page 134](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/82p134.png):
+Démontrer par un contre-exemple.
+
 ## Chapitre en cours: Suites numériques.
 
 - [Présentation](https://github.com/EdisonLorgues1SD1617/Math1SD1617/raw/master/Donn%C3%A9es/Chapitres/4.%20Suites/Pr%C3%A9sentation/Suites.pdf)
