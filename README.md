@@ -1,10 +1,12 @@
 # [Cahier de textes](https://github.com/EdisonLorgues1SD1617/math1sd1617/blob/master/Donn%C3%A9es/Cahier%20de%20textes/readme.md)
 
-- Pour lundi 9 janvier 2016:
+- Pour lundi 16 janvier 2017:
 
 **Devoir à la maison**:
 
-Exercice [58 page 132](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/58p132.png): Ne pas confondre suites définies explicitement et suites définies par récurrence.
+1. Donner sans démonstration une formule pour calculer 1+q+q^2+...+q^n.
+
+1. Donner sans démonstration une formule permettant de calculer 1+2+3+...+n.
 
 ## Chapitre en cours: Suites numériques.
 

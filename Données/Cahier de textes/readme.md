@@ -35,8 +35,7 @@ Mardi 10 janvier 2016:
 
 1. Exercices [85 à 90 page 134](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/85-90p134.png): Appliquer la formule explicite pour un calcul de terme.
 
-1. Exercice [82 page 134](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/82p134.png):
-Démontrer par un contre-exemple.
+
 
 1. Exercices [40 à 43 page 132](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/40-43p132.png): Utilisation de la forme explicite pour une suite arithmétique.
 
@@ -47,17 +46,6 @@ Démontrer par un contre-exemple.
 
 1. Exercices [7 à 10 page 124](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/7-11p124.png):
 Reconnaitre une suite géométrique.
-
-- Pour [mardi 10 janvier 2017](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/29):
-
-1. Lire la définition 13 et l'exemple 14 du polycopié: Sens de variation.
-
-1. Exercices [102 et 103 page 135](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/102-103p135.png):
-Sommes de termes en progression arithmétique ou géométrique.
-
-1. Exercices [110 à 112 page 135](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/110-112p135.png): Un problème de placement.
-
-1. Exercice [57 page 132](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/57p132.png): Suite constante sur ses premiers termes.
 
 ---
 -->
@@ -83,13 +71,24 @@ Sommes de termes en progression arithmétique ou géométrique.
 
 1. Exercice [57 page 132](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/57p132.png): Suite constante sur ses premiers termes.
 
-Pour [jeudi 12 janvier 2017](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/30):
+- Pour [jeudi 12 janvier 2017](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/30):
 
 1. Exercices [1 et 2 page 142](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/1-2p142.png): Comparaison de termes de suite.
 
 1. Exercice [115 page 136](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/115p136.png): Algorithmique, comprendre un algorithme.
 
 1. Exercice [116 page 136](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/116p136.png): Ecrire un algorithme.
+
+- Pour lundi 16 janvier 2017:
+
+**Devoir à la maison**:
+
+1. Donner sans démonstration une formule pour calculer 1+q+q^2+...+q^n.
+
+1. Donner sans démonstration une formule permettant de calculer 1+2+3+...+n.
+
+1. Exercice [82 page 134](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/82p134.png):
+Démontrer par un contre-exemple.
 
 ---
 
