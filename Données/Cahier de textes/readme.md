@@ -51,6 +51,12 @@ Reconnaitre une suite géométrique.
 
 1. Exercices [16 à 18 page 125](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/16-18p125.png): Calcul de termes d'une suite géométriques.
 ---
+
+Jeudi 12 janvier 2016:
+
+1. Exercices [41 et 42 page 158](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/41-42p158.png): Démonstration d'un sens de variation de suite.
+
+
 -->
 
 Mardi 10 janvier 2016:
@@ -59,7 +65,8 @@ Mardi 10 janvier 2016:
 
 1. Définition 13, exemple 14: Sens de variation d'une suite.
 
-1. Exercices [41 et 42 page 158](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/41-42p158.png): Démonstration d'un sens de variation de suite.
+1. Correction exercices [102 et 103 page 135](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/102-103p135.png):
+Sommes de termes en progression arithmétique ou géométrique.
 
 Devoirs:
 
