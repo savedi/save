@@ -54,8 +54,17 @@ Reconnaitre une suite géométrique.
 
 Jeudi 12 janvier 2017:
 
+1. Exemple 14: Variations de suites.
+
 1. Exercices [41 et 42 page 158](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/41-42p158.png): Démonstration d'un sens de variation de suite.
 
+1. Exercices [3 à 6 page 142](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/3-6p142.png): Variation de fonction et variation de suite.
+
+1. Théorème 15 et exemple 16: Variations d'une suite arithmétique.
+
+1. Théorème 17, exemple 18: Variations d'une suite géométrique.
+
+1. Exercices [7 et 8 page 142](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/7-8p142.png): Utilisation d'une boucle tant que pour trouver le premier terme d'une suite vérifiant une condition.
 
 -->
 
@@ -63,7 +72,7 @@ Mardi 10 janvier 2017:
 
 1. Exercices [30 à 33 page 158](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/30-33p158.png): Conjectures concernant un sens de variation de suite.
 
-1. Définition 13, exemple 14: Sens de variation d'une suite.
+1. [Définition 13](https://github.com/EdisonLorgues1SD1617/Math1SD1617/raw/master/Donn%C3%A9es/Chapitres/4.%20Suites/Pr%C3%A9sentation/Suites.pdf), exemple 14: Sens de variation d'une suite.
 
 1. Correction exercices [102 et 103 page 135](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/102-103p135.png):
 Sommes de termes en progression arithmétique ou géométrique.
