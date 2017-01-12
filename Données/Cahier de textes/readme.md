@@ -52,9 +52,11 @@ Reconnaitre une suite géométrique.
 1. Exercices [16 à 18 page 125](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/16-18p125.png): Calcul de termes d'une suite géométriques.
 ---
 
+-->
+
 Jeudi 12 janvier 2017:
 
-1. Exemple 14: Variations de suites.
+1. [Exemple 14]((https://github.com/EdisonLorgues1SD1617/Math1SD1617/raw/master/Donn%C3%A9es/Chapitres/4.%20Suites/Pr%C3%A9sentation/Suites.pdf)): Variations de suites.
 
 1. Exercices [41 et 42 page 158](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/41-42p158.png): Démonstration d'un sens de variation de suite.
 
@@ -66,7 +68,7 @@ Jeudi 12 janvier 2017:
 
 1. Exercices [7 et 8 page 142](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/7-8p142.png): Utilisation d'une boucle tant que pour trouver le premier terme d'une suite vérifiant une condition.
 
--->
+---
 
 Mardi 10 janvier 2017:
 
