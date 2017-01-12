@@ -68,6 +68,27 @@ Jeudi 12 janvier 2017:
 
 1. Exercices [7 et 8 page 142](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/7-8p142.png): Utilisation d'une boucle tant que pour trouver le premier terme d'une suite vérifiant une condition.
 
+Devoirs:
+
+- Pour lundi 16 janvier 2017:
+
+**Devoir à la maison**:
+
+1. Donner sans démonstration une formule pour calculer 1+q+q^2+...+q^n.
+
+1. Donner sans démonstration une formule permettant de calculer 1+2+3+...+n.
+
+1. Exercice [82 page 134](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/82p134.png):
+Démontrer par un contre-exemple.
+
+- Pour [mardi 17 janvier 2017](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/31):
+
+1. Exercice [45 page 158](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/45p158.png): Produire un contre exemple graphique.
+
+1. Exercice [48 page 159](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/48p159.png): Algorithmique: rebonds d'une balle.
+
+1. Exercice [60 page 160](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/60p160.png): Problème de parts.
+
 ---
 
 Mardi 10 janvier 2017:
