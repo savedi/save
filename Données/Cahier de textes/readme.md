@@ -54,6 +54,32 @@ Reconnaitre une suite géométrique.
 
 -->
 
+Lundi 16 janvier 2017:
+
+1. Exercices [7 et 8 page 142](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/7-8p142.png): Utilisation d'une boucle conditionnelle.
+
+1. Activité [algorithmique sur les suites](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/4.%20Suites/Activit%C3%A9s/Algorithmique/suite.pdf).
+
+Devoirs:
+
+- Pour [mardi 17 janvier 2017](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/31):
+
+1. Exercice [45 page 158](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/45p158.png): Produire un contre exemple graphique.
+
+1. Exercice [48 page 159](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/48p159.png): Algorithmique: rebonds d'une balle.
+
+1. Exercice [60 page 160](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/60p160.png): Problème de parts.
+
+- Pour [jeudi 19 janvier 2017](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/32):
+
+1. Exercice [61 page 133](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/61p133.png): Algorithme de calcul de termes d'une suite.
+
+1. Exercice [78 page 133](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/78p133.png): Opérations sur des suites arithmétiques.
+
+
+
+---
+
 Jeudi 12 janvier 2017:
 
 1. Inscription olympiades de mathématiques.
