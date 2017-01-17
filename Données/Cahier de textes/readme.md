@@ -53,12 +53,42 @@ Reconnaitre une suite géométrique.
 ---
 
 -->
+Mardi 17 janvier 2017:
+
+1. Activité [algorithmique sur les suites](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/4.%20Suites/Activit%C3%A9s/Algorithmique/suite.pdf): 2) Calcul de termes d'une suite définie par récurrence.
+
+1. Correction [exercice 1 et 2 page 242](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/1-2p142.png): Comparaison de terme de suites explicites.
+
+1. Correction [exercice 115 page 136](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/115p136.png): Calcul d'une somme.
+
+1. Correction exercice [5 page 132] (https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/57p132.png): premiers termes d'une suite.
+
+1. Correction exercice [110 page 135](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/110-112p135.png): Un problème de placement.
+
+Devoirs:
+
+- Pour [jeudi 19 janvier 2017](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/32):
+
+1. Exercice [61 page 133](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/61p133.png): Algorithme de calcul de termes d'une suite.
+
+1. Exercice [78 page 133](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/78p133.png): Opérations sur des suites arithmétiques.- Pour [jeudi 19 janvier 2017](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/32):
+
+1. Exercice [61 page 133](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/61p133.png): Algorithme de calcul de termes d'une suite.
+
+1. Exercice [78 page 133](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/78p133.png): Opérations sur des suites arithmétiques.
+
+- Pour jeudi 26 janvier 2017:
+
+Contrôle avec des suites.
+
+
+---
 
 Lundi 16 janvier 2017:
 
 1. Exercices [7 et 8 page 142](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/7-8p142.png): Utilisation d'une boucle conditionnelle.
 
-1. Activité [algorithmique sur les suites](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/4.%20Suites/Activit%C3%A9s/Algorithmique/suite.pdf).
+1. Activité [algorithmique sur les suites](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/4.%20Suites/Activit%C3%A9s/Algorithmique/suite.pdf): 1) Calcul de termes d'une suite définie explicitement.
 
 Devoirs:
 
