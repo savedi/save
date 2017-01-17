@@ -77,6 +77,7 @@ Devoirs:
 - Pour jeudi 26 janvier 2017:
 
 Contrôle avec des suites.
+
 ---
 
 Lundi 16 janvier 2017:
