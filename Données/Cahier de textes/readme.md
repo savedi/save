@@ -74,6 +74,7 @@ Devoirs:
 1. Exercice [61 page 133](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/61p133.png): Algorithme de calcul de termes d'une suite.
 
 1. Exercice [78 page 133](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/78p133.png): Opérations sur des suites arithmétiques.
+
 - Pour jeudi 26 janvier 2017:
 
 Contrôle avec des suites.
