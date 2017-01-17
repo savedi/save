@@ -59,7 +59,7 @@ Mardi 17 janvier 2017:
 
 1. Correction [exercice 1 et 2 page 242](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/1-2p142.png): Comparaison de terme de suites explicites.
 
-1. FOrme explicite pour la suite définie par $u_0=1$ et $u_{n+1}=3u_n+2$.
+1. FOrme explicite pour la suite définie par u_0=1 et u_{n+1}=3u_n+2.
 
 1. Correction [exercice 115 page 136](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/115p136.png): Calcul d'une somme.
 
