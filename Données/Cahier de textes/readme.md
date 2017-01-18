@@ -141,8 +141,6 @@ Jeudi 12 janvier 2017:
 
 1. Théorème 17, exemple 18: Variations d'une suite géométrique.
 
-1. Exercices [7 et 8 page 142](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/7-8p142.png): Utilisation d'une boucle tant que pour trouver le premier terme d'une suite vérifiant une condition.
-
 Devoirs:
 
 - Pour lundi 16 janvier 2017:
