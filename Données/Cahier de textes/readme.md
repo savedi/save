@@ -71,6 +71,8 @@ u_0=0.5 et u_{n+1}=3u_n/(1+2u_n). Utiliser la suite auxiliaire v_n=u_n/(1-u_n). 
 
 1. Activité [algorithmique sur les suites](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/4.%20Suites/Activit%C3%A9s/Algorithmique/suite.pdf): 5) et 6) Calculs de sommes.
 
+1. Forme explicite de la suite définie par récurrence par u_0=1 et u_{n+1}=0.5u_n+2. Utilisation de la suite auxiliaire v_n=u_n-4.
+
 1. Correcton eercice [45 page 158](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/45p158.png): Produire un contre exemple graphique.
 
 1. Correction exercice [60 page 160](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/60p160.png): Problème de parts.
