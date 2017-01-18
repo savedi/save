@@ -63,10 +63,17 @@ Jeudi 19 janvier 2017:
 1. Correction exercice [110 page 135](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/110-112p135.png): Un problème de placement.
 
 1. Forme explicite de la suite définie par récurrence:
-u_0=0.5 et u_{n+1}=3u_n/(1+2u_n). Utiliser la suite auxiliairev_n=u_n/(1-u_n). (Extrait bac 2013)
+u_0=0.5 et u_{n+1}=3u_n/(1+2u_n). Utiliser la suite auxiliaire v_n=u_n/(1-u_n). (Extrait bac 2013)
 
 1. Correction [exercice 115 page 136](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/115p136.png): Calcul d'une somme.
 
+1. Correction exercice [78 page 133](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/78p133.png): Opérations sur des suites arithmétiques.
+
+1. Activité [algorithmique sur les suites](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/4.%20Suites/Activit%C3%A9s/Algorithmique/suite.pdf): 5) et 6) Calculs de sommes.
+
+1. Exercice [45 page 158](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/45p158.png): Produire un contre exemple graphique.
+
+1. Exercice [60 page 160](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/60p160.png): Problème de parts.
 ---
 
 Mardi 17 janvier 2017:
@@ -76,10 +83,6 @@ Mardi 17 janvier 2017:
 1. Correction [exercice 1 et 2 page 242](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/1-2p142.png): Comparaison de terme de suites explicites.
 
 1. Forme explicite pour la suite définie par u_0=1 et u_{n+1}=3u_n+2.
-
-
-
-
 
 Devoirs:
 
