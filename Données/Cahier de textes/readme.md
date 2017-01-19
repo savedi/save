@@ -56,6 +56,8 @@ Reconnaitre une suite géométrique.
 
 Jeudi 19 janvier 2017:
 
+1. Préparation pour les olympiades.
+
 1. Correction du devoir à la maison: Exercice [82 page 134](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/82p134.png):
 Démontrer par un contre-exemple.
 
