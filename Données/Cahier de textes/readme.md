@@ -56,6 +56,11 @@ Reconnaitre une suite géométrique.
 
 Jeudi 19 janvier 2017:
 
+1. Correction du devoir à la maison: 1. Exercice [82 page 134](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/82p134.png):
+Démontrer par un contre-exemple.
+
+1. Exercices [7 à 11 page 124](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/7-11p124.png): reconnaitre une suite géométrique.
+
 1. Activité [algorithmique sur les suites](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/4.%20Suites/Activit%C3%A9s/Algorithmique/suite.pdf): 3) et 4) Trouver le premier terme vérifiant une condition.
 
 1. Correction exercice [5 page 132] (https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/57p132.png): premiers termes d'une suite.
@@ -76,6 +81,22 @@ u_0=0.5 et u_{n+1}=3u_n/(1+2u_n). Utiliser la suite auxiliaire v_n=u_n/(1-u_n). 
 1. Correcton eercice [45 page 158](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/45p158.png): Produire un contre exemple graphique.
 
 1. Correction exercice [60 page 160](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/60p160.png): Problème de parts.
+
+Devoirs:
+
+- Pour lundi 23 janvier 2017:
+
+1. Refaire l'activité [algorithmique sur les suites](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/4.%20Suites/Activit%C3%A9s/Algorithmique/suite.pdf).
+
+1. Faire une fiche sur les compétences pour le chapitre sur les suites.
+
+- Pour mardi 24 janvier 2017:
+
+1. Préparer la séance de révision en prévoyant des questions.
+
+- Pour jeudi 26 janvier 2017:
+
+Contrôle avec des suites et des algorithmes.
 
 ---
 
