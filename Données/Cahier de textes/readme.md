@@ -86,17 +86,17 @@ u_0=0.5 et u_{n+1}=3u_n/(1+2u_n). Utiliser la suite auxiliaire v_n=u_n/(1-u_n). 
 
 Devoirs:
 
-- Pour lundi 23 janvier 2017:
+- Pour [lundi 23 janvier 2017](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/33):
 
 1. Refaire l'activité [algorithmique sur les suites](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/4.%20Suites/Activit%C3%A9s/Algorithmique/suite.pdf).
 
 1. Faire une fiche sur les compétences pour le chapitre sur les suites.
 
-- Pour mardi 24 janvier 2017:
+- Pour [mardi 24 janvier 2017](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/34):
 
 1. Préparer la séance de révision en prévoyant des questions.
 
-- Pour jeudi 26 janvier 2017:
+- Pour [jeudi 26 janvier 2017](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/35):
 
 Contrôle avec des suites et des algorithmes.
 
