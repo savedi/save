@@ -52,7 +52,7 @@ Reconnaitre une suite géométrique.
 1. Exercices [16 à 18 page 125](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/16-18p125.png): Calcul de termes d'une suite géométriques.
 ---
 
--->
+
 
 Lundi 22 janvier 2017:
 
@@ -79,7 +79,7 @@ Devoirs:
 Contrôle avec des suites et des algorithmes.
 
 
-
+-->
 ---
 
 Jeudi 19 janvier 2017:
