@@ -54,6 +54,34 @@ Reconnaitre une suite géométrique.
 
 -->
 
+Lundi 22 janvier 2017:
+
+1. Correction [exercice 115 page 136](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/115p136.png): Calcul d'une somme.
+
+1. Correction exercice [78 page 133](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/78p133.png): Opérations sur des suites arithmétiques.
+
+1. Activité [algorithmique sur les suites](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/4.%20Suites/Activit%C3%A9s/Algorithmique/suite.pdf): 5) et 6) Calculs de sommes.
+
+1. Forme explicite de la suite définie par récurrence par u_0=1 et u_{n+1}=0.5u_n+2. Utilisation de la suite auxiliaire v_n=u_n-4.
+
+1. Correcton eercice [45 page 158](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/45p158.png): Produire un contre exemple graphique.
+
+1. Correction exercice [60 page 160](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/60p160.png): Problème de parts.
+
+Devoirs:
+
+- Pour [mardi 24 janvier 2017](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/34):
+
+1. Préparer la séance de révision en prévoyant des questions.
+
+- Pour [jeudi 26 janvier 2017](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/35):
+
+Contrôle avec des suites et des algorithmes.
+
+
+
+---
+
 Jeudi 19 janvier 2017:
 
 1. Préparation pour les olympiades.
@@ -71,18 +99,6 @@ Démontrer par un contre-exemple.
 
 1. Forme explicite de la suite définie par récurrence:
 u_0=0.5 et u_{n+1}=3u_n/(1+2u_n). Utiliser la suite auxiliaire v_n=u_n/(1-u_n). (Extrait bac 2013)
-
-1. Correction [exercice 115 page 136](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/115p136.png): Calcul d'une somme.
-
-1. Correction exercice [78 page 133](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/78p133.png): Opérations sur des suites arithmétiques.
-
-1. Activité [algorithmique sur les suites](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/4.%20Suites/Activit%C3%A9s/Algorithmique/suite.pdf): 5) et 6) Calculs de sommes.
-
-1. Forme explicite de la suite définie par récurrence par u_0=1 et u_{n+1}=0.5u_n+2. Utilisation de la suite auxiliaire v_n=u_n-4.
-
-1. Correcton eercice [45 page 158](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/45p158.png): Produire un contre exemple graphique.
-
-1. Correction exercice [60 page 160](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/60p160.png): Problème de parts.
 
 Devoirs:
 
