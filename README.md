@@ -1,5 +1,7 @@
 # [Cahier de textes](https://github.com/EdisonLorgues1SD1617/math1sd1617/blob/master/Donn%C3%A9es/Cahier%20de%20textes/readme.md)
 
+Correction de l'activité [algorithmique](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/4.%20Suites/Activit%C3%A9s/Algorithmique/CorrectionSuite.pdf).
+
 - Pour jeudi 26 janvier 2017:
 
 Contrôle avec des suites et de l'algorithmique.
