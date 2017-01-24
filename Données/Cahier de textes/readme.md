@@ -64,6 +64,11 @@ Mardi 24 janvier 2017:
 
 1. Correction exercice [60 page 160](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/60p160.png): Problème de parts.
 
+Devoirs:
+
+- Pour [jeudi 26 janvier 2017](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/35):
+
+Contrôle avec des suites et des algorithmes.
 
 
 
