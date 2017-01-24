@@ -54,12 +54,7 @@ Reconnaitre une suite géométrique.
 
 -->
 
-Lundi 22 janvier 2017:
-
-1. Activité [algorithmique sur les suites](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/4.%20Suites/Activit%C3%A9s/Algorithmique/suite.pdf): 5) et 6) Calculs de sommes.
-
-1. Forme explicite de la suite définie par récurrence par u_0=1 et u_{n+1}=0.5u_n+2. Utilisation de la suite auxiliaire v_n=u_n-4.
-
+Mardi 24 janvier 2017:
 
 1. Correction exercice [110 page 135](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/110-112p135.png): Un problème de placement.
 
@@ -67,9 +62,19 @@ Lundi 22 janvier 2017:
 
 1. Correction exercice [78 page 133](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/78p133.png): Opérations sur des suites arithmétiques.
 
-1. Correcton eercice [45 page 158](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/45p158.png): Produire un contre exemple graphique.
+1. Correcton exercice [45 page 158](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/45p158.png): Produire un contre exemple graphique.
 
 1. Correction exercice [60 page 160](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/60p160.png): Problème de parts.
+
+
+
+
+
+Lundi 23 janvier 2017:
+
+1. Activité [algorithmique sur les suites](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/4.%20Suites/Activit%C3%A9s/Algorithmique/suite.pdf): 5) et 6) Calculs de sommes.
+
+1. Forme explicite de la suite définie par récurrence par u_0=1 et u_{n+1}=0.5u_n+2. Utilisation de la suite auxiliaire v_n=u_n-4.
 
 Devoirs:
 
