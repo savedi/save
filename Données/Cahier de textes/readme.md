@@ -58,8 +58,6 @@ Mardi 24 janvier 2017:
 
 1. Correction exercice [110 page 135](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/110-112p135.png): Un problème de placement.
 
-1. Correction [exercice 115 page 136](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/115p136.png): Calcul d'une somme.
-
 1. Correction exercice [78 page 133](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/78p133.png): Opérations sur des suites arithmétiques.
 
 1. Correcton exercice [45 page 158](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/45p158.png): Produire un contre exemple graphique.
@@ -71,6 +69,8 @@ Mardi 24 janvier 2017:
 
 
 Lundi 23 janvier 2017:
+
+1. Correction [exercice 115 page 136](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/115p136.png): Algorithmique: Calcul d'une somme.
 
 1. Activité [algorithmique sur les suites](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/4.%20Suites/Activit%C3%A9s/Algorithmique/suite.pdf): 5) et 6) Calculs de sommes.
 
