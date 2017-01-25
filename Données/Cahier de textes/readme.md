@@ -52,6 +52,12 @@ Reconnaitre une suite géométrique.
 1. Exercices [16 à 18 page 125](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/16-18p125.png): Calcul de termes d'une suite géométriques.
 ---
 
+Lundi 30 janvier 2017:
+
+1. Exercice [9 page 266](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/5.%20Statistiques/Exercices/9p276.png): Comparaison de séries statistiques à l'aide d'un calcul de variance.
+
+---
+
 -->
 
 Jeudi 26 janvier 2017:
@@ -66,6 +72,8 @@ Devoirs:
 
 - Pour [lundi 30 janvier 2017](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/36):
 
+1. Amener sa calculatrice.
+
 1. Exercices [1 et 2 page 266](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/5.%20Statistiques/Exercices/1-2p266.png): Calcul de moyennes.
 
 1. Exercices [3 et 4 page 266](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/5.%20Statistiques/Exercices/3-4p266.png): Calcul de médiane et quartiles.
@@ -76,10 +84,7 @@ Devoirs:
 
 1. Lire et questionner: Théorème 3, definition 4 et exemple 5 du polycopié: Arbre pondéré.
 
-1. Exercice [9 page 266](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/5.%20Statistiques/Exercices/9p276.png): Comparaison de séries statistiques à l'aide d'un calcul de variance.
-
-
-
+1. Exercice [32 page 282](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/5.%20Statistiques/Exercices/32p282.png): Utilisation d'un écart-type pour certifier une production.
 ---
 
 Mardi 24 janvier 2017:
