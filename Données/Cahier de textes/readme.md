@@ -85,6 +85,7 @@ Devoirs:
 1. Lire et questionner: Théorème 3, definition 4 et exemple 5 du polycopié: Arbre pondéré.
 
 1. Exercice [32 page 282](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/5.%20Statistiques/Exercices/32p282.png): Utilisation d'un écart-type pour certifier une production.
+
 ---
 
 Mardi 24 janvier 2017:
