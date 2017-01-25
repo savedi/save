@@ -54,6 +54,34 @@ Reconnaitre une suite géométrique.
 
 -->
 
+Jeudi 26 janvier 2017:
+
+1. Contrôle avec des suites et de l'algorithmique.
+
+1. Préparation Olympiades de vendredi EG102 16h-17h.
+
+1. Statistiques descriptives des jours de naissance.
+
+Devoirs:
+
+- Pour [lundi 30 janvier 2017](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/36):
+
+1. Exercices [1 et 2 page 266](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/5.%20Statistiques/Exercices/1-2p266.png): Calcul de moyennes.
+
+1. Exercices [3 et 4 page 266](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/5.%20Statistiques/Exercices/3-4p266.png): Calcul de médiane et quartiles.
+
+- Pour [mardi 31 janvier 2017](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/37):
+
+1. Lire et questionner: Définition 1 et exemple 2 du [polycopié](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Polycopie/Probabilit%C3%A9s.pdf): Fonction de probabilité.
+
+1. Lire et questionner: Théorème 3, definition 4 et exemple 5 du polycopié: Arbre pondéré.
+
+1. Exercice [9 page 266](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/5.%20Statistiques/Exercices/9p276.png): Comparaison de séries statistiques à l'aide d'un calcul de variance.
+
+
+
+---
+
 Mardi 24 janvier 2017:
 
 1. Récapitulatif des compétences.
@@ -72,8 +100,7 @@ Devoirs:
 
 Contrôle avec des suites et des algorithmes.
 
-
-
+---
 
 Lundi 23 janvier 2017:
 
