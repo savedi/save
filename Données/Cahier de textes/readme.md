@@ -66,7 +66,7 @@ Jeudi 26 janvier 2017:
 
 1. Préparation Olympiades de vendredi EG102 16h-17h.
 
-1. Statistiques descriptives des jours de naissance.
+1. Statistiques descriptives des jours de naissance des élèves de la classe.
 
 Devoirs:
 
