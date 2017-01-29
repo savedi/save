@@ -60,14 +60,17 @@ Reconnaitre une suite géométrique.
 1. Correction exercice [60 page 160](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/60p160.png): Problème de parts.
 
 ---
+-->
 
 Lundi 30 janvier 2017:
+
+1. Séries avec répétition et séries avec effectifs.
+
+1. Utilisation de la calculatrice pour calculer un indicateur statistique.
 
 1. Exercice [9 page 266](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/5.%20Statistiques/Exercices/9p276.png): Comparaison de séries statistiques à l'aide d'un calcul de variance.
 
 ---
-
--->
 
 Jeudi 26 janvier 2017:
 
@@ -76,6 +79,8 @@ Jeudi 26 janvier 2017:
 1. Préparation Olympiades de vendredi EG102 16h-17h.
 
 1. Statistiques descriptives des jours de naissance des élèves de la classe.
+
+1. Correction d'exercices.
 
 Devoirs:
 
