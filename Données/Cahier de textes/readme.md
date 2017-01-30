@@ -80,7 +80,7 @@ Devoirs:
 
 1. Ecrire les deux formules possibles pour la variance d'une série brutes (xi) pour i allant de 1 à N.
 
-1. Ecrire les deux formules possibles pour la variance d'une série exprimée avec des effectifs (yj,n_i) pour i allant de 1 à k.
+1. Ecrire les deux formules possibles pour la variance d'une série exprimée avec des effectifs (yj,nj) pour j allant de 1 à k.
 
 1. Exercice [9 page 266](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/5.%20Statistiques/Exercices/9p276.png): Comparaison de séries statistiques à l'aide d'un calcul de variance.
 
