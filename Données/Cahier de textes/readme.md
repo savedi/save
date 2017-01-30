@@ -66,7 +66,7 @@ Lundi 30 janvier 2017:
 
 1. Séries avec répétition et séries avec effectifs.
 
-1. Utilisation de la [calculatrice](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/5.%20Statistiques/ti82stats.fr.pdf) pour calculer un indicateur statistique.
+1. Exercice 22 page 280: Utilisation de la calculatrice pour calculer un indicateur statistique. [Ti](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/5.%20Statistiques/Exercices/22p280Ti.png), [Casio](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/5.%20Statistiques/Exercices/22p280casio.png).
 
 1. Exercice [9 page 266](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/5.%20Statistiques/Exercices/9p276.png): Comparaison de séries statistiques à l'aide d'un calcul de variance.
 
