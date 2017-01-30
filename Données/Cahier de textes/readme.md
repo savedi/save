@@ -66,6 +66,8 @@ Mardi 31 janvier 2017:
 
 1. Exercice [A page 271](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/5.%20Statistiques/Exercices/Ap271.png): Présentation d'une série à l'aide d'un diagramme en boite.
 
+1. Comparer les [séries de notes de Anna et Brahim](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/5.%20Statistiques/Exercices/exerciceDeNotes.png).
+
 1. Correction d'exercices.
 
 Devoirs:
