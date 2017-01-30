@@ -64,9 +64,28 @@ Reconnaitre une suite géométrique.
 
 Mardi 31 janvier 2017:
 
-1. Exercice [9 page 266](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/5.%20Statistiques/Exercices/9p276.png): Comparaison de séries statistiques à l'aide d'un calcul de variance.
+1. Exercice [A page 271](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/5.%20Statistiques/Exercices/Ap271.png): Présentation d'une série à l'aide d'un diagramme en boite.
 
 1. Correction d'exercices.
+
+Devoirs:
+
+- Pour [jeudi 2 fevrier 2017](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/38):
+
+1. Apprendre les deux formules donnant la variance d'une série statistique exprimée avec effectifs.
+
+1. Exercices [1 et 2 de la fiche d'exercices supplémentaires](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/5.%20Statistiques/Exercices/Exercices%20suppl%C3%A9mentaires.pdf).
+
+- Pour lundi 6 fevrier 2017 **Devoir à la maison**:
+
+1. Ecrire les deux formules possibles pour la variance d'une série brutes (xi) pour i allant de 1 à N.
+
+1. Ecrire les deux formules possibles pour la variance d'une série exprimée avec des effectifs (yj,n_i) pour i allant de 1 à k.
+
+1. Exercice [9 page 266](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/5.%20Statistiques/Exercices/9p276.png): Comparaison de séries statistiques à l'aide d'un calcul de variance.
+
+
+
 
 ---
 
