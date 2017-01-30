@@ -62,15 +62,29 @@ Reconnaitre une suite géométrique.
 ---
 -->
 
+Mardi 31 janvier 2017:
+
+1. Exercice [9 page 266](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/5.%20Statistiques/Exercices/9p276.png): Comparaison de séries statistiques à l'aide d'un calcul de variance.
+
+1. Correction d'exercices.
+
+---
+
 Lundi 30 janvier 2017:
 
 1. Séries avec répétition et séries avec effectifs.
 
 1. Exercice 22 page 280: Utilisation de la calculatrice pour calculer un indicateur statistique. [Ti](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/5.%20Statistiques/Exercices/22p280Ti.png), [Casio](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/5.%20Statistiques/Exercices/22p280casio.png).
 
-1. Exercice [9 page 266](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/5.%20Statistiques/Exercices/9p276.png): Comparaison de séries statistiques à l'aide d'un calcul de variance.
+Devoirs:
 
-1. Correction d'exercices.
+- Pour [mardi 31 janvier 2017](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/37):
+
+1. Lire et questionner: Définition 1 et exemple 2 du [polycopié](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Polycopie/Probabilit%C3%A9s.pdf): Fonction de probabilité.
+
+1. Lire et questionner: Théorème 3, definition 4 et exemple 5 du polycopié: Arbre pondéré.
+
+1. Exercice [32 page 282](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/5.%20Statistiques/Exercices/32p282.png): Utilisation d'un écart-type pour certifier une production.
 
 ---
 
