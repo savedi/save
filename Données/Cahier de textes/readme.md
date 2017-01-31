@@ -60,6 +60,11 @@ Reconnaitre une suite géométrique.
 1. Correction exercice [60 page 160](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/60p160.png): Problème de parts.
 
 ---
+
+Jeudi 2 fevrier 2017:
+
+1. Exercices [1 et 2 page 292](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Images/1-2p292.png): Probaibilité et équiprobabilité.
+
 -->
 
 Mardi 31 janvier 2017:
@@ -78,6 +83,8 @@ Devoirs:
 
 1. Exercices [1 et 2 de la fiche d'exercices supplémentaires](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/5.%20Statistiques/Exercices/Exercices%20suppl%C3%A9mentaires.pdf).
 
+1. Lire et questionner: Théorème 3, définition 4 et exemple 5 du [polycopié](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Polycopie/Probabilit%C3%A9s.pdf): Suite d'expériences aléatoires. 
+
 - Pour lundi 6 fevrier 2017 **Devoir à la maison**:
 
 1. Ecrire les deux formules possibles pour la variance d'une série brutes (xi) pour i allant de 1 à N.
@@ -85,9 +92,6 @@ Devoirs:
 1. Ecrire les deux formules possibles pour la variance d'une série exprimée avec des effectifs (yj,nj) pour j allant de 1 à k.
 
 1. Exercice [9 page 266](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/5.%20Statistiques/Exercices/9p276.png): Comparaison de séries statistiques à l'aide d'un calcul de variance.
-
-
-
 
 ---
 
