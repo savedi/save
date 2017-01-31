@@ -1,0 +1,348 @@
+\documentclass[a4paper,11pt]{article}
+\usepackage{pdflscape}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+%\usepackage{fourier} % math & rm
+%\usepackage{amsthm,amsfonts,amsmath,amssymb,textcomp}
+\usepackage{pst-all,pstricks-add,pst-eucl}
+\everymath{\displaystyle}
+\usepackage{fp,ifthen}
+%\usepackage{color}
+%\usepackage{graphicx}
+\usepackage{setspace}
+\usepackage{array}
+\usepackage{tabularx}
+\usepackage{supertabular}
+\usepackage{hhline}
+\usepackage{variations}
+\usepackage{enumerate}
+\usepackage{pifont}
+\usepackage{framed}
+\usepackage[fleqn]{amsmath}
+\usepackage{amssymb}
+\usepackage[framed]{ntheorem}
+\usepackage{multicol}
+\usepackage{kpfonts}
+\usepackage{manfnt}
+
+%\usepackage[hmargin=2.5cm, vmargin=2.5cm]{geometry}
+\usepackage{vmargin}          % Pour fixer les marges du document
+\setmarginsrb
+{1.5cm} 	%marge gauche
+{0.5cm} 	  %marge en haut
+{1.5cm}     %marge droite
+{0.5cm}   %marge en bas
+{1cm} 	%hauteur de l'entête
+{0.5cm}   %distance entre l'entête et le texte
+{1cm} 	  %hauteur du pied de page
+{0.5cm}     %distance entre le texte et le pied de page
+
+\newcommand{\R}{\mathbb{R}}
+\newcommand{\N}{\mathbb{N}}
+%\newcommand{\D}{\mathbb{D}}
+\newcommand{\Z}{\mathbb{Z}}
+\newcommand{\Q}{\mathbb{Q}}
+\newcommand{\C}{\mathbb{C}}
+\newcommand{\e}{\text{e}}
+\newcommand{\dx}{\text{d}x}
+\newcommand{\vect}[1]{\mathchoice%
+  {\overrightarrow{\displaystyle\mathstrut#1\,\,}}%
+  {\overrightarrow{\textstyle\mathstrut#1\,\,}}%
+  {\overrightarrow{\scriptstyle\mathstrut#1\,\,}}%
+  {\overrightarrow{\scriptscriptstyle\mathstrut#1\,\,}}}
+\newcommand\arraybslash{\let\\\@arraycr}
+\renewcommand{\theenumi}{\textbf{\arabic{enumi}}}
+\renewcommand{\labelenumi}{\textbf{\theenumi.}}
+\renewcommand{\theenumii}{\textbf{\alph{enumii}}}
+\renewcommand{\labelenumii}{\textbf{\theenumii.}}
+\renewcommand{\and}{\wedge}
+
+\theoremstyle{break}
+\theorembodyfont{\upshape}
+\newframedtheorem{Theo}{Théorème}
+\newframedtheorem{Prop}{Propriété}
+\newframedtheorem{Def}{Définition}
+
+\newtheorem{Term}{Terminologie}
+\newtheorem{Rq}{Remarque}
+\newtheorem{Ex}{Exemple}
+%\newtheorem{exo}{Exercice}
+
+%\theorembodyfont{\small \sffamily}
+%\newtheorem{sol}{solution}
+
+\newenvironment{sol}% 
+{\def\FrameCommand{\hspace{0.5cm} {\color{black} \vrule width 1pt} \hspace{-0.7cm}}%
+  \framed {\advance\hsize-\width}
+  \noindent \small \sffamily  %\underline{Solution :}%\\
+}%
+{\endframed}
+
+\newrgbcolor{vert}{0 0.4 0}
+\newrgbcolor{bistre}{1 .50 .30}
+\setlength\tabcolsep{1mm}
+\renewcommand\arraystretch{1.3}
+
+\everymath{\displaystyle}
+\hyphenpenalty 10000 %supprime toutes les césures
+%\setcounter{secnumdepth}{0}
+%\newcounter{saveenum}
+
+\usepackage[frenchb]{babel}
+\usepackage{fancyhdr,lastpage}
+\usepackage{fancybox}
+
+%\headheight 15.0 pt
+\fancyhead[L]{Avec des suites et des algorithmes}
+\fancyhead[C]{Contrôle sujet A}
+\fancyhead[R]{Jeudi 26 janvier 2017}
+%\fancyfoot[L]{{\scriptsize\textsl{Cité scolaire de Lorgues}}}
+\fancyfoot[C]{}
+%\fancyfoot[C]{\scriptsize\thepage}
+%\fancyfoot[C]{\scriptsize\thepage/\pageref{LastPage}}
+
+\title{}
+\author{}
+\date{}
+
+%\pagestyle{empty}
+\pagestyle{fancy}
+\usepackage[np]{numprint}
+
+\renewcommand\arraystretch{1.8}
+
+\newcounter{numero}
+\newcommand{\exo}{
+  \addtocounter{numero}{1}%
+  \textbf{\underline{Exercice \arabic{numero}:}}\quad}
+
+\frenchbsetup{StandardEnumerateEnv=true}
+\usepackage{etex}
+\usepackage{pgf,tikz,tkz-tab}
+\usepackage{comment}
+%\includecomment{correction}
+%\renewcommand{correction}{correction}
+\excludecomment{correction}
+\usepackage{array}
+
+
+\begin{document}
+  \setlength{\unitlength}{1mm}
+  \setlength\parindent{0mm}
+  
+  %\thispagestyle{empty}
+  %\exo
+  
+  
+  \vspace{1cm}
+  ~
+  
+  \begin{exo}(5 points)
+~
+      \vspace{0.25cm}
+      
+      Réaliser un algorithme permettant de calculer et afficher le plus petit entier naturel n
+      
+      pour lequel $2^n>1073741824$.
+      
+\begin{correction}
+
+Correction
+
+      n prend la valeur 0
+ 
+      tant que $2^n \leq 1073741824$ faire
+      
+      n prend la valeur n+1
+      
+      fin tant que
+      
+      Afficher n
+      
+\end{correction}      
+      
+      
+\end{exo}  
+
+     ~
+  \vspace{0.5cm}
+
+  
+  \begin{exo}(5 points)
+  ~
+      \vspace{0.25cm}
+      
+ %Variation d'une suite définie explicitement par un trinôme du second degré.
+ 
+ \begin{enumerate}
+ 
+ \item  Calculer la dérivée $f'(x)$ de la fonction
+ $f(x)=\frac{4}{3}x^3+10 x^2 + 24 x +100$  
+ \item Décomposer $f'(x)$ en un produit de facteurs de degré $1$ et étudier son signe.  
+ \item Montrer que la suite $(u_n)$ définie pour tout entier naturel par 
+ $u_n=\frac{4}{3}n^3+10 n^2 + 24 n +100$ est strictement croissante. 
+   
+ \end{enumerate}
+
+\begin{correction}
+
+Correction
+\begin{enumerate}
+ \item $f'(x)=4 x^2+20 x+24$ (1 pt)
+ \item $f'(x)=4(x+3)(x+2)$, en effet, $\Delta=16, x_1= \frac{-20-4}{8}=-3, x_2=\frac{-20+4}{8}=-2$. (2 pts)
+ 
+ $f'(x)>0$ sur $]-\infty;-3[ \cup ]-2;+\infty[$, $f'(x)<0$ sur $]-3;-2[$.(1 pt)
+ \item La fonction $f$ est strictement croissante sur l'intervalle $[0;+\infty[$ donc la suite $(u_n=f(n))$ 
+ est strictement croissante. (1 pt)
+\end{enumerate}
+
+
+  
+  
+\end{correction}
+
+  \end{exo}
+  
+   ~
+  \vspace{0.5cm}
+  
+   \begin{exo}(7 points)
+   ~
+      \vspace{0.25cm}
+   
+  %Calculs de termes d'une suite géométrique et forme explicite d'une suite aithmétique
+  
+  \begin{enumerate}
+   \item Soit $(u_n)$ une suite arithmétique telle que $u_3=2$ et $u_6=13$.
+   
+   Calculer la forme explicite de la suite $(u_n)$ ainsi que $u_{15}$. 
+   
+   \item Calculer le 5ème terme de la suite géométrique de premier terme $v_0=3$ et de raison 
+   $\frac{1}{\sqrt 3}$.
+   
+   \item Démontrer que la suite$(w_n)$ définie pour tout entier $n$ par $w_n=11(9)^n$ est géométrique
+   et donner sa raison et son premier terme.
+   
+   \item Démontrer que la suite $(x_n)$ défine pour tout entier $n>0$ par $x_n=\frac{1}{n^2}$ n'est ni
+   arithmétique ni géométrique. 
+  \end{enumerate}
+
+\begin{correction}
+
+Correction
+\begin{enumerate}
+ \item $u_6-u_3=11=3r$ d'o\`u $r=\frac{11}{3}$, $u_n=u_3+(n-3)r=2+(n-3)\frac{11}{3}$ (1 pt)
+ 
+ $u_{15}=2+(15-3)\frac{11}{3}=2+\frac{12 \times 11}{3}=46$ (1 pt)
+ \item $v_{4}=v_0(\frac{1}{\sqrt{3}})^{(4-0)}=3(\frac{1}{3})^2=\frac{1}{3}$. (1 pt)
+ \item $w_{n+1}=11(9)^{n+1}=11(9)^n\times 9=w_n \times 9$. (1 pt)
+ La suite est bien g\'eom\'etrique de raison $9$ 
+ et de premier terme $w_0=11$. (1 pt)
+ \item $x_1=1$, $x_2=\frac{1}{4}=x_1-\frac{3}{4}=x_1 \times \frac{1}{4}$. 
+ $x_3=\frac{1}{9} \neq -\frac{1}{2}=x_2-\frac{3}{4}$ et $x_3 \neq \frac{1}{16} = x_2 \times \frac{1}{4}$.
+ Ainsi, $(u_n)$ n'est ni arithm\'etique ni 
+ g\'eom\'etrique. (2 pts)
+\end{enumerate}
+
+\end{correction}
+  \end{exo}
+    
+     ~
+  \vspace{0.5cm}
+ 
+
+\begin{exo}(3 points)
+
+Soit $(u_n)$ la suite définie par récurrence par $u_0=3$ et pour tout entier $n$ par 
+$u_{n+1}=2 u_n +5$. On admet que pour tout entier naturel $n$, $u_n>0$.
+
+\begin{enumerate}
+  \item Démontrer que le suite $(u_n)$ est strictement croissante.
+  \item Trouver une forme explicite pour la suite $(u_n)$. On pourra introduire la suite auxiliaire
+  $v_n=u_n+5$.
+\end{enumerate}
+
+\begin{correction}
+\begin{enumerate}
+ \item $u_{n+1}-u_n=u_n+5>0$ pour tout entier naturel. $(u_n)$ est donc strictement croissante. (1 pt)
+ \item $v_{n+1}=u_{n+1}+5=2 u_n+5+5=2 u_n +10=2(u_n+5)=2 v_n$. La suite $(v_n)$ est g\'eom\'etrique
+  de raison 2 et de premier terme $v_0=u_0+5=8$. D'o\`u $v_n=8 \times 2^n$ et $u_n=8 \times 2^n-5$. (2 pts)
+\end{enumerate}
+
+
+\end{correction}
+
+\begin{correction}
+
+\end{correction}
+
+
+\end{exo}
+
+\end{document}
+
+\begin{exo}(5 points)
+~
+      \vspace{0.25cm}
+      
+Lors d'une saison footballistique comprenant 38 matchs, deux équipes
+ont encaissé des buts selon les répartitions suivantes:
+
+\begin{center}
+
+\begin{tabular}{l l}
+ 
+ Equipe A: 
+
+\begin{tabular}{|l|c|c|c|c|c|}
+  \hline
+  Nombres de buts  & 0  & 1 &3 & 4 & 5 \\
+  \hline
+  Nombre de matchs & 23 & 7 &5 & 1 &2 \\
+  
+  \hline
+\end{tabular}
+
+ &
+
+ Equipe B:
+
+\begin{tabular}{|l|c|c|c|c|}
+  \hline
+  Nombres de buts  & 0  & 1 &3 & 6 \\
+  \hline
+  Nombre de matchs & 19 & 12 &6 & 1  \\
+  
+  \hline
+\end{tabular}
+
+ \end{tabular}
+
+\end{center} 
+\vspace{0.5cm}
+\begin{enumerate}
+ \item Après avoir écrit la formule avec un symbole de somme, calculer le nombre moyen de buts
+  encaissés par match pour ces deux équipes.
+  \item Après avoir écrit la formule avec un symbole de somme, calculer l'écart-type de la série
+  des nombres de buts encaissés par match pour chacune des deux équipes au dixième de but près.
+  \item Au vu de ces résultats, quelle équipe possède des performances défensives les plus 
+  irrégulières ?
+\end{enumerate}
+
+
+
+\begin{correction}
+
+\begin{enumerate}
+ \item Soit $(a,n)$ (resp $(b,m)$) la s\'erie statistique associ\'ee \'a l'\'equipe $1$ (resp. 2).
+ 
+ $\overline{a}=\sum_{i=1}^5 \frac{n_i a_i}{38}=\frac{36}{38}=\frac{18}{19}$. (1 pt)
+ et $\overline{b}=\sum_{i=1}^4 \frac{m_i b_i}{38}=\frac{36}{38}=\frac{18}{19}$. (1 pt)
+ \item $\sigma_{a}=\sqrt{\sum_{i=1}^5 \frac{n_i (a_i-\overline{a})^2}{38}} \simeq 1.5$ (1 pt)
+ et $\sigma_{b}=\sqrt{\sum_{i=1}^4 \frac{m_i (b_i-\overline{b})^2}{38}}\simeq 1.3$. (1 pt)
+  \item L'\'equipe B poss\`ede les performances d\'efensives les plus r\' eguli\`eres sur cette saison.
+\end{enumerate}
+
+\end{correction}
+
+\end{exo}
