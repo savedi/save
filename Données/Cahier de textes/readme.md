@@ -69,7 +69,21 @@ Jeudi 2 fevrier 2017:
 
 1. Exercices [1 et 2 page 292](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Images/1-2p292.png): Probaibilité et équiprobabilité.
 
-1. Présentation de cours probabilités: Définition 1, exemple 2: Fonction de probabilités.
+1. [Présentation](https://github.com/EdisonLorgues1SD1617/Math1SD1617/raw/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Pr%C3%A9sentation/Probabilit%C3%A9s.pdf) du cours de probabilités: Définition 1, exemple 2: Fonction de probabilités.
+
+1. Activité [2 page 293](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Activit%C3%A9s/2p293.png): Lancé de dé et loi des grands nombres.
+
+1. Activité tirage de boules colrées avec ou sans remise.
+
+1. Théorème 3, definition 4 et exemple 5: Suite d'expériences aléatoires.
+
+1. Activité [1 page 293](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Images/1p293.png): Une variable aléatoire.
+
+1. Définition 6, exemple 7, définition 8 et exemple 9: Variable aléatoire et loi de probabilité.
+
+1. Définition 10, exemple 11 et théorème 12: Paramètres d'une loi de probabilité.
+
+1. Exercices [39 et 40 page 306](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Images/39-40p306.png): Variable aléatoire associée à une suite d'expérience.
 
 1. Correction d'exercices.
 
