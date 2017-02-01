@@ -61,8 +61,6 @@ Reconnaitre une suite géométrique.
 
 ---
 
--->
-
 Jeudi 2 fevrier 2017:
 
 1. Comparer les [séries de notes de Anna et Brahim](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/5.%20Statistiques/Exercices/exerciceDeNotes.png).
@@ -100,6 +98,8 @@ Devoirs:
 - Pour mardi 7 février 2017:
 
 ---
+-->
+
 
 Mardi 31 janvier 2017:
 
