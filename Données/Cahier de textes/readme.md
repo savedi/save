@@ -65,15 +65,17 @@ Jeudi 2 fevrier 2017:
 
 1. Exercices [1 et 2 page 292](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Images/1-2p292.png): Probaibilité et équiprobabilité.
 
+1. Comparer les [séries de notes de Anna et Brahim](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/5.%20Statistiques/Exercices/exerciceDeNotes.png).
+
+1. Correction d'exercices.
+
 -->
+
+---
 
 Mardi 31 janvier 2017:
 
 1. Exercice [A page 271](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/5.%20Statistiques/Exercices/Ap271.png): Présentation d'une série à l'aide d'un diagramme en boite.
-
-1. Comparer les [séries de notes de Anna et Brahim](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/5.%20Statistiques/Exercices/exerciceDeNotes.png).
-
-1. Correction d'exercices.
 
 Devoirs:
 
@@ -83,7 +85,7 @@ Devoirs:
 
 1. Exercices [1 et 2 de la fiche d'exercices supplémentaires](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/5.%20Statistiques/Exercices/Exercices%20suppl%C3%A9mentaires.pdf).
 
-1. Lire et questionner la definition 6 et l'exemple 7 du [polycopié](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Polycopie/Probabilit%C3%A9s.pdf): Variable aléatoire. 
+1. Lire et questionner la definition 6 et l'exemple 7 du [polycopié](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Polycopie/Probabilit%C3%A9s.pdf): Variable aléatoire.
 
 - Pour lundi 6 fevrier 2017 **Devoir à la maison**:
 
