@@ -87,6 +87,18 @@ Jeudi 2 fevrier 2017:
 
 1. Correction d'exercices.
 
+Devoirs:
+
+- Pour lundi 6 fevrier 2017 **Devoir à la maison**:
+
+1. Ecrire les deux formules possibles pour la variance d'une série brutes (xi) pour i allant de 1 à N.
+
+1. Ecrire les deux formules possibles pour la variance d'une série exprimée avec des effectifs (yj,nj) pour j allant de 1 à k.
+
+1. Exercice [9 page 266](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/5.%20Statistiques/Exercices/9p276.png): Comparaison de séries statistiques à l'aide d'un calcul de variance.
+
+- Pour mardi 7 février 2017:
+
 ---
 
 Mardi 31 janvier 2017:
