@@ -60,6 +60,7 @@ Reconnaitre une suite géométrique.
 1. Correction exercice [60 page 160](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/60p160.png): Problème de parts.
 
 ---
+-->
 
 Jeudi 2 fevrier 2017:
 
@@ -98,8 +99,6 @@ Devoirs:
 - Pour mardi 7 février 2017:
 
 ---
--->
-
 
 Mardi 31 janvier 2017:
 
