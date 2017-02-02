@@ -66,7 +66,7 @@ Jeudi 2 fevrier 2017:
 
 1. Comparer les [séries de notes de Anna et Brahim](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/5.%20Statistiques/Exercices/exerciceDeNotes.png).
 
-1. Exercices [1 et 2 page 292](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Images/1-2p292.png): Probaibilité et équiprobabilité.
+1. Exercices [1 et 2 page 292](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Images/1-2p292.png): Probabilité et équiprobabilité.
 
 1. [Présentation](https://github.com/EdisonLorgues1SD1617/Math1SD1617/raw/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Pr%C3%A9sentation/Probabilit%C3%A9s.pdf) du cours de probabilités: Définition 1, exemple 2: Fonction de probabilités.
 
