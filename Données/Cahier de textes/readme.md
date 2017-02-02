@@ -76,7 +76,7 @@ Jeudi 2 fevrier 2017:
 
 1. Théorème 3, definition 4 et exemple 5: Suite d'expériences aléatoires.
 
-1. Activité [1 page 293](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Images/1p293.png): Une variable aléatoire.
+1. Activité [1 page 293](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Images/1p293b.png): Une variable aléatoire.
 
 1. Définition 6, exemple 7, définition 8 et exemple 9: Variable aléatoire et loi de probabilité.
 
