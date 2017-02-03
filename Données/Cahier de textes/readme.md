@@ -60,6 +60,15 @@ Reconnaitre une suite géométrique.
 1. Correction exercice [60 page 160](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/60p160.png): Problème de parts.
 
 ---
+
+Lundi 6 février 2017:
+
+1. Définition 10, exemple 11 et théorème 12: Paramètres d'une loi de probabilité.
+
+1. Exercices [39 et 40 page 306](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Images/39-40p306.png): Variable aléatoire associée à une suite d'expérience.
+
+1. Correction d'exercices.
+
 -->
 
 Jeudi 2 fevrier 2017:
@@ -72,19 +81,11 @@ Jeudi 2 fevrier 2017:
 
 1. Activité [2 page 293](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Activit%C3%A9s/2p293.png): Lancé de dé et loi des grands nombres.
 
-1. Activité tirage de boules colrées avec ou sans remise.
-
 1. Théorème 3, definition 4 et exemple 5: Suite d'expériences aléatoires.
 
 1. Activité [1 page 293](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Images/1p293b.png): Une variable aléatoire.
 
 1. Définition 6, exemple 7, définition 8 et exemple 9: Variable aléatoire et loi de probabilité.
-
-1. Définition 10, exemple 11 et théorème 12: Paramètres d'une loi de probabilité.
-
-1. Exercices [39 et 40 page 306](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Images/39-40p306.png): Variable aléatoire associée à une suite d'expérience.
-
-1. Correction d'exercices.
 
 Devoirs:
 
@@ -95,6 +96,10 @@ Devoirs:
 1. Ecrire les deux formules possibles pour la variance d'une série exprimée avec des effectifs (yj,nj) pour j allant de 1 à k.
 
 1. Exercice [9 page 266](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/5.%20Statistiques/Exercices/9p276.png): Comparaison de séries statistiques à l'aide d'un calcul de variance.
+
+- Pour [lundi 6 fevrier 2017](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/39):
+
+1. Lire et questionner les parties 3.2 et 3.3 du polycopié de cours.
 
 - Pour mardi 7 février 2017:
 
