@@ -101,7 +101,13 @@ Devoirs:
 
 1. Lire et questionner les parties 3.2 et 3.3 du polycopié de cours.
 
-- Pour mardi 7 février 2017:
+- Pour [mardi 7 février 2017](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/40):
+
+1. Exercices [20 à 22 page 304](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Images/20-26p304.png): Calculer les paramètres d'une loi de probabilité.
+
+- Pour [jeudi 9 février 2017](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/41):
+
+1. Exercices [23 à 25 page 304](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Images/20-26p304.png): Calcul de paramètres d'une loi de probabilités.
 
 ---
 
