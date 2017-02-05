@@ -70,7 +70,7 @@ Mardi 7 fevrier 2017:
 
 Lundi 6 février 2017:
 
-1. Définition 10, exemple 11 et théorème 12: Paramètres d'une loi de probabilité.
+1. [Présentation](https://github.com/EdisonLorgues1SD1617/Math1SD1617/raw/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Pr%C3%A9sentation/Probabilit%C3%A9s.pdf) du cours de probabilités: Définition 10, exemple 11 et théorème 12: Paramètres d'une loi de probabilité.
 
 1. Exercices [39 et 40 page 306](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Images/39-40p306.png): Variable aléatoire associée à une suite d'expérience.
 
