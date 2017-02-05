@@ -59,7 +59,14 @@ Reconnaitre une suite géométrique.
 
 1. Correction exercice [60 page 160](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/60p160.png): Problème de parts.
 
+
+Mardi 7 fevrier 2017:
+
+
+
 ---
+
+-->
 
 Lundi 6 février 2017:
 
@@ -69,7 +76,17 @@ Lundi 6 février 2017:
 
 1. Correction d'exercices.
 
--->
+Devoirs:
+
+- Pour [mardi 7 février 2017](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/40):
+
+1. Exercices [20 à 22 page 304](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Images/20-26p304.png): Calculer les paramètres d'une loi de probabilité.
+
+- Pour [jeudi 9 février 2017](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/41):
+
+1. Exercices [23 à 25 page 304](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Images/20-26p304.png): Calcul de paramètres d'une loi de probabilités.
+
+---
 
 Jeudi 2 fevrier 2017:
 
