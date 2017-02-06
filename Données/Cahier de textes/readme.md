@@ -66,7 +66,7 @@ Mardi 7 fevrier 2017:
 
 ---
 
-
+-->
 
 Lundi 6 février 2017:
 
@@ -87,7 +87,7 @@ Devoirs:
 1. Exercices [23 à 25 page 304](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Images/20-26p304.png): Calcul de paramètres d'une loi de probabilités.
 
 ---
--->
+
 
 Jeudi 2 fevrier 2017:
 
