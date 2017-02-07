@@ -62,20 +62,19 @@ Reconnaitre une suite géométrique.
 
 -->
 
-Mardi 7 fevrier 2017:
-
+Mardi 7 février 2017:
 
 1. Exercices [1 à 3 page 296](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Images/1-3p296.png): Déterminer une loi de probabilité.
 
 1. Exercices [39 et 40 page 306](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Images/39-40p306.png): Variable aléatoire associée à une suite d'expérience.
+
+1. Correction d'exercices.
 
 Devoirs:
 
 - Pour [jeudi 9 février 2017](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/41):
 
 1. Exercices [23 à 25 page 304](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Images/20-26p304.png): Calcul de paramètres d'une loi de probabilités.
-
-1. Correction d'exercices.
 
 ---
 
