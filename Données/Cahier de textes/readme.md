@@ -62,13 +62,46 @@ Reconnaitre une suite géométrique.
 
 -->
 
-Mardi 7 février 2017:
+Jeudi 9 février 2017:
 
-1. Exercices [1 à 3 page 296](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Images/1-3p296.png): Déterminer une loi de probabilité.
+1. Correction du devoir à la maison:
+
+- Ecrire les deux formules possibles pour la variance d'une série brutes (xi) pour i allant de 1 à N.
+
+- Ecrire les deux formules possibles pour la variance d'une série exprimée avec des effectifs (yj,nj) pour j allant de 1 à k.
+
+- Exercice [9 page 266](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/5.%20Statistiques/Exercices/9p276.png): Comparaison de séries statistiques à l'aide d'un calcul de variance.
+
+1. Correction du contrôle avec des suites.
+
+1. Exercices [2 et 3 page 296](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Images/1-3p296.png): Déterminer une loi de probabilité.
 
 1. Exercices [39 et 40 page 306](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Images/39-40p306.png): Variable aléatoire associée à une suite d'expérience.
 
 1. Correction d'exercices.
+
+Devoirs:
+
+- Pour [lundi 27 févrtier 2017](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/42):
+
+1. Réviser pour le contrôle avec de l'algorithmique et des suites.
+
+1. Relire la correction du devoir à la maison de statistiques: Ecriture des formules de moyenne et d'espérance pour des séries brutes et avec effectifs.
+
+1. Relire et apprendre les quatre premières pages du polycopié sur les probabilités.
+
+1. Lire et questionner la partie 4.1 du [polycopié](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Polycopie/Probabilit%C3%A9s.pdf) sur les probabilités.
+
+
+- Pour jeudi 2 mars 2017:
+
+Contrôle avec des suites.
+
+---
+
+Mardi 7 février 2017:
+
+1. Exercices [1 page 296](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Images/1-3p296.png): Déterminer une loi de probabilité.
 
 Devoirs:
 
@@ -121,7 +154,7 @@ Devoirs:
 
 - Pour [lundi 6 fevrier 2017](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/39):
 
-1. Lire et questionner les parties 3.2 et 3.3 du polycopié de cours.
+1. Lire et questionner les parties 3.2 et 3.3 du [polycopié](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Polycopie/Probabilit%C3%A9s.pdf) de cours.
 
 - Pour [mardi 7 février 2017](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/40):
 
