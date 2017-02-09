@@ -64,7 +64,7 @@ Reconnaitre une suite géométrique.
 
 Jeudi 9 février 2017:
 
-1. Correction du devoir à la maison:
+1. Correction du devoir à la maison (approximations et écriture de formules):
 
 - Ecrire les deux formules possibles pour la variance d'une série brutes (xi) pour i allant de 1 à N.
 
