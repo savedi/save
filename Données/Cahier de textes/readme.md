@@ -61,7 +61,7 @@ Reconnaitre une suite géométrique.
 
 1. Correction d'exercices.
 
--->
+
 
 Lundi 27 février 2017:
 
@@ -88,6 +88,7 @@ Devoirs:
 1. Calculer la somme des puissances successives de 2, de 2^3 à 2^10 en utilisant la formule sur les suites géométriques.
 
 ---
+-->
 
 Jeudi 9 février 2017:
 
@@ -113,6 +114,13 @@ Devoirs:
 
 1. Lire et questionner la partie 4.1 du [polycopié](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Polycopie/Probabilit%C3%A9s.pdf) sur les probabilités.
 
+- Pour [mardi février 2016](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/43):
+
+1. Relire les définition 14, exemple 15, proposition 16 et exemple 17 du [polycopié](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Polycopie/Probabilit%C3%A9s.pdf) de cours: Epreuve de Bernouilli.
+
+1. Calculer la somme des termes u_3 jusqu'à u_34 pour u la suite arithmétique de raison 5 et de premier terme u_0=7.
+
+1. Calculer la somme des puissances successives de 2, de 2^3 à 2^10 en utilisant la formule sur les suites géométriques.
 
 - Pour jeudi 2 mars 2017:
 
