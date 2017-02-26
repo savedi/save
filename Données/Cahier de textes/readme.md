@@ -59,26 +59,31 @@ Reconnaitre une suite géométrique.
 
 1. Correction exercice [60 page 160](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/60p160.png): Problème de parts.
 
+1. Correction d'exercices.
 
 -->
 
-Jeudi 9 février 2017:
+Lundi 27 février 2017:
 
-1. Correction du devoir à la maison (approximations et écriture de formules):
-
-- Ecrire les deux formules possibles pour la variance d'une série brutes (xi) pour i allant de 1 à N.
-
-- Ecrire les deux formules possibles pour la variance d'une série exprimée avec des effectifs (yj,nj) pour j allant de 1 à k.
-
-- Exercice [9 page 266](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/5.%20Statistiques/Exercices/9p276.png): Comparaison de séries statistiques à l'aide d'un calcul de variance.
-
-1. Eléments de correction des sujets de contrôle avec des suites.
+1. Exercice [9 page 266](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/5.%20Statistiques/Exercices/9p276.png): Comparaison de séries statistiques à l'aide d'un calcul de variance.
 
 1. Exercices [2 et 3 page 296](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Images/1-3p296.png): Déterminer une loi de probabilité.
 
 1. Exercices [39 et 40 page 306](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Images/39-40p306.png): Variable aléatoire associée à une suite d'expérience.
 
-1. Correction d'exercices.
+---
+
+Jeudi 9 février 2017:
+
+1. Correction du devoir à la maison (approximations et écriture de formules):
+
+ - Ecrire les deux formules possibles pour la variance d'une série brutes (xi) pour i allant de 1 à N.
+
+ - Ecrire les deux formules possibles pour la variance d'une série exprimée avec des effectifs (yj,nj) pour j allant de 1 à k.
+
+1. Eléments de correction des sujets de contrôle avec des suites.
+
+1. Révisions sur les calculs de sommes de termes de suites arithmétiques ou géométriques.
 
 Devoirs:
 
