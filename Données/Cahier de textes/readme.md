@@ -73,6 +73,16 @@ Mardi 28 février 2017:
 
 1. Exercices [39 et 40 page 306](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Images/39-40p306.png): Variable aléatoire associée à une suite d'expérience.
 
+Devoirs:
+
+- Pour [jeudi 2 mars 2017](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/44):
+
+1. Contrôle avec des suites et des algorithmes.
+
+1. Relire la proposition 16, exemple 17: Epreuve de Bernouilli du [polycopié](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Polycopie/Probabilit%C3%A9s.pdf) de cours: paramètre d'un épreuve de Bernouilli.
+
+1. Lire et questionner la définition 18 et l'exemple 19 du [polycopié](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Polycopie/Probabilit%C3%A9s.pdf) de cours.
+
 ---
 
 Lundi 27 février 2017:
@@ -83,9 +93,9 @@ Lundi 27 février 2017:
 
 Devoirs:
 
-- Pour [mardi février 2016](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/43):
+- Pour [mardi 28 février 2017](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/43):
 
-1. Relire les définition 14, exemple 15, proposition 16 et exemple 17 du [polycopié](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Polycopie/Probabilit%C3%A9s.pdf) de cours: Epreuve de Bernouilli.
+1. Relire les définition 14 et exemple 15 du [polycopié](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Polycopie/Probabilit%C3%A9s.pdf) de cours: Epreuve de Bernouilli.
 
 1. Calculer la somme des termes u_3 jusqu'à u_34 pour u la suite arithmétique de raison 5 et de premier terme u_0=7.
 
