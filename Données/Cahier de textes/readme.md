@@ -61,7 +61,7 @@ Reconnaitre une suite géométrique.
 
 1. Correction d'exercices.
 
--->
+
 
 Mardi 28 février 2017:
 
@@ -84,6 +84,7 @@ Devoirs:
 1. Lire et questionner la définition 18 et l'exemple 19 du [polycopié](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Polycopie/Probabilit%C3%A9s.pdf) de cours.
 
 ---
+-->
 
 Lundi 27 février 2017:
 
@@ -100,6 +101,14 @@ Devoirs:
 1. Calculer la somme des termes u_3 jusqu'à u_34 pour u la suite arithmétique de raison 5 et de premier terme u_0=7.
 
 1. Calculer la somme des puissances successives de 2, de 2^3 à 2^10 en utilisant la formule sur les suites géométriques.
+
+- Pour [jeudi 2 mars 2017](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/44):
+
+1. Contrôle avec des suites et des algorithmes.
+
+1. Relire la proposition 16, exemple 17: Epreuve de Bernouilli du [polycopié](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Polycopie/Probabilit%C3%A9s.pdf) de cours: paramètre d'un épreuve de Bernouilli.
+
+1. Lire et questionner la définition 18 et l'exemple 19 du [polycopié](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Polycopie/Probabilit%C3%A9s.pdf) de cours.
 
 ---
 
