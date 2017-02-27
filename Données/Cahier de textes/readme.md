@@ -61,7 +61,7 @@ Reconnaitre une suite géométrique.
 
 1. Correction d'exercices.
 
-
+-->
 
 Lundi 27 février 2017:
 
@@ -88,7 +88,7 @@ Devoirs:
 1. Calculer la somme des puissances successives de 2, de 2^3 à 2^10 en utilisant la formule sur les suites géométriques.
 
 ---
--->
+
 
 Jeudi 9 février 2017:
 
