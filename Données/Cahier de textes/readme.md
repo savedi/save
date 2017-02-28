@@ -61,7 +61,7 @@ Reconnaitre une suite géométrique.
 
 1. Correction d'exercices.
 
-
+-->
 
 Mardi 28 février 2017:
 
@@ -84,7 +84,7 @@ Devoirs:
 1. Lire et questionner la définition 18 et l'exemple 19 du [polycopié](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Polycopie/Probabilit%C3%A9s.pdf) de cours.
 
 ---
--->
+
 
 Lundi 27 février 2017:
 
