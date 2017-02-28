@@ -65,6 +65,8 @@ Reconnaitre une suite géométrique.
 
 Mardi 28 février 2017:
 
+1. Date contrôle.
+
 1. Exercice [B page 297](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Images/Bp297.png)([Correction](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Images/corBp297.png)): Calculer les paramètres d'une loi de probabilité.
 
 1. [Présentation](https://github.com/EdisonLorgues1SD1617/Math1SD1617/raw/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Pr%C3%A9sentation/Probabilit%C3%A9s.pdf) du cours de probabilités: Proposition 16, exemple 17: Epreuve de Bernouilli.
