@@ -121,7 +121,7 @@ Devoirs:
 
 1. Lire et questionner la définition 18 et l'exemple 19 du [polycopié](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Polycopie/Probabilit%C3%A9s.pdf) de cours.
 
-Pour mardi 7 mars 2017:
+- Pour mardi 7 mars 2017:
 
 Contrôle avec des suites et des algorithmes.
 
@@ -146,11 +146,13 @@ Devoirs:
 
 - Pour [jeudi 2 mars 2017](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/44):
 
-1. Contrôle avec des suites et des algorithmes.
-
 1. Relire la proposition 16, exemple 17: Epreuve de Bernouilli du [polycopié](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Polycopie/Probabilit%C3%A9s.pdf) de cours: paramètre d'un épreuve de Bernouilli.
 
 1. Lire et questionner la définition 18 et l'exemple 19 du [polycopié](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Polycopie/Probabilit%C3%A9s.pdf) de cours.
+
+- Pour mardi 7 mars 2017:
+
+Contrôle avec des suites et des algorithmes.
 
 ---
 
