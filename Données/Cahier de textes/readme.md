@@ -61,7 +61,7 @@ Reconnaitre une suite géométrique.
 
 1. Correction d'exercices.
 
--->
+
 
 Jeudi 2 mars 2017:
 
@@ -103,6 +103,7 @@ Pour [jeudi 9 mars 2017](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/
 
 
 ---
+-->
 
 Mardi 28 février 2017:
 
