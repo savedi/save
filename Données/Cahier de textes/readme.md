@@ -63,17 +63,21 @@ Reconnaitre une suite géométrique.
 
 -->
 
-Mardi 28 février 2017:
-
-1. Date contrôle.
-
-1. Exercice [B page 297](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Images/Bp297.png)([Correction](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Images/corBp297.png)): Calculer les paramètres d'une loi de probabilité.
+Jeudi 2 mars 2017:
 
 1. [Présentation](https://github.com/EdisonLorgues1SD1617/Math1SD1617/raw/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Pr%C3%A9sentation/Probabilit%C3%A9s.pdf) du cours de probabilités: Proposition 16, exemple 17: Epreuve de Bernouilli.
 
 1. Exercices [2 et 3 page 296](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Images/1-3p296.png): Déterminer une loi de probabilité.
 
 1. Exercices [39 et 40 page 306](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Images/39-40p306.png): Variable aléatoire associée à une suite d'expérience.
+
+---
+
+Mardi 28 février 2017:
+
+1. [Correction](https://github.com/EdisonLorgues1SD1617/Devoirs/files/804454/EX_suites_r_vision.1.pdf) des exercices [2 et 3](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/43) sur le calcul de somme de termes d'une suite arithmétique ou géométrique.
+
+1. Exercice [B page 297](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Images/Bp297.png)([Correction](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Images/corBp297.png)): Calculer les paramètres d'une loi de probabilité.
 
 Devoirs:
 
