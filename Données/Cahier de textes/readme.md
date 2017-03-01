@@ -71,7 +71,7 @@ Jeudi 2 mars 2017:
 
 1. Exercices [39 et 40 page 306](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Images/39-40p306.png): Variable aléatoire associée à une suite d'expériences.
 
-1. Soient a et b deux rééls et X une variable aléatoire. Enoncer et démontrer les formules du cours pour E(aX+b) et Var(aX+B).
+1. Soient a et b deux rééls et X une variable aléatoire. Enoncer et démontrer les formules du cours pour E(aX+b) et Var(aX+b).
 
 1. Exercice [C page 298](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Images/Cp298.png): Interpréter l'espérance mathématique.
 
@@ -92,6 +92,8 @@ Pour [mardi 7 mars 2017](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/
 Contrôle avec des suites et des algorithmes.
 
 Pour [jeudi 9 mars 2017](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/48):
+
+1. Exercice [8 page 298](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Images/7-8p298.png): Interpréter l'espérance mathématique.
 
 1. Exercice [2 page 325](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Images/2p325.png): Fête foraine.
 
