@@ -83,6 +83,8 @@ Jeudi 2 mars 2017:
 
 1. [Présentation](https://github.com/EdisonLorgues1SD1617/Math1SD1617/raw/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Pr%C3%A9sentation/Probabilit%C3%A9s.pdf) du cours de probabilités:Définition 18, exemple 19, définition 20 et théorème 21.
 
+1. Exercice [B page 326](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Images/Bp326.png): Utiliser la loi binomiale.
+
 Pour lundi 6 mars 2017:
 
 1. Exercice [7 page 298](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Images/7-8p298.png): Interpréter l'espérance mathématique.
