@@ -67,9 +67,20 @@ Jeudi 2 mars 2017:
 
 1. [Présentation](https://github.com/EdisonLorgues1SD1617/Math1SD1617/raw/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Pr%C3%A9sentation/Probabilit%C3%A9s.pdf) du cours de probabilités: Proposition 16, exemple 17: Epreuve de Bernouilli.
 
-1. Exercices [2 et 3 page 296](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Images/1-3p296.png): Déterminer une loi de probabilité.
+1. Exercices [4 à 6 page 297](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Images/4-6p297.png): Paramètres d'une variable aléatoire.
 
-1. Exercices [39 et 40 page 306](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Images/39-40p306.png): Variable aléatoire associée à une suite d'expérience.
+1. Exercices [39 et 40 page 306](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Images/39-40p306.png): Variable aléatoire associée à une suite d'expériences.
+
+1. Enoncer et démontrer les formules du cours pour E(aX+b) et Var(aX+B) où X est une variable aléatoire.
+
+Pour lundi 6 mars 2017:
+
+
+
+
+Pour mardi 7 mars 2017:
+
+Contrôle avec des suites et des algorithmes.
 
 ---
 
@@ -83,11 +94,15 @@ Devoirs:
 
 - Pour [jeudi 2 mars 2017](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/44):
 
-1. Contrôle avec des suites et des algorithmes.
+1. Exercices [2 et 3 page 296](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Images/1-3p296.png): Déterminer une loi de probabilité.
 
 1. Relire la proposition 16, exemple 17: Epreuve de Bernouilli du [polycopié](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Polycopie/Probabilit%C3%A9s.pdf) de cours: paramètre d'un épreuve de Bernouilli.
 
 1. Lire et questionner la définition 18 et l'exemple 19 du [polycopié](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Polycopie/Probabilit%C3%A9s.pdf) de cours.
+
+Pour mardi 7 mars 2017:
+
+Contrôle avec des suites et des algorithmes.
 
 ---
 
