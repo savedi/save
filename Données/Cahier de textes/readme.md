@@ -65,7 +65,7 @@ Reconnaitre une suite géométrique.
 
 Jeudi 2 mars 2017:
 
-1. Correction exercices [2 et 3 page 296](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Images/1-3p296.png): Déterminer une loi de probabilité.
+1. [Correction](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/44) exercices [2 et 3 page 296](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Images/1-3p296.png): Déterminer une loi de probabilité.
 
 1. [Présentation](https://github.com/EdisonLorgues1SD1617/Math1SD1617/raw/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Pr%C3%A9sentation/Probabilit%C3%A9s.pdf) du cours de probabilités: Proposition 16, exemple 17: Epreuve de Bernouilli.
 
