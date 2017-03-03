@@ -63,17 +63,11 @@ Reconnaitre une suite géométrique.
 
 -->
 
-Jeudi 2 mars 2017:
+Lundi
 
-1. [Correction](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/44) exercices [2 et 3 page 296](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Images/1-3p296.png): Déterminer une loi de probabilité.
-
-1. [Présentation](https://github.com/EdisonLorgues1SD1617/Math1SD1617/raw/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Pr%C3%A9sentation/Probabilit%C3%A9s.pdf) du cours de probabilités: Proposition 16, exemple 17: Epreuve de Bernouilli.
-
-1. Exercices [4 à 6 page 297](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Images/4-6p297.png): Paramètres d'une variable aléatoire.
+1. Exercices [5 à 6 page 297](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Images/4-6p297.png): Paramètres d'une variable aléatoire.
 
 1. Exercices [39 et 40 page 306](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Images/39-40p306.png): Variable aléatoire associée à une suite d'expériences.
-
-1. Soient a et b deux rééls et X une variable aléatoire. Enoncer et démontrer les formules du cours pour E(aX+b) et Var(aX+b).
 
 1. Exercice [C page 298](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Images/Cp298.png): Interpréter l'espérance mathématique.
 
@@ -89,7 +83,32 @@ Jeudi 2 mars 2017:
 
 Devoirs:
 
-Pour lundi 6 mars 2017:
+Pour [mardi 7 mars 2017](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/47):
+
+Contrôle avec des suites et des algorithmes.
+
+Pour [jeudi 9 mars 2017](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/48):
+
+1. Exercice [8 page 298](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Images/7-8p298.png): Interpréter l'espérance mathématique.
+
+1. Exercice [2 page 325](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Images/2p325.png): Fête foraine.
+
+
+---
+
+Jeudi 2 mars 2017:
+
+1. [Correction](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/44) exercices [2 et 3 page 296](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Images/1-3p296.png): Déterminer une loi de probabilité.
+
+1. [Présentation](https://github.com/EdisonLorgues1SD1617/Math1SD1617/raw/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Pr%C3%A9sentation/Probabilit%C3%A9s.pdf) du cours de probabilités: Proposition 16, exemple 17: Epreuve de Bernouilli.
+
+1. Exercices [4 page 297](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Images/4-6p297.png): Paramètres d'une variable aléatoire.
+
+1. Soient a et b deux rééls et X une variable aléatoire. Enoncer et démontrer les formules du cours pour E(aX+b) et Var(aX+b).
+
+Devoirs:
+
+Pour [lundi 6 mars 2017](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/47):
 
 1. Exercice [7 page 298](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Images/7-8p298.png): Interpréter l'espérance mathématique.
 
