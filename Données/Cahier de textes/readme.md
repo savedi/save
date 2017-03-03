@@ -113,6 +113,8 @@ Contrôle avec des suites et des algorithmes.
 
 Pour [jeudi 9 mars 2017](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/48):
 
+1. Lire et questionner le théorème 21 du [polycopié](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Polycopie/Probabilit%C3%A9s.pdf) de cours: Loi binomiale.
+
 1. Exercice [8 page 298](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Images/7-8p298.png): Interpréter l'espérance mathématique.
 
 1. Exercice [2 page 325](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Images/2p325.png): Fête foraine.
