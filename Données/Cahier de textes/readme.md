@@ -91,7 +91,7 @@ Pour [jeudi 9 mars 2017](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/
 
 1. Exercice [B page 326](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Images/Bp326.png): Utiliser la loi binomiale.
 
--->
+
 
 Lundi 6 mars 2017:
 
@@ -121,7 +121,7 @@ Pour [jeudi 9 mars 2017](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/
 
 
 ---
-
+-->
 
 Jeudi 2 mars 2017:
 
