@@ -95,9 +95,9 @@ Pour [jeudi 9 mars 2017](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/
 
 Lundi 6 mars 2017:
 
-1. Trouver la loi de probabilité de la variable aléatoire qui compte le nombre de faces obtenues lors d'une suite de deux lancés d'une pièce truquée qui tombe sur face une fois sur trois.
+1. Trouver la loi de probabilité de la variable aléatoire X qui compte le nombre de faces obtenues lors d'une suite de deux lancés d'une pièce truquée qui tombe sur face une fois sur trois.
 
-1. Trouver la loi de probabilité de la variable aléatoire qui compte le nombre de faces obtenues lors d'une suite de trois lancés de cette même pièce.
+1. Trouver la loi de probabilité de la variable aléatoire Y qui compte le nombre de faces obtenues lors d'une suite de trois lancés de cette même pièce.
 
 1. [Présentation](https://github.com/EdisonLorgues1SD1617/Math1SD1617/raw/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Pr%C3%A9sentation/Probabilit%C3%A9s.pdf) du cours de probabilités:Définition 18, exemple 19, définition 20: Schéma de Bernoulli d'ordre n.
 
