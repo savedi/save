@@ -103,6 +103,8 @@ Lundi 6 mars 2017:
 
 1. Soient a et b deux rééls et X une variable aléatoire. Enoncer et démontrer la formule du cours pour Var(aX+b).
 
+1. Corrections d'exercices.
+
 Devoirs:
 
 Pour mardi 7 mars 2017:
@@ -136,6 +138,8 @@ Pour [lundi 6 mars 2017](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/
 1. Lire et questionner la définition 20 du [polycopié](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Polycopie/Probabilit%C3%A9s.pdf) de cours: Variable aléatoire associée à un schéma de Bernoulli d'ordre n.
 
 1. Exercice [7 page 298](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Images/7-8p298.png): Interpréter l'espérance mathématique.
+
+1. Exercices [5 et 6 page 297](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Images/4-6p297.png): Paramètres d'une variable aléatoire.
 
 Pour mardi 7 mars 2017:
 
