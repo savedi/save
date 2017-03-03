@@ -133,6 +133,8 @@ Devoirs:
 
 Pour [lundi 6 mars 2017](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/47):
 
+1. Lire et questionner la définition 20 du [polycopié](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Polycopie/Probabilit%C3%A9s.pdf) de cours: Variable aléatoire associée à un schéma de Bernoulli d'ordre n.
+
 1. Exercice [7 page 298](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Images/7-8p298.png): Interpréter l'espérance mathématique.
 
 Pour mardi 7 mars 2017:
@@ -163,7 +165,7 @@ Devoirs:
 
 1. Relire la proposition 16, exemple 17: Epreuve de Bernouilli du [polycopié](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Polycopie/Probabilit%C3%A9s.pdf) de cours: paramètre d'un épreuve de Bernouilli.
 
-1. Lire et questionner la définition 18 et l'exemple 19 du [polycopié](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Polycopie/Probabilit%C3%A9s.pdf) de cours.
+1. Lire et questionner la définition 18 et l'exemple 19 du [polycopié](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Polycopie/Probabilit%C3%A9s.pdf) de cours: Schéma de Bernoulli d'ordre n.
 
 - Pour mardi 7 mars 2017:
 
