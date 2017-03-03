@@ -86,8 +86,11 @@ Pour [jeudi 9 mars 2017](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/
 1. Exercice [2 page 325](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Images/2p325.png): Fête foraine.
 
 ---
+-->
 
 Lundi 6 mars 2017:
+
+1. Soient a et b deux rééls et X une variable aléatoire. Enoncer et démontrer la formule du cours pour Var(aX+b).
 
 1. Exercice [C page 298](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Images/Cp298.png): Interpréter l'espérance mathématique.
 
@@ -113,7 +116,7 @@ Pour [jeudi 9 mars 2017](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/
 
 
 ---
--->
+
 
 Jeudi 2 mars 2017:
 
@@ -123,7 +126,7 @@ Jeudi 2 mars 2017:
 
 1. Exercices [4 page 297](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Images/4-6p297.png): Paramètres d'une variable aléatoire.
 
-1. Soient a et b deux rééls et X une variable aléatoire. Enoncer et démontrer les formules du cours pour E(aX+b) et Var(aX+b).
+1. Soient a et b deux rééls et X une variable aléatoire. Enoncer et démontrer la formule du cours pour E(aX+b) et Var(aX+b).
 
 Devoirs:
 
