@@ -61,7 +61,7 @@ Reconnaitre une suite géométrique.
 
 1. Correction d'exercices.
 
--->
+
 
 Jeudi
 
@@ -91,8 +91,6 @@ Lundi 6 mars 2017:
 
 1. Exercice [C page 298](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Images/Cp298.png): Interpréter l'espérance mathématique.
 
-1. Exercice [7 page 298](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Images/7-8p298.png): Interpréter l'espérance mathématique.
-
 1. Trouver la loi de probabilité de la variable aléatoire qui compte le nombre de faces obtenues lors d'une suite de deux lancés d'une pièce truquée qui tombe sur face une fois sur trois.
 
 1. Trouver la loi de probabilité de la variable aléatoire qui compte le nombre de faces obtenues lors d'une suite de trois lancés de cette même pièce.
@@ -115,6 +113,7 @@ Pour [jeudi 9 mars 2017](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/
 
 
 ---
+-->
 
 Jeudi 2 mars 2017:
 
