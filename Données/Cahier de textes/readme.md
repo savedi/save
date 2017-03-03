@@ -131,7 +131,7 @@ Jeudi 2 mars 2017:
 
 1. Exercices [4 page 297](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Images/4-6p297.png): Paramètres d'une variable aléatoire.
 
-1. Soient a et b deux rééls et X une variable aléatoire. Enoncer et démontrer la formule du cours pour E(aX+b) et Var(aX+b).
+1. Soient a et b deux rééls et X une variable aléatoire. Enoncer et démontrer la formule du cours pour E(aX+b).
 
 Devoirs:
 
