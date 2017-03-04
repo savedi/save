@@ -11,11 +11,13 @@ Compétences:
 - Mettre en oeuvre une recherche autonome:
   - S'appuyer sur une analyse détaillée de l'énoncé pour guider sa résolution d'exercice.
 - Communiquer à l'écrit et à l'oral:
-  - A l'oral, invoquer la loi des chemins pour justifier le calcul de la probabilité des issues de cette expérience.
+  - A l'oral, expliquer sa démarche de résolution.
   - A l'écrit,
     - Savoir présenter la listes des issues de l'expérience, les probabilités associées et les valeurs prises par la variable aléatoire considérée.
     - Choisir un format satisfaisant pour décrire la loi de probabilité de X obtenue: utilisation d'un tableau ou présentation de chacune des probabilités élémentaires P(X=x_i).
     - S'assurer que la conclusion de la redaction répond bien à la question posée.
+  - Justifier l'utilisation d'un arbre pondéré.   
+  - Invoquer la loi des chemins pour justifier le calcul de la probabilité des issues de cette expérience.
 - Avoir une attitude critique vis à vis du résultat obtenues  
   - Difficulté de l'utilisation d'un arbre pondéré pour une suite d'un grand nombre d'expériences aléatoires.
   - Interroger la réalisabilité de construire une telle pièce truquée.
