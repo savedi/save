@@ -9,10 +9,12 @@ Lundi 6 mars 2017:
 Compétences d'ordre général:
 
 - Mettre en oeuvre une recherche autonome.
+- Communiquer à l'écrit et à l'oral.
+  - A l'oral, invoquer la loi des chemins pour justifier le calcul de la probabilité des issues de cette expérience.
+  - A l'écrit, choisir un format satisfaisant pour décrire la loi de probabilité de X obtenue: utilisation d'un tableau ou présentation de chacune des probabilités élémentaires P(X=x_i).
 - Avoir une attitude critique vis à vis du résultat obtenues  
   - Difficulté de l'utilisation d'un arbre pondéré pour une suite d'un grand nombre d'expériences aléatoires.
-- Communiquer à l'écrit et à l'oral.
-  - A l'oral
+
 
 Compétences spécifiques à la séquence:
 
@@ -21,7 +23,7 @@ Compétences spécifiques à la séquence:
 - Utiliser cette représentation pour déterminer la loi d’une variable
 aléatoire associée à une telle situation.
 
-  - (Facultative) S'appuyer sur un diagramme synthétique pour la loi d'une variable aléatoire pour guider notre résolution d'exercice.
+  - (Facultative) S'appuyer sur un diagramme synthétique pour la loi d'une variable aléatoire pour guider la résolution d'exercice.
 
 1. [Présentation](https://github.com/EdisonLorgues1SD1617/Math1SD1617/raw/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Pr%C3%A9sentation/Probabilit%C3%A9s.pdf) du cours de probabilités:Définition 18, exemple 19, définition 20: Schéma de Bernoulli d'ordre n.
 
