@@ -6,17 +6,22 @@ Lundi 6 mars 2017:
 
 - Trouver la loi de probabilité de la variable aléatoire Y qui compte le nombre de faces obtenues lors d'une suite de trois lancers de cette même pièce.
 
-Compétences d'ordre général:
+Compétences:
 
-- Mettre en oeuvre une recherche autonome.
-- Communiquer à l'écrit et à l'oral.
+- Mettre en oeuvre une recherche autonome:
+  - S'appuyer sur une analyse détaillée de l'énoncé pour guider sa résolution d'exercice.
+- Communiquer à l'écrit et à l'oral:
   - A l'oral, invoquer la loi des chemins pour justifier le calcul de la probabilité des issues de cette expérience.
-  - A l'écrit, choisir un format satisfaisant pour décrire la loi de probabilité de X obtenue: utilisation d'un tableau ou présentation de chacune des probabilités élémentaires P(X=x_i).
+  - A l'écrit,
+    - Savoir présenter la listes des issues de l'expérience, les probabilités associées et les valeurs prises par la variable aléatoire considérée.
+    - Choisir un format satisfaisant pour décrire la loi de probabilité de X obtenue: utilisation d'un tableau ou présentation de chacune des probabilités élémentaires P(X=x_i).
+    - S'assurer que la conclusion de la redaction répond bien à la question posée.
 - Avoir une attitude critique vis à vis du résultat obtenues  
   - Difficulté de l'utilisation d'un arbre pondéré pour une suite d'un grand nombre d'expériences aléatoires.
+  - Interroger la réalisabilité de construire une telle pièce truquée.
+  - Alternative enviseagée pour réaliser une épreuve de Bernoulli de paramètre 1/3.
 
-
-Compétences spécifiques à la séquence:
+Capacités:
 
 - Représenter la répétition d'expériences aléatoires par un arbre pondéré.
 
