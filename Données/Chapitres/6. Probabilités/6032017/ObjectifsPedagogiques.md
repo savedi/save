@@ -1,6 +1,11 @@
 Lundi 6 mars 2017:
 
-1. Activité préparatoire à l'introduction de la notion de schéma de Bernoulli d'ordre n.
+Objectif principal de la séance (30 minutes): poursuivre l'étude des suites d'expériences aléatoires identiques et indépendantes:
+Introduire la notion de schéma de Bernoulli d'ordre n.
+
+Démonstration de la deuxième partie du théorème 12:
+
+1. Activité préparatoire à l'introduction de la notion de schéma de Bernoulli d'ordre n (15 minutes)
 
 - Trouver la loi de probabilité de la variable aléatoire X qui compte le nombre de faces obtenues lors d'une suite de deux lancers d'une pièce truquée qui tombe sur face une fois sur trois.
 
@@ -18,10 +23,11 @@ Compétences:
     - S'assurer que la conclusion de la redaction répond bien à la question posée.
   - Justifier l'utilisation d'un arbre pondéré.   
   - Invoquer la loi des chemins pour justifier le calcul de la probabilité des issues de cette expérience.
-- Avoir une attitude critique vis à vis du résultat obtenues  
-  - Difficulté de l'utilisation d'un arbre pondéré pour une suite d'un grand nombre d'expériences aléatoires.
+- Avoir une attitude critique vis à vis du résultat obtenu  
   - Interroger la réalisabilité de construire une telle pièce truquée.
   - Alternative enviseagée pour réaliser une épreuve de Bernoulli de paramètre 1/3. (Tirage de boules indicernables en bonne proportion ?)
+  - Difficulté pour généraliser cette méthode pour un grand nombre d'épreuves identiques et indépendantes (pour un nombre quelconque ?)
+  - Utiliser cette expérience pour réaliser un jeu d'argent.
 
 Capacités:
 
@@ -32,9 +38,33 @@ aléatoire associée à une telle situation.
 
   - (Facultative) S'appuyer sur un diagramme synthétique pour la loi d'une variable aléatoire pour guider la résolution d'exercice.
 
-1. [Présentation](https://github.com/EdisonLorgues1SD1617/Math1SD1617/raw/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Pr%C3%A9sentation/Probabilit%C3%A9s.pdf) du cours de probabilités:Définition 18, exemple 19, définition 20: Schéma de Bernoulli d'ordre n.
+Connaissances:
 
-1. Soient a et b deux rééls et X une variable aléatoire. Enoncer et démontrer la formule du cours pour Var(aX+b).
+- Probabilité d'un événement (sans équiprobabilité). Définition 1.
+- Loi des chemins: Théorème 3.
+- Suite d'expériences indépendantes et identiques: Définition 4.
+- Variable aléatoire discrète: Définition 6.
+- Loi de probabilité: Définition 8.
+- Epreuve de Bernoulli: Définition 14.    
+
+
+
+1. [Présentation](https://github.com/EdisonLorgues1SD1617/Math1SD1617/raw/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Pr%C3%A9sentation/Probabilit%C3%A9s.pdf) du cours de probabilités:
+
+- Définition 18: Schéma de Bernoulli d'ordre n.
+- Exemple 19: 3 Lancers successifs d'un dé équilibré.
+- Définition 20: Variable aléatoire associée: Nombre de succès.
+
+1. Fin de la démonstration du théorème 12:
+
+ Soient a et b deux rééls et X une variable aléatoire.
+ - Enoncer la formule du cours pour Var(aX+b)
+ - Démontrer cette formule.
+ - En déduire une formule pour l'écart-type.
+
+Compétences:
+
+- Choisir et appliquer des techniques de calcul.
 
 1. Corrections d'exercices.
 
