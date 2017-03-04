@@ -6,7 +6,7 @@ Jeudi 2 fevrier 2017:
 
 1. [Présentation](https://github.com/EdisonLorgues1SD1617/Math1SD1617/raw/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Pr%C3%A9sentation/Probabilit%C3%A9s.pdf) du cours de probabilités: Définition 1, exemple 2: Fonction de probabilités.
 
-1. Activité [2 page 293](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Activit%C3%A9s/2p293.png): Lancé de dé et loi des grands nombres.
+1. Activité [2 page 293](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Activit%C3%A9s/2p293.png): Lancer de dé et loi des grands nombres.
 
 1. Théorème 3, definition 4 et exemple 5: Suite d'expériences aléatoires.
 
