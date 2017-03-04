@@ -51,16 +51,16 @@ Connaissances:
 
 1. [Présentation](https://github.com/EdisonLorgues1SD1617/Math1SD1617/raw/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Pr%C3%A9sentation/Probabilit%C3%A9s.pdf) du cours de probabilités:
 
-- Définition 18: Schéma de Bernoulli d'ordre n.
-- Exemple 19: 3 Lancers successifs d'un dé équilibré.
-- Définition 20: Variable aléatoire associée: Nombre de succès.
+  - Définition 18: Schéma de Bernoulli d'ordre n.
+  - Exemple 19: 3 Lancers successifs d'un dé équilibré.
+  - Définition 20: Variable aléatoire associée: Nombre de succès.
 
 1. Fin de la démonstration du théorème 12:
 
  Soient a et b deux rééls et X une variable aléatoire.
- - Enoncer la formule du cours pour Var(aX+b)
- - Démontrer cette formule.
- - En déduire une formule pour l'écart-type.
+  - Enoncer la formule du cours pour Var(aX+b)
+  - Démontrer cette formule.
+  - En déduire une formule pour l'écart-type.
 
 Compétences:
 
