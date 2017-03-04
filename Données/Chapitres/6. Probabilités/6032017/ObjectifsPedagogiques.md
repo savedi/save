@@ -19,7 +19,7 @@ Compétences:
 - Avoir une attitude critique vis à vis du résultat obtenues  
   - Difficulté de l'utilisation d'un arbre pondéré pour une suite d'un grand nombre d'expériences aléatoires.
   - Interroger la réalisabilité de construire une telle pièce truquée.
-  - Alternative enviseagée pour réaliser une épreuve de Bernoulli de paramètre 1/3.
+  - Alternative enviseagée pour réaliser une épreuve de Bernoulli de paramètre 1/3. (Tirage de boules indicernables en bonne proportion ?)
 
 Capacités:
 
