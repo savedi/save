@@ -14,12 +14,12 @@ Introduire la notion de schéma de Bernoulli d'ordre n.
 
 ---
 
-## Activité préparatoire à l'introduction de la notion de schéma de Bernoulli d'ordre n (20 minutes)
+### 1. Activité préparatoire à l'introduction de la notion de schéma de Bernoulli d'ordre n (20 minutes)
 
   - Trouver la loi de probabilité de la variable aléatoire X qui compte le nombre de faces obtenues lors d'une suite de deux lancers d'une pièce truquée qui tombe sur face une fois sur trois.
   - Trouver la loi de probabilité de la variable aléatoire Y qui compte le nombre de faces obtenues lors d'une suite de trois lancers de cette même pièce.
 
-###Compétences:
+#### Compétences:
 
   - Mettre en oeuvre une recherche autonome:
     - S'appuyer sur une analyse détaillée de l'énoncé pour guider sa résolution d'exercice.
@@ -37,14 +37,14 @@ Introduire la notion de schéma de Bernoulli d'ordre n.
     - Difficulté pour généraliser cette méthode pour un grand nombre d'épreuves identiques et indépendantes (pour un nombre quelconque ?)
     - Utiliser cette expérience pour réaliser un jeu d'argent.
 
-###Capacités:
+#### Capacités:
 
   - Représenter la répétition d'expériences aléatoires par un arbre pondéré.
   - Utiliser cette représentation pour déterminer la loi d’une variable
   aléatoire associée à une telle situation.
   - (Facultative) S'appuyer sur un diagramme synthétique pour la loi d'une variable aléatoire pour guider la résolution d'exercice.
 
-###Connaissances:
+#### Connaissances:
 
   - Probabilité d'un événement (sans équiprobabilité). Définition 1.
   - Loi des chemins: Théorème 3.
@@ -53,35 +53,35 @@ Introduire la notion de schéma de Bernoulli d'ordre n.
   - Loi de probabilité: Définition 8.
   - Epreuve de Bernoulli: Définition 14.    
 
-## [Présentation](https://github.com/EdisonLorgues1SD1617/Math1SD1617/raw/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Pr%C3%A9sentation/Probabilit%C3%A9s.pdf) du cours de probabilités (15 mintes):
+### 2. [Présentation](https://github.com/EdisonLorgues1SD1617/Math1SD1617/raw/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Pr%C3%A9sentation/Probabilit%C3%A9s.pdf) du cours de probabilités (15 mintes):
 
   - Définition 18: Schéma de Bernoulli d'ordre n.
   - Exemple 19: 3 Lancers successifs d'un dé équilibré.
   - Définition 20: Variable aléatoire associée: Nombre de succès.
 
-## Fin de la démonstration du théorème 12 (10 minutes):
+### 3. Fin de la démonstration du théorème 12 (10 minutes):
 
  Soient a et b deux rééls et X une variable aléatoire.
   - Enoncer la formule du cours pour Var(aX+b)
   - Démontrer cette formule.
   - En déduire une formule pour l'écart-type.
 
-###Compétences:
+#### Compétences:
 
   - Adopter une stratégie différente que celle utilisée sur un problème précédent analogue.
   - Choisir et appliquer des techniques de calcul.
 
-###Capacités:
+#### Capacités:
 
-###Connaissances:
+#### Connaissances:
 
 - Corrections d'exercices (5 minutes).
 
-##Compétences:
+### Compétences:
 
-##Capacités:
+### Capacités:
 
-##Connaissances:
+### Connaissances:
 
 Devoirs:
 
