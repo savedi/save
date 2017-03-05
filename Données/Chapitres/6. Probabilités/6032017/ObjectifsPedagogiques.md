@@ -4,15 +4,12 @@
 
 1. Objectif principal: Poursuivre l'étude sur les expériences aléatoires constitueés d'épreuves identiques et indépendantes:
 Introduire la notion de schéma de Bernoulli d'ordre n.
-
 (35 minutes)
 
 1. Chercher une démonstration pour la deuxième partie du théorème 12.
-
 (10 minutes)
 
 1. Commenter les productions d'élèves concenants les devoirs qui étaient à faire pour la séance du jour (plutôt qu'une correction de ceux-ci).
-
 (5 minutes)
 
 ---
