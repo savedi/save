@@ -75,7 +75,7 @@ Introduire la notion de schéma de Bernoulli d'ordre n.
 
 #### Connaissances:
 
-  - Théorème 12: Linéarité de l'espérance.
+  - Linéarité de l'espérance: Théorème 12.
   - Racine carrée, Valeur absolue.
 
 ###3. Corrections d'exercices (5 minutes).
@@ -97,8 +97,8 @@ Exercice [7 page 298](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Mat
 
   - Variable aléatoire discrète: Définition 6.
   - Loi de probabilité: Définition 8.
-  - Théorème 12: Linéarité de l'espérance.
-  - Théorème 13: Loi des grands nombres.
+  - Linéarité de l'espérance: Théorème 12.
+  - Loi des grands nombres: Théorème 13.
 
 Exercices [5 et 6 page 297](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Images/4-6p297.png).
 
@@ -107,6 +107,8 @@ Exercices [5 et 6 page 297](https://raw.githubusercontent.com/EdisonLorgues1SD16
   - Distinguer des événements de la forme "au moins un" et "exactement un".
   - Utiliser la loi des chemins pour un arbre pondéré trop grand pour être dessiné.
   - Justifier l'équiprobabilité d'une suite d'épreuves identiques indépendantes constituées d'épreuves dont les issues sont équiprobables.
+  - Choisir et appliquer une formule du cours:
+    - Calcul d'espérance, de variance et d'écart-type.
   - Avoir une attitude critique vis à vis du résultat obtenu:
     - Refuser une probabilité totale différente de 1.
 
@@ -115,6 +117,8 @@ Exercices [5 et 6 page 297](https://raw.githubusercontent.com/EdisonLorgues1SD16
   - (Classe de seconde) Déterminer la probabilité d’événements dans des situations d’équiprobabilité.  
 
 #### Connaissances:
+  - Variable aléatoire discrète: Définition 6.
+  - Paramètres d'une variable aléatoire: Définition 10.
 
 Devoirs:
 
