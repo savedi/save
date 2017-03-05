@@ -26,7 +26,8 @@ Introduire la notion de schéma de Bernoulli d'ordre n.
   - Communiquer à l'écrit et à l'oral:
     - A l'oral, expliquer sa démarche de résolution.
     - A l'écrit,
-      - Savoir présenter la listes des issues de l'expérience, les probabilités associées et les valeurs prises par la variable aléatoire considérée.
+      - S'appuyer sur un diagramme synthétique pour la  loi d'une variable aléatoire pour guider la résolution d'exercice.
+      - Investir les notations du cours pour présenter la listes des issues de l'expérience, les probabilités associées et les valeurs prises par la variable aléatoire.
       - Choisir un format satisfaisant pour décrire la loi de probabilité de X obtenue: utilisation d'un tableau ou présentation de chacune des probabilités élémentaires P(X=x_i).
       - S'assurer que la conclusion de la redaction répond bien à la question posée.
     - Justifier l'utilisation d'un arbre pondéré.   
@@ -42,7 +43,6 @@ Introduire la notion de schéma de Bernoulli d'ordre n.
   - Représenter la répétition d'expériences aléatoires par un arbre pondéré.
   - Utiliser cette représentation pour déterminer la loi d’une variable
   aléatoire associée à une telle situation.
-  - (Facultative) S'appuyer sur un diagramme synthétique pour la loi d'une variable aléatoire pour guider la résolution d'exercice.
 
 #### Connaissances:
 
