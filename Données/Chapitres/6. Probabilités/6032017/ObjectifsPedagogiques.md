@@ -1,8 +1,8 @@
 Lundi 6 mars 2017:
 
-Objectifs pédagogiques de la sénace:
+Objectifs pédagogiques de la séance:
 
-- Objectif principal de la séance: poursuivre l'étude des suites d'expériences aléatoires identiques et indépendantes:
+- Objectif principal: poursuivre l'étude des suites d'expériences aléatoires identiques et indépendantes:
 Introduire la notion de schéma de Bernoulli d'ordre n (35 minutes).
 
 - Démonstration de la deuxième partie du théorème 12 (10 minustes).
