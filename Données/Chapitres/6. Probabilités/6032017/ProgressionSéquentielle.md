@@ -130,7 +130,7 @@ Jeudi 2 mars 2017:
 
 1. [Correction](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/44) exercices [2 et 3 page 296](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Images/1-3p296.png): Déterminer une loi de probabilité.
 
-1. [Présentation](https://github.com/EdisonLorgues1SD1617/Math1SD1617/raw/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Pr%C3%A9sentation/Probabilit%C3%A9s.pdf) du cours de probabilités: Proposition 16, exemple 17: Paramêtres d'une loi de Bernouilli.
+1. [Présentation](https://github.com/EdisonLorgues1SD1617/Math1SD1617/raw/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Pr%C3%A9sentation/Probabilit%C3%A9s.pdf) du cours de probabilités, Proposition 16, exemple 17: Paramêtres d'une loi de Bernouilli.
 
 1. Exercices [4 page 297](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Images/4-6p297.png): Paramètres d'une variable aléatoire.
 
@@ -154,7 +154,7 @@ Lundi 6 mars 2017:
 
 1. Trouver la loi de probabilité de la variable aléatoire Y qui compte le nombre de faces obtenues lors d'une suite de trois lancers de cette même pièce.
 
-1. [Présentation](https://github.com/EdisonLorgues1SD1617/Math1SD1617/raw/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Pr%C3%A9sentation/Probabilit%C3%A9s.pdf) du cours de probabilités:Définition 18, exemple 19, définition 20: Schéma de Bernoulli d'ordre n.
+1. [Présentation](https://github.com/EdisonLorgues1SD1617/Math1SD1617/raw/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Pr%C3%A9sentation/Probabilit%C3%A9s.pdf) du cours de probabilités, définition 18, exemple 19, définition 20: Schéma de Bernoulli d'ordre n.
 
 1. Soient a et b deux rééls et X une variable aléatoire. Enoncer et démontrer la formule du cours pour Var(aX+b).
 
@@ -175,3 +175,15 @@ Pour [jeudi 9 mars 2017](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/
 1. Exercice [8 page 298](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Images/7-8p298.png): Interpréter l'espérance mathématique.
 
 1. Exercice [2 page 325](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Images/2p325.png): Fête foraine.
+
+---
+
+Pour jeudi 9 mars 2017:
+
+1. [Présentation](https://github.com/EdisonLorgues1SD1617/Math1SD1617/raw/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Pr%C3%A9sentation/Probabilit%C3%A9s.pdf) du cours de probabilités, théorème 21: Loi binomiale de paramètre n et p. Espérance et variance.
+
+1. Définition 22: Coefficients binomiaux.
+
+1. Exercice 23 page 334 ([Casio](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Images/23p334Casio.png)),([Ti](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Images/23p334Ti.png)).
+
+1. Exercice [B page 326](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Images/Bp326.png) ([correction](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Images/Bp326Sol.png)); Reconnaître une loi binomiale et calcul d'événements.
