@@ -2,7 +2,7 @@
 
 ##Objectifs pédagogiques de la séance:
 
-- Objectif principal: Poursuivre l'étude expériences aléatoires constitues d'une d'épreuves identiques et indépendantes:
+- Objectif principal: Poursuivre l'étude sur les expériences aléatoires constitueés d'épreuves identiques et indépendantes:
 Introduire la notion de schéma de Bernoulli d'ordre n.
 
 (35 minutes)
