@@ -84,7 +84,7 @@ Devoirs:
 
 1. Calculer la somme des puissances successives de 2, de 2^3 à 2^10 en utilisant la formule sur les suites géométriques.
 
-- Pour jeudi 2 mars 2017:
+- Pour jeudi 2 mars 2017 (finalement reporté au mardi 7 mars 2017 pour cause de bac blanc):
 
 Contrôle avec des suites.
 
