@@ -15,9 +15,7 @@ Introduire la notion de schéma de Bernoulli d'ordre n.
 ---
 
 - Activité préparatoire à l'introduction de la notion de schéma de Bernoulli d'ordre n (20 minutes)
-
   - Trouver la loi de probabilité de la variable aléatoire X qui compte le nombre de faces obtenues lors d'une suite de deux lancers d'une pièce truquée qui tombe sur face une fois sur trois.
-
   - Trouver la loi de probabilité de la variable aléatoire Y qui compte le nombre de faces obtenues lors d'une suite de trois lancers de cette même pièce.
 
 ###Compétences:
@@ -41,10 +39,8 @@ Introduire la notion de schéma de Bernoulli d'ordre n.
 ###Capacités:
 
   - Représenter la répétition d'expériences aléatoires par un arbre pondéré.
-
   - Utiliser cette représentation pour déterminer la loi d’une variable
   aléatoire associée à une telle situation.
-
     - (Facultative) S'appuyer sur un diagramme synthétique pour la loi d'une variable aléatoire pour guider la résolution d'exercice.
 
 ###Connaissances:
