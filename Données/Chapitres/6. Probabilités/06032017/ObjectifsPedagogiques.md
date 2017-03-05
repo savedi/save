@@ -120,6 +120,7 @@ Exercices [5 et 6 page 297](https://raw.githubusercontent.com/EdisonLorgues1SD16
   - Variable aléatoire discrète: Définition 6.
   - Paramètres d'une variable aléatoire: Définition 10.
 
+<!--
 Devoirs:
 
 Pour mardi 7 mars 2017:
