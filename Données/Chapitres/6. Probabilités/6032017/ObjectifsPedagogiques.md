@@ -2,64 +2,66 @@
 
 ##Objectifs pédagogiques de la séance:
 
-- Objectif principal: Poursuivre l'étude sur les expériences aléatoires constitueés d'épreuves identiques et indépendantes:
+1. Objectif principal: Poursuivre l'étude sur les expériences aléatoires constitueés d'épreuves identiques et indépendantes:
 Introduire la notion de schéma de Bernoulli d'ordre n.
 
 (35 minutes)
 
-- Chercher une démonstration pour la deuxième partie du théorème 12.
+1. Chercher une démonstration pour la deuxième partie du théorème 12.
 
-(10 minustes)
+(10 minutes)
 
-- Commenter les productions d'élèves concenants les devoirs qui étaient à faire pour la séance du jour (plutôt qu'une correction de ceux-ci).
+1. Commenter les productions d'élèves concenants les devoirs qui étaient à faire pour la séance du jour (plutôt qu'une correction de ceux-ci).
 
 (5 minutes)
 
 ---
 
-1. Activité préparatoire à l'introduction de la notion de schéma de Bernoulli d'ordre n (20 minutes)
+1.
 
-- Trouver la loi de probabilité de la variable aléatoire X qui compte le nombre de faces obtenues lors d'une suite de deux lancers d'une pièce truquée qui tombe sur face une fois sur trois.
+- Activité préparatoire à l'introduction de la notion de schéma de Bernoulli d'ordre n (20 minutes)
 
-- Trouver la loi de probabilité de la variable aléatoire Y qui compte le nombre de faces obtenues lors d'une suite de trois lancers de cette même pièce.
+  - Trouver la loi de probabilité de la variable aléatoire X qui compte le nombre de faces obtenues lors d'une suite de deux lancers d'une pièce truquée qui tombe sur face une fois sur trois.
+
+  - Trouver la loi de probabilité de la variable aléatoire Y qui compte le nombre de faces obtenues lors d'une suite de trois lancers de cette même pièce.
 
 ##Compétences:
 
-- Mettre en oeuvre une recherche autonome:
-  - S'appuyer sur une analyse détaillée de l'énoncé pour guider sa résolution d'exercice.
-- Communiquer à l'écrit et à l'oral:
-  - A l'oral, expliquer sa démarche de résolution.
-  - A l'écrit,
-    - Savoir présenter la listes des issues de l'expérience, les probabilités associées et les valeurs prises par la variable aléatoire considérée.
-    - Choisir un format satisfaisant pour décrire la loi de probabilité de X obtenue: utilisation d'un tableau ou présentation de chacune des probabilités élémentaires P(X=x_i).
-    - S'assurer que la conclusion de la redaction répond bien à la question posée.
-  - Justifier l'utilisation d'un arbre pondéré.   
-  - Invoquer la loi des chemins pour justifier le calcul de la probabilité des issues de cette expérience.
-- Avoir une attitude critique vis à vis du résultat obtenu  
-  - Interroger la réalisabilité de construire une telle pièce truquée.
-  - Alternative enviseagée pour réaliser une épreuve de Bernoulli de paramètre 1/3. (Tirage de boules indicernables en bonne proportion ?)
-  - Difficulté pour généraliser cette méthode pour un grand nombre d'épreuves identiques et indépendantes (pour un nombre quelconque ?)
-  - Utiliser cette expérience pour réaliser un jeu d'argent.
+  - Mettre en oeuvre une recherche autonome:
+    - S'appuyer sur une analyse détaillée de l'énoncé pour guider sa résolution d'exercice.
+  - Communiquer à l'écrit et à l'oral:
+    - A l'oral, expliquer sa démarche de résolution.
+    - A l'écrit,
+      - Savoir présenter la listes des issues de l'expérience, les probabilités associées et les valeurs prises par la variable aléatoire considérée.
+      - Choisir un format satisfaisant pour décrire la loi de probabilité de X obtenue: utilisation d'un tableau ou présentation de chacune des probabilités élémentaires P(X=x_i).
+      - S'assurer que la conclusion de la redaction répond bien à la question posée.
+    - Justifier l'utilisation d'un arbre pondéré.   
+    - Invoquer la loi des chemins pour justifier le calcul de la probabilité des issues de cette expérience.
+  - Avoir une attitude critique vis à vis du résultat obtenu  
+    - Interroger la réalisabilité de construire une telle pièce truquée.
+    - Alternative enviseagée pour réaliser une épreuve de Bernoulli de paramètre 1/3. (Tirage de boules indicernables en bonne proportion ?)
+    - Difficulté pour généraliser cette méthode pour un grand nombre d'épreuves identiques et indépendantes (pour un nombre quelconque ?)
+    - Utiliser cette expérience pour réaliser un jeu d'argent.
 
 ##Capacités:
 
-- Représenter la répétition d'expériences aléatoires par un arbre pondéré.
+  - Représenter la répétition d'expériences aléatoires par un arbre pondéré.
 
-- Utiliser cette représentation pour déterminer la loi d’une variable
-aléatoire associée à une telle situation.
+  - Utiliser cette représentation pour déterminer la loi d’une variable
+  aléatoire associée à une telle situation.
 
-  - (Facultative) S'appuyer sur un diagramme synthétique pour la loi d'une variable aléatoire pour guider la résolution d'exercice.
+    - (Facultative) S'appuyer sur un diagramme synthétique pour la loi d'une variable aléatoire pour guider la résolution d'exercice.
 
 ##Connaissances:
 
-- Probabilité d'un événement (sans équiprobabilité). Définition 1.
-- Loi des chemins: Théorème 3.
-- Suite d'expériences indépendantes et identiques: Définition 4.
-- Variable aléatoire discrète: Définition 6.
-- Loi de probabilité: Définition 8.
-- Epreuve de Bernoulli: Définition 14.    
+  - Probabilité d'un événement (sans équiprobabilité). Définition 1.
+  - Loi des chemins: Théorème 3.
+  - Suite d'expériences indépendantes et identiques: Définition 4.
+  - Variable aléatoire discrète: Définition 6.
+  - Loi de probabilité: Définition 8.
+  - Epreuve de Bernoulli: Définition 14.    
 
-1. [Présentation](https://github.com/EdisonLorgues1SD1617/Math1SD1617/raw/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Pr%C3%A9sentation/Probabilit%C3%A9s.pdf) du cours de probabilités (15 mintes):
+- [Présentation](https://github.com/EdisonLorgues1SD1617/Math1SD1617/raw/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Pr%C3%A9sentation/Probabilit%C3%A9s.pdf) du cours de probabilités (15 mintes):
 
   - Définition 18: Schéma de Bernoulli d'ordre n.
   - Exemple 19: 3 Lancers successifs d'un dé équilibré.
@@ -74,8 +76,8 @@ aléatoire associée à une telle situation.
 
 ##Compétences:
 
-- Adopter une stratégie différente que celle utilisée sur un problème précédent analogue.
-- Choisir et appliquer des techniques de calcul.
+  - Adopter une stratégie différente que celle utilisée sur un problème précédent analogue.
+  - Choisir et appliquer des techniques de calcul.
 
 ##Capacités:
 
