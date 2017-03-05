@@ -70,23 +70,51 @@ Introduire la notion de schéma de Bernoulli d'ordre n.
 
   - Choisir et appliquer des techniques de calcul:
     - Adopter une stratégie différente que celle utilisée sur un problème précédent analogue.
-    - Penser à utiliser
-
-#### Capacités:
-
-  - Utiliser un résultat de cours.
+    - Utiliser une formule du cours.
+    - Réaliser un calcul avec une racine carrée.
 
 #### Connaissances:
 
-  - L'espérance est linéaire Théorème 12.
+  - Théorème 12: Linéarité de l'espérance.
+  - Racine carrée, Valeur absolue.
 
 ###3. Corrections d'exercices (5 minutes).
 
-### Compétences:
+1. Exercice [7 page 298](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Images/7-8p298.png).
 
-### Capacités:
+#### Compétences:
 
-### Connaissances:
+  - Reconnaître une fonction affine.
+  - Exploiter les fonctionnalités de la calculatrice ou d’un logiciel pour déterminer l’espérance, la variance et l’écart-type d’une variable aléatoire.
+
+#### Capacités:
+
+  - Déterminer et exploiter la loi d’une variable aléatoire.
+  - Interpréter l’espérance comme valeur moyenne dans le cas d’un grand nombre de répétitions.
+  - (Classe de seconde) Utiliser des modèles définis à partir de fréquences observées.
+
+#### Connaissances:
+
+  - Variable aléatoire discrète: Définition 6.
+  - Loi de probabilité: Définition 8.
+  - Théorème 12: Linéarité de l'espérance.
+  - Théorème 13: Loi des grands nombres.
+
+1. Exercices [5 et 6 page 297](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Images/4-6p297.png).
+
+#### Compétences:
+  - Utilisation de tableau pour le calcul de probabilités.
+  - Distinguer des événements de la forme "au moins un" et "exactement un".
+  - Utiliser la loi des chemins pour un arbre pondéré trop grand pour être dessiné.
+  - Justifier l'équiprobabilité d'une suite d'épreuves identiques indépendantes constituées d'épreuves dont les issues sont équiprobables.
+  - Avoir une attitude critique vis à vis du résultat obtenu:
+    - Refuser une probabilité totale différente de 1.
+
+#### Capacités:
+  - Déterminer et exploiter la loi d’une variable aléatoire.
+  - (Classe de seconde) Déterminer la probabilité d’événements dans des situations d’équiprobabilité.  
+
+#### Connaissances:
 
 Devoirs:
 
