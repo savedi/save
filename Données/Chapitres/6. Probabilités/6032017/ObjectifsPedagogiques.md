@@ -1,6 +1,6 @@
 Lundi 6 mars 2017:
 
-Objectifs pédagogiques de la séance:
+#Objectifs pédagogiques de la séance:
 
 - Objectif principal: poursuivre l'étude des suites d'expériences aléatoires identiques et indépendantes:
 Introduire la notion de schéma de Bernoulli d'ordre n (35 minutes).
@@ -17,7 +17,7 @@ Introduire la notion de schéma de Bernoulli d'ordre n (35 minutes).
 
 - Trouver la loi de probabilité de la variable aléatoire Y qui compte le nombre de faces obtenues lors d'une suite de trois lancers de cette même pièce.
 
-Compétences:
+##Compétences:
 
 - Mettre en oeuvre une recherche autonome:
   - S'appuyer sur une analyse détaillée de l'énoncé pour guider sa résolution d'exercice.
@@ -35,7 +35,7 @@ Compétences:
   - Difficulté pour généraliser cette méthode pour un grand nombre d'épreuves identiques et indépendantes (pour un nombre quelconque ?)
   - Utiliser cette expérience pour réaliser un jeu d'argent.
 
-Capacités:
+##Capacités:
 
 - Représenter la répétition d'expériences aléatoires par un arbre pondéré.
 
@@ -44,7 +44,7 @@ aléatoire associée à une telle situation.
 
   - (Facultative) S'appuyer sur un diagramme synthétique pour la loi d'une variable aléatoire pour guider la résolution d'exercice.
 
-Connaissances:
+##Connaissances:
 
 - Probabilité d'un événement (sans équiprobabilité). Définition 1.
 - Loi des chemins: Théorème 3.
@@ -66,12 +66,22 @@ Connaissances:
   - Démontrer cette formule.
   - En déduire une formule pour l'écart-type.
 
-Compétences:
+##Compétences:
 
 - Adopter une stratégie différente que celle utilisée sur un problème précédent analogue.
 - Choisir et appliquer des techniques de calcul.
 
+##Capacités:
+
+##Connaissances:
+
 1. Corrections d'exercices (5 minutes).
+
+##Compétences:
+
+##Capacités:
+
+##Connaissances:
 
 Devoirs:
 
@@ -85,6 +95,12 @@ Pour [jeudi 9 mars 2017](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/
 
 1. Lire et questionner le théorème 21 du [polycopié](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Polycopie/Probabilit%C3%A9s.pdf) de cours: Loi binomiale.
 
+##Compétences:
+
 1. Exercice [8 page 298](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Images/7-8p298.png): Interpréter l'espérance mathématique.
 
+##Compétences:
+
 1. Exercice [2 page 325](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Images/2p325.png): Fête foraine.
+
+##Compétences:
