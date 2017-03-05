@@ -5,7 +5,7 @@
   - 11.75 est la moyenne au deuxième trimestre.
 
 Il est satisfaisant de constater que la qualité du travail des élèves
-  Le niveau des exigences a augmenté en conséquence de l'augmentation du niveau d'exigence au deuxième trimestre.
+a augmenté en conséquence de l'augmentation du niveau d'exigence au deuxième trimestre.
 
   4 élèves sont en difficulté. 6 élèves ont un très bon niveau. 3 élèves ont vu leur résultat diminuer après leurs absences dénotant une difficulté à rattraper les séances manquées. 3 élèves semblent voir leur travail particulièrement porter ses fruits.
 
