@@ -1,3 +1,5 @@
+## Progression séquentielle pour le chapitre sur les probabilités.
+
 Jeudi 2 fevrier 2017:
 
 1. Comparer les [séries de notes de Anna et Brahim](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/5.%20Statistiques/Exercices/exerciceDeNotes.png).
