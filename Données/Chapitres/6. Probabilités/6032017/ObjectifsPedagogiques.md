@@ -2,12 +2,18 @@ Lundi 6 mars 2017:
 
 #Objectifs pédagogiques de la séance:
 
-- Objectif principal: poursuivre l'étude des suites d'expériences aléatoires identiques et indépendantes:
-Introduire la notion de schéma de Bernoulli d'ordre n (35 minutes).
+- Objectif principal: Poursuivre l'étude expériences aléatoires constitues d'une d'épreuves identiques et indépendantes:
+Introduire la notion de schéma de Bernoulli d'ordre n.
 
-- Démonstration de la deuxième partie du théorème 12 (10 minustes).
+(35 minutes)
 
-- Commentaires sur les exercices à faire pour la séance (plutôt qu'une correction de ceux-ci)
+- Chercher une démonstration pour la deuxième partie du théorème 12.
+
+(10 minustes)
+
+- Commenter les productions d'élèves concenants les devoirs qui étaient à faire pour la séance du jour (plutôt qu'une correction de ceux-ci).
+
+(5 minutes)
 
 ---
 
