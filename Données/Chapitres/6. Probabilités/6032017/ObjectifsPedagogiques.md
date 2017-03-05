@@ -69,10 +69,13 @@ Introduire la notion de schéma de Bernoulli d'ordre n.
 
 #### Compétences:
 
-  - Adopter une stratégie différente que celle utilisée sur un problème précédent analogue.
-  - Choisir et appliquer des techniques de calcul.
+  - Choisir et appliquer des techniques de calcul:
+    - Adopter une stratégie différente que celle utilisée sur un problème précédent analogue.
+    - Utiliser la linéarité de l'espérance.
 
 #### Capacités:
+
+
 
 #### Connaissances:
 
