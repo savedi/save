@@ -53,8 +53,6 @@ Connaissances:
 - Loi de probabilité: Définition 8.
 - Epreuve de Bernoulli: Définition 14.    
 
-
-
 1. [Présentation](https://github.com/EdisonLorgues1SD1617/Math1SD1617/raw/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Pr%C3%A9sentation/Probabilit%C3%A9s.pdf) du cours de probabilités (15 mintes):
 
   - Définition 18: Schéma de Bernoulli d'ordre n.
