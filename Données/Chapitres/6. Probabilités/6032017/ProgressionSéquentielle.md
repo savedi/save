@@ -1,6 +1,6 @@
 ## Progression séquentielle pour le chapitre sur les probabilités.
 
-# 11 séquences sur 4 semaines.
+### 11 séquences sur 4 semaines (dont une séquence de remédiation concernant les chapitres précédents).
 
 Jeudi 2 fevrier 2017:
 
