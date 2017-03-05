@@ -1,11 +1,15 @@
 Lundi 6 mars 2017:
 
-Objectif principal de la séance (30 minutes): poursuivre l'étude des suites d'expériences aléatoires identiques et indépendantes:
-Introduire la notion de schéma de Bernoulli d'ordre n.
+Objectifs pédagogiques de la sénace:
 
-Démonstration de la deuxième partie du théorème 12:
+- Objectif principal de la séance: poursuivre l'étude des suites d'expériences aléatoires identiques et indépendantes:
+Introduire la notion de schéma de Bernoulli d'ordre n (35 minutes).
 
-1. Activité préparatoire à l'introduction de la notion de schéma de Bernoulli d'ordre n (15 minutes)
+- Démonstration de la deuxième partie du théorème 12 (10 minustes).
+
+- Commentaires sur les exercices à faire pour la séance (plutôt qu'une correction de ceux-ci)
+
+1. Activité préparatoire à l'introduction de la notion de schéma de Bernoulli d'ordre n (20 minutes)
 
 - Trouver la loi de probabilité de la variable aléatoire X qui compte le nombre de faces obtenues lors d'une suite de deux lancers d'une pièce truquée qui tombe sur face une fois sur trois.
 
@@ -49,13 +53,13 @@ Connaissances:
 
 
 
-1. [Présentation](https://github.com/EdisonLorgues1SD1617/Math1SD1617/raw/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Pr%C3%A9sentation/Probabilit%C3%A9s.pdf) du cours de probabilités:
+1. [Présentation](https://github.com/EdisonLorgues1SD1617/Math1SD1617/raw/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Pr%C3%A9sentation/Probabilit%C3%A9s.pdf) du cours de probabilités (15 mintes):
 
   - Définition 18: Schéma de Bernoulli d'ordre n.
   - Exemple 19: 3 Lancers successifs d'un dé équilibré.
   - Définition 20: Variable aléatoire associée: Nombre de succès.
 
-1. Fin de la démonstration du théorème 12:
+1. Fin de la démonstration du théorème 12 (10 minutes):
 
  Soient a et b deux rééls et X une variable aléatoire.
   - Enoncer la formule du cours pour Var(aX+b)
@@ -64,9 +68,10 @@ Connaissances:
 
 Compétences:
 
+- Adopter une stratégie différente que celle utilisée sur un problème précédent analogue.
 - Choisir et appliquer des techniques de calcul.
 
-1. Corrections d'exercices.
+1. Corrections d'exercices (5 minutes).
 
 Devoirs:
 
