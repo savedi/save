@@ -41,7 +41,7 @@ Introduire la notion de schéma de Bernoulli d'ordre n.
   - Représenter la répétition d'expériences aléatoires par un arbre pondéré.
   - Utiliser cette représentation pour déterminer la loi d’une variable
   aléatoire associée à une telle situation.
-    - (Facultative) S'appuyer sur un diagramme synthétique pour la loi d'une variable aléatoire pour guider la résolution d'exercice.
+  - (Facultative) S'appuyer sur un diagramme synthétique pour la loi d'une variable aléatoire pour guider la résolution d'exercice.
 
 ###Connaissances:
 
