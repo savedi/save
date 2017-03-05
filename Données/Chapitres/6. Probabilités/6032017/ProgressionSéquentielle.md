@@ -235,6 +235,7 @@ Devoirs:
 ---
 
 Mardi 14 mars 2017:
+
 1. [Présentation](https://github.com/EdisonLorgues1SD1617/Math1SD1617/raw/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Pr%C3%A9sentation/Probabilit%C3%A9s.pdf) du cours de probabilités, définition 22, proposition 23 et démonstration 24: Coefficients binomiaux et triangle de Pascal.
 
 1. Exercices [27 à 29 page 336](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Images/27-29p336.png): Exercices sur la loi binomiale que l'on peut faire de tête.
