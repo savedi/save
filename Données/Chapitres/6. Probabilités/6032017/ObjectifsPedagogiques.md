@@ -32,7 +32,7 @@ Introduire la notion de schéma de Bernoulli d'ordre n.
       - S'assurer que la conclusion de la redaction répond bien à la question posée.
     - Justifier l'utilisation d'un arbre pondéré.   
     - Invoquer la loi des chemins pour justifier le calcul de la probabilité des issues de cette expérience.
-  - Avoir une attitude critique vis à vis du résultat obtenu: 
+  - Avoir une attitude critique vis à vis du résultat obtenu:
     - Utiliser cette expérience pour réaliser un jeu d'argent.
     - Interroger la réalisabilité de construire une telle pièce truquée.
     - Alternative enviseagée pour réaliser une épreuve de Bernoulli de paramètre 1/3. (Tirage de boules indicernables en bonne proportion ?)
@@ -54,7 +54,7 @@ Introduire la notion de schéma de Bernoulli d'ordre n.
   - Loi de probabilité: Définition 8.
   - Epreuve de Bernoulli: Définition 14.    
 
-### 2. [Présentation](https://github.com/EdisonLorgues1SD1617/Math1SD1617/raw/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Pr%C3%A9sentation/Probabilit%C3%A9s.pdf) du cours de probabilités (15 mintes):
+### 2. [Présentation](https://github.com/EdisonLorgues1SD1617/Math1SD1617/raw/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Pr%C3%A9sentation/Probabilit%C3%A9s.pdf) du cours de probabilités (15 minutes):
 
   - Définition 18: Schéma de Bernoulli d'ordre n.
   - Exemple 19: 3 Lancers successifs d'un dé équilibré.
