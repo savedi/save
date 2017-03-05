@@ -36,14 +36,13 @@ Introduire la notion de schéma de Bernoulli d'ordre n.
     - Utiliser cette expérience pour réaliser un jeu d'argent.
     - Interroger la réalisabilité de construire une telle pièce truquée.
     - Alternative enviseagée pour réaliser une épreuve de Bernoulli de paramètre 1/3. (Tirage de boules indicernables en bonne proportion ?)
-    - Difficulté pour généraliser cette méthode pour un grand nombre d'épreuves identiques et indépendantes (pour un nombre quelconque ?)
+    - Difficulté pour généraliser cette méthode pour un grand nombre d'épreuves identiques et indépendantes, pour un nombre quelconque (Peut-on déterminer la probabilité malgré tout ?).
 
 
 #### Capacités:
 
   - Représenter la répétition d'expériences aléatoires par un arbre pondéré.
-  - Utiliser cette représentation pour déterminer la loi d’une variable
-  aléatoire associée à une telle situation.
+  - Utiliser cette représentation pour déterminer la loi d’une variable aléatoire associée à une telle situation.
 
 #### Connaissances:
 
@@ -71,15 +70,17 @@ Introduire la notion de schéma de Bernoulli d'ordre n.
 
   - Choisir et appliquer des techniques de calcul:
     - Adopter une stratégie différente que celle utilisée sur un problème précédent analogue.
-    - Utiliser la linéarité de l'espérance.
+    - Penser à utiliser
 
 #### Capacités:
 
-
+  - Utiliser un résultat de cours.
 
 #### Connaissances:
 
-- Corrections d'exercices (5 minutes).
+  - L'espérance est linéaire Théorème 12.
+
+###3. Corrections d'exercices (5 minutes).
 
 ### Compétences:
 
