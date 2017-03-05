@@ -32,11 +32,12 @@ Introduire la notion de schéma de Bernoulli d'ordre n.
       - S'assurer que la conclusion de la redaction répond bien à la question posée.
     - Justifier l'utilisation d'un arbre pondéré.   
     - Invoquer la loi des chemins pour justifier le calcul de la probabilité des issues de cette expérience.
-  - Avoir une attitude critique vis à vis du résultat obtenu  
+  - Avoir une attitude critique vis à vis du résultat obtenu: 
+    - Utiliser cette expérience pour réaliser un jeu d'argent.
     - Interroger la réalisabilité de construire une telle pièce truquée.
     - Alternative enviseagée pour réaliser une épreuve de Bernoulli de paramètre 1/3. (Tirage de boules indicernables en bonne proportion ?)
     - Difficulté pour généraliser cette méthode pour un grand nombre d'épreuves identiques et indépendantes (pour un nombre quelconque ?)
-    - Utiliser cette expérience pour réaliser un jeu d'argent.
+
 
 #### Capacités:
 
