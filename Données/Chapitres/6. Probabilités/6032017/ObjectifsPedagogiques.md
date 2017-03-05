@@ -100,7 +100,7 @@ Introduire la notion de schéma de Bernoulli d'ordre n.
   - Théorème 12: Linéarité de l'espérance.
   - Théorème 13: Loi des grands nombres.
 
-1. Exercices [5 et 6 page 297](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Images/4-6p297.png).
+2. Exercices [5 et 6 page 297](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Images/4-6p297.png).
 
 #### Compétences:
   - Utilisation de tableau pour le calcul de probabilités.
