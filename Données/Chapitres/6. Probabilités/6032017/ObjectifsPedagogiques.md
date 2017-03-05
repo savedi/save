@@ -1,6 +1,6 @@
-Lundi 6 mars 2017:
+#Lundi 6 mars 2017, première SD :
 
-#Objectifs pédagogiques de la séance:
+##Objectifs pédagogiques de la séance:
 
 - Objectif principal: Poursuivre l'étude expériences aléatoires constitues d'une d'épreuves identiques et indépendantes:
 Introduire la notion de schéma de Bernoulli d'ordre n.
