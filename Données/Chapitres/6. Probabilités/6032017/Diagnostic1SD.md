@@ -9,7 +9,7 @@ a augmenté en conséquence de l'augmentation du niveau d'exigence au deuxième 
 
   4 élèves sont en difficulté. 6 élèves ont un très bon niveau. 3 élèves ont vu leur résultat diminuer après leurs absences dénotant une difficulté à rattraper les séances manquées. 3 élèves semblent voir leur travail particulièrement porter ses fruits.
 
-  Comme observé chaque année, le chapitre sur les suites est le chapitre pour lequel les élèves éprouvent le plus de difficultés. Ces difficultés semblent relatives aux notations indicielles et aux raisonnements à faire pour tout entier n. Les élèves semblent perturbés par le fait de devoir investir des méthodes différentes pour démontrer qu'une propriété quantifiée universellement est vraie ou fausse.
+  Comme observé chaque année, le chapitre sur les suites est le chapitre pour lequel les élèves éprouvent le plus de difficultés. Ces difficultés semblent relatives aux notations indicielles et aux raisonnements à faire pour tout entier n. Les élèves semblent perturbés par le fait de devoir investir des méthodes différentes suivant qu'ils souhaitent démontrer qu'une propriété quantifiée universellement est vraie ou fausse.
 
 - Travail à la maison:
   - Tout le monde a systématiquement rendu tous les 13 devoirs à la maison en temps et en heure.
