@@ -53,13 +53,13 @@ Introduire la notion de schéma de Bernoulli d'ordre n.
   - Loi de probabilité: Définition 8.
   - Epreuve de Bernoulli: Définition 14.    
 
-### 2. [Présentation](https://github.com/EdisonLorgues1SD1617/Math1SD1617/raw/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Pr%C3%A9sentation/Probabilit%C3%A9s.pdf) du cours de probabilités (15 minutes):
+### [Présentation](https://github.com/EdisonLorgues1SD1617/Math1SD1617/raw/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Pr%C3%A9sentation/Probabilit%C3%A9s.pdf) du cours de probabilités (15 minutes):
 
   - Définition 18: Schéma de Bernoulli d'ordre n.
   - Exemple 19: 3 Lancers successifs d'un dé équilibré.
   - Définition 20: Variable aléatoire associée: Nombre de succès.
 
-### 3. Fin de la démonstration du théorème 12 (10 minutes):
+### 2. Fin de la démonstration du théorème 12 (10 minutes):
 
  Soient a et b deux rééls et X une variable aléatoire.
   - Enoncer la formule du cours pour Var(aX+b)
@@ -78,7 +78,7 @@ Introduire la notion de schéma de Bernoulli d'ordre n.
   - Linéarité de l'espérance: Théorème 12.
   - Racine carrée, Valeur absolue.
 
-###3. Corrections d'exercices (5 minutes).
+### 3. Corrections d'exercices (5 minutes).
 
 Exercice [7 page 298](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Images/7-8p298.png).
 
