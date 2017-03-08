@@ -137,7 +137,7 @@ Plan de la séquence du jeudi 9 mars 2017:
 
 1. Exercice 23 page 334 ([Casio](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Images/23p334Casio.png)),([Ti](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Images/23p334Ti.png)): Utilisation de la calculatrice pour calculer des coefficients binomiaux, des événements de la forme P(X=k) et P(X>=k) losque X suit une loi binomiale.
 
-1. Exercice [B page 326](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Images/Bp326.png) ([correction](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Images/Bp326Sol.png)); Reconnaître une loi binomiale et calcul d'événements.
+1. Exercice [B page 326](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Images/Bp326.png) ([correction](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Images/Bp326Sol.png)): Reconnaître une loi binomiale et calcul d'événements.
 
 1. Exercice [5 page 325](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Images/5-6p327.png).
 
