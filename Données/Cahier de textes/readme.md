@@ -125,17 +125,59 @@ Pour [jeudi 9 mars 2017](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/
 ---
 -->
 
-Plan de la séance du lundi 6 mars 2017:
+Plan de la séquence du jeudi 9 mars 2017:
+
+1. Soient a et b deux rééls et X une variable aléatoire. Enoncer et démontrer la formule du cours pour Var(aX+b).
+
+1. Corrections d'exercices.
+
+1. [Présentation](https://github.com/EdisonLorgues1SD1617/Math1SD1617/raw/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Pr%C3%A9sentation/Probabilit%C3%A9s.pdf) du cours de probabilités, théorème 21: Loi binomiale de paramètre n et p. Espérance et variance.
+
+1. Définition 22: Coefficients binomiaux.
+
+1. Exercice 23 page 334 ([Casio](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Images/23p334Casio.png)),([Ti](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Images/23p334Ti.png)): Utilisation de la calculatrice pour calculer des coefficients binomiaux, des événements de la forme P(X=k) et P(X>=k) losque X suit une loi binomiale.
+
+1. Exercice [B page 326](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Images/Bp326.png) ([correction](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Images/Bp326Sol.png)); Reconnaître une loi binomiale et calcul d'événements.
+
+1. Exercice [5 page 325](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Images/5-6p327.png).
+
+Devoirs:
+
+- Pour lundi 13 mars 2017 **Devoir à la maison**:
+
+1. Recopier la définition 18 et le théorème 21 du cours [polycopié](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Polycopie/Probabilit%C3%A9s.pdf).
+
+1. Exercice [6 page 325](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Images/5-6p327.png).
+
+- Pour [mardi 14 mars 2017](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/50):
+
+1. Exercices [25 et 26 page 336](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Images/25-26p336.png): Exercices sur la loi binomiale que l'on peut faire de tête.
+
+1. Exercices [40 et 41 page 336](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Images/40-41p338.png): Utilisation d'une loi binomiale.
+
+- Pour [jeudi 16 mars 2017](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/51):
+
+1. Exercices [1 et 2 page 192](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/7.%20Poduit%20scalaire/Images/1-2p192.png): Point d'un cercle trigonométrique associé à un réél.
+
+1. Lire et questionner les définitions 1 et 2 du [polycopié](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/7.%20Poduit%20scalaire/Polycopie/ProduitScalaire.pdf) sur le produit scalaire: Orientation du plan et angle orienté de vecteurs.
+
+
+
+---
+
+Mardi 7 mars 2017:
+
+Contrôle avec des suites et de l'algorithmique.
+
+---
+
+Lundi 6 mars 2017:
 
 1. Trouver la loi de probabilité de la variable aléatoire X qui compte le nombre de faces obtenues lors d'une suite de deux lancers d'une pièce truquée qui tombe sur face une fois sur trois.
 
 1. Trouver la loi de probabilité de la variable aléatoire Y qui compte le nombre de faces obtenues lors d'une suite de trois lancers de cette même pièce.
 
 1. [Présentation](https://github.com/EdisonLorgues1SD1617/Math1SD1617/raw/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Pr%C3%A9sentation/Probabilit%C3%A9s.pdf) du cours de probabilités, définition 18, exemple 19, définition 20: Schéma de Bernoulli d'ordre n.
-
-1. Soient a et b deux rééls et X une variable aléatoire. Enoncer et démontrer la formule du cours pour Var(aX+b).
-
-1. Corrections d'exercices.
 
 Devoirs:
 
