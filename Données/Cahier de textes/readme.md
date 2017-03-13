@@ -137,6 +137,23 @@ Plan de la séquence du lundi 13 mars 2017:
 
 1. Exercice [5 page 325](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Images/5-6p327.png).
 
+- Pour [mardi 14 mars 2017](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/50):
+
+1. Exercices [25 et 26 page 336](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Images/25-26p336.png): Exercices sur la loi binomiale que l'on peut faire de tête.
+
+1. Exercices [40 et 41 page 336](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Images/40-41p338.png): Utilisation d'une loi binomiale.
+
+- Pour jeudi 16 mars 2017 **Devoir à la maison**:
+
+1. Recopier la définition 18 et le théorème 21 du cours [polycopié](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Polycopie/Probabilit%C3%A9s.pdf).
+
+1. Exercice [6 page 325](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Images/5-6p327.png).
+
+- Pour [jeudi 16 mars 2017](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/51):
+
+1. Exercices [1 et 2 page 192](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/7.%20Poduit%20scalaire/Images/1-2p192.png): Point d'un cercle trigonométrique associé à un réél.
+
+1. Lire et questionner les définitions 1 et 2 du [polycopié](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/7.%20Poduit%20scalaire/Polycopie/ProduitScalaire.pdf) sur le produit scalaire: Orientation du plan et angle orienté de vecteurs.
 
 ---
 
