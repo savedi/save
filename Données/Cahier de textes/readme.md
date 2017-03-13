@@ -125,11 +125,7 @@ Pour [jeudi 9 mars 2017](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/
 ---
 -->
 
-Plan de la séquence du jeudi 9 mars 2017:
-
-1. Soient a et b deux rééls et X une variable aléatoire. Enoncer et démontrer la formule du cours pour Var(aX+b).
-
-1. Corrections d'exercices.
+Plan de la séquence du lundi 13 mars 2017:
 
 1. [Présentation](https://github.com/EdisonLorgues1SD1617/Math1SD1617/raw/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Pr%C3%A9sentation/Probabilit%C3%A9s.pdf) du cours de probabilités, théorème 21: Loi binomiale de paramètre n et p. Espérance et variance.
 
@@ -140,6 +136,15 @@ Plan de la séquence du jeudi 9 mars 2017:
 1. Exercice [B page 326](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Images/Bp326.png) ([correction](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Images/Bp326Sol.png)): Reconnaître une loi binomiale et calcul d'événements.
 
 1. Exercice [5 page 325](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Images/5-6p327.png).
+
+
+---
+
+Jeudi 9 mars 2017:
+
+1. Soient a et b deux rééls et X une variable aléatoire. Enoncer et démontrer la formule du cours pour Var(aX+b).
+
+1. Corrections d'exercices.
 
 Devoirs:
 
