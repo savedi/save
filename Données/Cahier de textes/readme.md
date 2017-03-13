@@ -137,6 +137,8 @@ Plan de la séquence du lundi 13 mars 2017:
 
 1. Exercice [5 page 325](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Images/5-6p327.png).
 
+Devoirs:
+
 - Pour [mardi 14 mars 2017](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/50):
 
 1. Exercices [25 et 26 page 336](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Images/25-26p336.png): Exercices sur la loi binomiale que l'on peut faire de tête.
