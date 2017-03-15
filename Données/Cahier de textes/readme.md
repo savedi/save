@@ -125,15 +125,25 @@ Pour [jeudi 9 mars 2017](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/
 ---
 -->
 
-Plan de la séquence du mardi 14 mars 2017:
+Plan de la séquence du jeudi 16 mars 2017:
+
+1. TD [Algorithmique](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Algorithmique/exoAlgo.pdf): Compléter un programme et réaliser une trace de l'execution d'un programme, tous deux écrits en langage naturel.
+
+1. Implémenter sur votre calculette les deux programmes précédants.
+
+1. Exercices [27 à 29 page 336](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Images/27-29p336.png): Exercices sur la loi binomiale que l'on peut faire de tête.
+
+1. Exercices [42 et 43 page 338](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Images/42-43p338.png): Calcul de probabilité d'événements en introduisant une loi binomiale.
+
+---
+
+Mardi 14 mars 2017:
 
 1. Exercice [B page 326](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Images/Bp326.png) ([correction](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Images/Bp326Sol.png)): Reconnaître une loi binomiale et calcul d'événements.
 
 1. Exercice [5 page 325](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Images/5-6p327.png).
 
-1. Exercices [27 à 29 page 336](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Images/27-29p336.png): Exercices sur la loi binomiale que l'on peut faire de tête.
-
-1. Exercices [42 et 43 page 338](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Images/42-43p338.png): Calcul de probabilité d'événements en introduisant une loi binomiale.
+Devoirs:
 
 - Pour [jeudi 16 mars 2017](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/51):
 

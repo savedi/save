@@ -214,13 +214,15 @@ Lire et questionner la proposition 23 et la démonstration 24 [polycopié](https
 
 ---
 
-Lundi 13 mars 2017:
 
-1. TD [Algorithmique](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Algorithmique/exoAlgo.pdf): Compléter un programme et réaliser une trace de l'execution d'un programme, tous deux écrits en langage naturel.
 
-1. Implémenter sur votre calculette les deux programmes précédants.
+lundi 13 mars 2017:
 
-1. Exercices [42 et 43 page 338](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Images/42-43p338.png): Calcul de probabilité d'événements en introduisant une loi binomiale.
+1. [Présentation](https://github.com/EdisonLorgues1SD1617/Math1SD1617/raw/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Pr%C3%A9sentation/Probabilit%C3%A9s.pdf) du cours de probabilités, théorème 21: Loi binomiale de paramètre n et p. Espérance et variance.
+
+1. Définition 22: Coefficients binomiaux.
+
+1. Exercice 23 page 334 ([Casio](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Images/23p334Casio.png)),([Ti](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Images/23p334Ti.png)): Utilisation de la calculatrice pour calculer des coefficients binomiaux, des événements de la forme P(X=k) et P(X>=k) losque X suit une loi binomiale.
 
 Devoirs:
 
@@ -234,11 +236,9 @@ Devoirs:
 
 Mardi 14 mars 2017:
 
-1. [Présentation](https://github.com/EdisonLorgues1SD1617/Math1SD1617/raw/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Pr%C3%A9sentation/Probabilit%C3%A9s.pdf) du cours de probabilités, définition 22, proposition 23 et démonstration 24: Coefficients binomiaux et triangle de Pascal.
+1. Exercice [B page 326](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Images/Bp326.png) ([correction](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Images/Bp326Sol.png)): Reconnaître une loi binomiale et calcul d'événements.
 
-1. Exercices [27 à 29 page 336](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Images/27-29p336.png): Exercices sur la loi binomiale que l'on peut faire de tête.
-
-1. Exercice [32 page 336](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Images/32p336.png): Répétition d'expériences aléatoires.
+1. Exercice [5 page 325](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Images/5-6p327.png).
 
 Devoirs:
 
