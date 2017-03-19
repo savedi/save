@@ -121,6 +121,12 @@ Pour [jeudi 9 mars 2017](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/
 
 1. Exercice [2 page 325](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Images/2p325.png): Fête foraine.
 
+-->
+
+Plan de la séquence du mardi 21 mars 2017:
+
+1.
+
 
 ---
 
@@ -129,16 +135,30 @@ Plan de la séquence du lundi 20 mars 2017:
 
 1. Exercices [42 et 43 page 338](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Images/42-43p338.png): Calcul de probabilité d'événements en introduisant une loi binomiale.
 
-1. [Présentation](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/7.%20Poduit%20scalaire/Pr%C3%A9sentation/ProduitScalaire.pdf) sur le produit scalaire: Définition 1 et 2: Cercle trigonométrique et angle orienté de vecteurs.
-
-1. Théorème 5, définition 6: Colinéarité et orthogonalité.
+1. [Présentation](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/7.%20Poduit%20scalaire/Pr%C3%A9sentation/ProduitScalaire.pdf) sur le produit scalaire: Théorème 5, définition 6: Colinéarité et orthogonalité.
 
 1. Théorème 7, exemple 8: Relation de Chasles.
 
+1. Correction d'exercices.
+
 1. Exercices [3 et 4 page 192](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/7.%20Poduit%20scalaire/Images/3-4p192.png): Cosinus et sinus d'un réél.
 
+Devoirs:
+
+- Pour [mardi 21 mars 2017](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/53):
+
+1. Lire et questionner les propositions 9,10 et 11 du [polycopié](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/7.%20Poduit%20scalaire/Polycopie/ProduitScalaire.pdf) sur le produit scalaire: Formules sur les angles orientés.
+
+1. Exercices [9 à 11 page 199 ](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/7.%20Poduit%20scalaire/Images/9-11p199.png): Utiliser la relation de Chasles.
+
+- Pour [jeudi 23 mars 2017](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/54):
+
+1. Lire et questionner les définitions 12, 13 et 14 du [polycopié](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/7.%20Poduit%20scalaire/Polycopie/ProduitScalaire.pdf) sur le produit scalaire: Normes et trigonométrie.
+
+1. Exercices [1 à 3 page 197](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/7.%20Poduit%20scalaire/Images/1-4p197.png): Angles associés.
+
+
 ---
--->
 
 Jeudi 16 mars 2017:
 
@@ -156,11 +176,19 @@ Jeudi 16 mars 2017:
 
 Devoirs:
 
-Pour lundi 20 mars 2017:
+- Pour [lundi 20 mars 2017](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/52):
 
-**Devoir à la maison**:
+1. **Devoir à la maison**:
 
 [Algorithmes à compléter](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Algorithmique/exoAlgoB.pdf).
+
+1. 1. Lire et questionner Théorème 5, définition 6, théorème 7 et exemple 8 du [polycopié](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/7.%20Poduit%20scalaire/Polycopie/ProduitScalaire.pdf) sur le produit scalaire: Colinéarité, orthogonalité et relation de Chasles.
+
+- Pour [mardi 21 mars 2017](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/53):
+
+1. Lire et questionner les propositions 9,10 et 11 du [polycopié](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/7.%20Poduit%20scalaire/Polycopie/ProduitScalaire.pdf) sur le produit scalaire: Formules sur les angles orientés.
+
+1. Exercices [9 à 11 page 199 ](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/7.%20Poduit%20scalaire/Images/9-11p199.png): Utiliser la relation de Chasles.
 
 ---
 
