@@ -129,7 +129,7 @@ Plan de la séquence du mardi 21 mars 2017:
 
 
 ---
--->
+
 
 Plan de la séquence du lundi 20 mars 2017:
 
@@ -159,6 +159,7 @@ Devoirs:
 
 
 ---
+-->
 
 Jeudi 16 mars 2017:
 
