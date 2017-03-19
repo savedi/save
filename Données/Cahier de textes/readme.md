@@ -121,7 +121,7 @@ Pour [jeudi 9 mars 2017](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/
 
 1. Exercice [2 page 325](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Images/2p325.png): Fête foraine.
 
--->
+
 
 Plan de la séquence du mardi 21 mars 2017:
 
@@ -129,7 +129,7 @@ Plan de la séquence du mardi 21 mars 2017:
 
 
 ---
-
+-->
 
 Plan de la séquence du lundi 20 mars 2017:
 
