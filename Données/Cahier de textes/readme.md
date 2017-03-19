@@ -123,9 +123,24 @@ Pour [jeudi 9 mars 2017](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/
 
 
 ---
+
+
+Plan de la séquence du lundi 20 mars 2017:
+
+1. Exercices [42 et 43 page 338](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Images/42-43p338.png): Calcul de probabilité d'événements en introduisant une loi binomiale.
+
+1. [Présentation](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/7.%20Poduit%20scalaire/Pr%C3%A9sentation/ProduitScalaire.pdf) sur le produit scalaire: Définition 1 et 2: Cercle trigonométrique et angle orienté de vecteurs.
+
+1. Théorème 5, définition 6: Colinéarité et orthogonalité.
+
+1. Théorème 7, exemple 8: Relation de Chasles.
+
+1. Exercices [3 et 4 page 192](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/7.%20Poduit%20scalaire/Images/3-4p192.png): Cosinus et sinus d'un réél.
+
+---
 -->
 
-Plan de la séquence du jeudi 16 mars 2017:
+Jeudi 16 mars 2017:
 
 1. Démonstration plus courte pour Var(aX+b)=a^2Var(X).
 
@@ -140,12 +155,6 @@ Plan de la séquence du jeudi 16 mars 2017:
 1. [Présentation](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/7.%20Poduit%20scalaire/Pr%C3%A9sentation/ProduitScalaire.pdf) sur le produit scalaire: Définition 1 et 2: Cercle trigonométrique et angle orienté de vecteurs.
 
 1. Définition 3, exemple 4: Mesure principale.
-
-1. Théorème 5, définition 6: Colinéarité et orthogonalité.
-
-1. Théorème 7, exemple 8: Relation de Chasles.
-
-1. Exercices [3 et 4 page 192](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/7.%20Poduit%20scalaire/Images/3-4p192.png): Cosinus et sinus d'un réél.
 
 Devoirs:
 
