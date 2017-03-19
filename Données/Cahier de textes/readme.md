@@ -180,10 +180,9 @@ Devoirs:
 - Pour [lundi 20 mars 2017](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/52):
 
 1. **Devoir à la maison**:
-
 [Algorithmes à compléter](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Algorithmique/exoAlgoB.pdf).
 
-1. 1. Lire et questionner Théorème 5, définition 6, théorème 7 et exemple 8 du [polycopié](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/7.%20Poduit%20scalaire/Polycopie/ProduitScalaire.pdf) sur le produit scalaire: Colinéarité, orthogonalité et relation de Chasles.
+1. Lire et questionner Théorème 5, définition 6, théorème 7 et exemple 8 du [polycopié](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/7.%20Poduit%20scalaire/Polycopie/ProduitScalaire.pdf) sur le produit scalaire: Colinéarité, orthogonalité et relation de Chasles.
 
 - Pour [mardi 21 mars 2017](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/53):
 
