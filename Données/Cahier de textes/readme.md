@@ -125,16 +125,6 @@ Pour [jeudi 9 mars 2017](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/
 
 Plan de la séquence du mardi 21 mars 2017:
 
-1.
-
-
----
-
-
-Plan de la séquence du lundi 20 mars 2017:
-
-1. Exercices [42 et 43 page 338](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Images/42-43p338.png): Calcul de probabilité d'événements en introduisant une loi binomiale.
-
 1. [Présentation](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/7.%20Poduit%20scalaire/Pr%C3%A9sentation/ProduitScalaire.pdf) sur le produit scalaire: Théorème 5, définition 6: Colinéarité et orthogonalité.
 
 1. Théorème 7, exemple 8: Relation de Chasles.
@@ -142,6 +132,14 @@ Plan de la séquence du lundi 20 mars 2017:
 1. Correction d'exercices.
 
 1. Exercices [3 et 4 page 192](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/7.%20Poduit%20scalaire/Images/3-4p192.png): Cosinus et sinus d'un réél.
+
+
+---
+-->
+
+Lundi 20 mars 2017:
+
+1. Exercices [42 et 43 page 338](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Images/42-43p338.png): Calcul de probabilité d'événements en introduisant une loi binomiale.
 
 Devoirs:
 
@@ -159,7 +157,7 @@ Devoirs:
 
 
 ---
--->
+
 
 Jeudi 16 mars 2017:
 
