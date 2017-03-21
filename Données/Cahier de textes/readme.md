@@ -121,7 +121,7 @@ Pour [jeudi 9 mars 2017](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/
 
 1. Exercice [2 page 325](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Images/2p325.png): Fête foraine.
 
-
+-->
 
 Plan de la séquence du mardi 21 mars 2017:
 
@@ -129,13 +129,15 @@ Plan de la séquence du mardi 21 mars 2017:
 
 1. Théorème 7, exemple 8: Relation de Chasles.
 
+1. Proposition 9, 10, 11: Formules déduites de la relation de Chasles.
+
 1. Correction d'exercices.
 
 1. Exercices [3 et 4 page 192](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/7.%20Poduit%20scalaire/Images/3-4p192.png): Cosinus et sinus d'un réél.
 
 
 ---
--->
+
 
 Lundi 20 mars 2017:
 
