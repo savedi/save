@@ -123,6 +123,8 @@ Pour [jeudi 9 mars 2017](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/
 
 -->
 
+Plan de la séquence du jeudi 23 mars 2017:
+
 1. Exercices [3 et 4 page 192](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/7.%20Poduit%20scalaire/Images/3-4p192.png): Cosinus et sinus d'un réél.
 
 1. Exercices [1 à 3 page 197](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/7.%20Poduit%20scalaire/Images/1-4p197.png): Angles associés.
@@ -145,7 +147,7 @@ Pour [lundi 27 mars 2017](https://github.com/EdisonLorgues1SD1617/Devoirs/issues
 
 ---
 
-Plan de la séquence du mardi 21 mars 2017:
+Mardi 21 mars 2017:
 
 1. [Présentation](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/7.%20Poduit%20scalaire/Pr%C3%A9sentation/ProduitScalaire.pdf) sur le produit scalaire: Théorème 5, définition 6: Colinéarité et orthogonalité.
 
