@@ -131,7 +131,7 @@ Plan de la séquence du jeudi 23 mars 2017:
 
 1. Exercices [9 à 11 page 199 ](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/7.%20Poduit%20scalaire/Images/9-11p199.png): Utiliser la relation de Chasles.
 
-1. [polycopié](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/7.%20Poduit%20scalaire/Polycopie/ProduitScalaire.pdf) sur le produit scalaire.
+1. [Polycopié](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/7.%20Poduit%20scalaire/Polycopie/ProduitScalaire.pdf) sur le produit scalaire.
   - Définitions 12 : Norme de vecteur.
   - Définition 13: Repères orthonormés.
   - Définition 14: Trigonométrie.
