@@ -123,6 +123,28 @@ Pour [jeudi 9 mars 2017](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/
 
 -->
 
+1. Exercices [3 et 4 page 192](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/7.%20Poduit%20scalaire/Images/3-4p192.png): Cosinus et sinus d'un réél.
+
+1. Exercices [1 à 3 page 197](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/7.%20Poduit%20scalaire/Images/1-4p197.png): Angles associés.
+
+1. Exercices [9 à 11 page 199 ](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/7.%20Poduit%20scalaire/Images/9-11p199.png): Utiliser la relation de Chasles.
+
+1. [polycopié](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/7.%20Poduit%20scalaire/Polycopie/ProduitScalaire.pdf) sur le produit scalaire.
+  - Définitions 12 : Norme de vecteur.
+  - Définition 13: Repères orthonormés.
+  - Définition 14: Trigonométrie.
+  - Définition 15: Définitions du produit scalaire.
+
+Devoirs:
+
+Pour [lundi 27 mars 2017](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/55):
+
+1. Exercices [1 à 3 page 214](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/7.%20Poduit%20scalaire/Images/1-3p214.png).
+
+1. Lire et questionner la proposition 16 du [polycopié](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/7.%20Poduit%20scalaire/Polycopie/ProduitScalaire.pdf) sur le produit scalaire: Règles de calculs avec le produit scalaire.
+
+---
+
 Plan de la séquence du mardi 21 mars 2017:
 
 1. [Présentation](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/7.%20Poduit%20scalaire/Pr%C3%A9sentation/ProduitScalaire.pdf) sur le produit scalaire: Théorème 5, définition 6: Colinéarité et orthogonalité.
@@ -133,13 +155,11 @@ Plan de la séquence du mardi 21 mars 2017:
 
 1. Correction d'exercices.
 
-1. Exercices [3 et 4 page 192](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/7.%20Poduit%20scalaire/Images/3-4p192.png): Cosinus et sinus d'un réél.
-
 Devoirs:
 
 - Pour [jeudi 23 mars 2017](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/54):
 
-1. Lire et questionner les définitions 12, 13 et 14 du [polycopié](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/7.%20Poduit%20scalaire/Polycopie/ProduitScalaire.pdf) sur le produit scalaire: Normes et trigonométrie.
+1. Lire et questionner les définitions 12, 13,t 14 du [polycopié](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/7.%20Poduit%20scalaire/Polycopie/ProduitScalaire.pdf) sur le produit scalaire: Normes et trigonométrie.
 
 1. Exercices [1 à 3 page 197](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/7.%20Poduit%20scalaire/Images/1-4p197.png): Angles associés.
 
