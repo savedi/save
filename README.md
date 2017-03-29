@@ -4,9 +4,8 @@ jeudi 30 mars 2017:
 
 Contrôle avec des probabilités.
 
-- Pour [lundi 3 avril 2017](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/57):
-
-**Devoir à la maison**:
+**Devoir à la maison** pour [lundi 3 avril 2017](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/57):
+:
 
 1. Recopier la définition 14 du [polycopié](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/7.%20Poduit%20scalaire/Polycopie/ProduitScalaire.pdf) sur le produit scalaire.
 
