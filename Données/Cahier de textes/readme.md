@@ -147,6 +147,7 @@ Contrôle avec des probabilités.
 - Pour [mardi 4 avril 2017](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/58):
 
 Exercices [1 à 3 page 220](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/7.%20Poduit%20scalaire/Images/1-4p220.png): Calcul de produit scalaire.
+
 ---
 
 Lundi 27 mars 2017:
