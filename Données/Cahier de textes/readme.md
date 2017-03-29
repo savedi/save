@@ -126,11 +126,40 @@ Pour [jeudi 9 mars 2017](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/
 1. Exercices [9 à 11 page 199 ](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/7.%20Poduit%20scalaire/Images/9-11p199.png): Utiliser la relation de Chasles.
 -->
 
+Plan de la séquence du jeudi 30 mars 2017:
+
+1. Exercices [9 à 11 page 199 ](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/7.%20Poduit%20scalaire/Images/9-11p199.png): Utiliser la relation de Chasles.
+
+1. Exercices [1 à 3 page 197](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/7.%20Poduit%20scalaire/Images/1-4p197.png): Angles associés.
+
+1. Exercices [1 à 3 page  214](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/7.%20Poduit%20scalaire/Images/1-3p214.png): Distances et angles.
+
+1. [Présentation](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/7.%20Poduit%20scalaire/Pr%C3%A9sentation/ProduitScalaire.pdf) sur le produit scalaire.
+  - Définition 15: Définitions du produit scalaire.
+  - Proposition 16, exemple 17: Propriétés calculatoires.
+  - Théorème 18, proposition 19: Orthogonalité.
+
+1. Exercices [12 à 15 page 200](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/7.%20Poduit%20scalaire/Images/12-15p200.png)  
+
+Devoirs:
+
+- Pour [lundi 3 avril 2017](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/57):
+
+**Devoir à la maison**:
+
+1. Recopier la définition 14 du [polycopié](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/7.%20Poduit%20scalaire/Polycopie/ProduitScalaire.pdf) sur le produit scalaire.
+
+1. Exercice [4 page 197](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/7.%20Poduit%20scalaire/Images/1-4p197.png): Cosinus et sinus d'angles associés.
+
+- Pour [mardi 4 avril 2017](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/58):
+
+Exercices [1 à 3 page 220](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/7.%20Poduit%20scalaire/Images/1-4p220.png): Calcul de produit scalaire.
+
 ---
 
 Mardi 28 mars 2017:
 
-[Interrogation](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Activit%C3%A9s/interro.pdf) de révision.
+[Interrogation](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Activit%C3%A9s/interro.pdf) de révision et sa correction.
 
 Devoirs:
 
@@ -181,7 +210,7 @@ Jeudi 23 mars 2017:
   - Définitions 12 : Norme de vecteur.
   - Définition 13: Repères orthonormés.
   - Définition 14: Trigonométrie.
-  - Définition 15: Définitions du produit scalaire.
+
 
 1. Retrouver des valeurs de cosinus et sinus d'angles de référence.
 
@@ -189,7 +218,7 @@ Devoirs:
 
 Pour [lundi 27 mars 2017](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/55):
 
-1. Exercices [1 à 3 page 214](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/7.%20Poduit%20scalaire/Images/1-3p214.png).
+1. Exercices [1 à 3 page 214](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/7.%20Poduit%20scalaire/Images/1-3p214.png): Distances et angles.
 
 1. Lire et questionner la proposition 16 du [polycopié](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/7.%20Poduit%20scalaire/Polycopie/ProduitScalaire.pdf) sur le produit scalaire: Règles de calculs avec le produit scalaire.
 
