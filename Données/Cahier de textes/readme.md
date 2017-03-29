@@ -128,11 +128,11 @@ Pour [jeudi 9 mars 2017](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/
 
 Plan de la séquence du jeudi 30 mars 2017:
 
-1. Exercices [9 à 11 page 199 ](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/7.%20Poduit%20scalaire/Images/9-11p199.png): Utiliser la relation de Chasles.
+1. Exercices [9 à 11 page 199 ](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/53): Utiliser la relation de Chasles.
 
-1. Exercices [1 à 3 page 197](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/7.%20Poduit%20scalaire/Images/1-4p197.png): Angles associés.
+1. Exercices [1 à 3 page 197](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/54): Angles associés.
 
-1. Exercices [1 à 3 page  214](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/7.%20Poduit%20scalaire/Images/1-3p214.png): Distances et angles.
+1. Exercices [1 à 3 page  214](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/55): Distances et angles.
 
 1. [Présentation](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/7.%20Poduit%20scalaire/Pr%C3%A9sentation/ProduitScalaire.pdf) sur le produit scalaire.
   - Définition 15: Définitions du produit scalaire.
