@@ -126,6 +126,8 @@ Pour [jeudi 9 mars 2017](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/
 1. Exercices [9 à 11 page 199 ](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/7.%20Poduit%20scalaire/Images/9-11p199.png): Utiliser la relation de Chasles.
 -->
 
+---
+
 Mardi 28 mars 2017:
 
 [Interrogation](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Activit%C3%A9s/interro.pdf) de révision.
@@ -168,6 +170,8 @@ Préparer des questions pour le contrôle du jeudi 30 mars 2017 avec :
 - Pour jeudi 30 mars 2017:
 
 Contrôle avec des probabilités.
+
+---
 
 Jeudi 23 mars 2017:
 
