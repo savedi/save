@@ -135,9 +135,9 @@ Plan de la séquence du jeudi 30 mars 2017:
 1. Exercices [1 à 3 page  214](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/55): Distances et angles.
 
 1. [Présentation](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/7.%20Poduit%20scalaire/Pr%C3%A9sentation/ProduitScalaire.pdf) sur le produit scalaire.
-  - Définition 15: Définitions du produit scalaire.
-  - Proposition 16, exemple 17: Propriétés calculatoires.
-  - Théorème 18, proposition 19: Orthogonalité.
+    - Définition 15: Définitions du produit scalaire.
+    - Proposition 16, exemple 17: Propriétés calculatoires.
+    - Théorème 18, proposition 19: Orthogonalité.
 1. Exercices [12 à 15 page 200](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/7.%20Poduit%20scalaire/Images/12-15p200.png)  
 
 Devoirs:
