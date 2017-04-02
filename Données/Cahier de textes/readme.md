@@ -124,9 +124,38 @@ Pour [jeudi 9 mars 2017](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/
 1. Exercices [1 à 3 page 197](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/7.%20Poduit%20scalaire/Images/1-4p197.png): Angles associés.
 
 1. Exercices [9 à 11 page 199 ](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/7.%20Poduit%20scalaire/Images/9-11p199.png): Utiliser la relation de Chasles.
+
+
+1. Exercices [12 à 15 page 200](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/7.%20Poduit%20scalaire/Images/12-15p200.png): Utilisation des angles orientés.
+
+---
 -->
 
-Plan de la séquence du jeudi 30 mars 2017:
+Plan de la séquence du lundi 3 avril 2017:
+
+1. Exercice [A page 220](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/7.%20Poduit%20scalaire/Images/Ap220.png): Choisir la bonne expression pour le produit scalaire.
+
+1. Exercice [B page 221](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/7.%20Poduit%20scalaire/Images/Bp221.png): Calcul d'angle.
+
+1. Exercice [C page 222](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/7.%20Poduit%20scalaire/Images/Cp222.png): Le produit scalaire avec projection.
+
+Devoirs:
+
+- Pour [mardi 4 avril 2017](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/58):
+
+1. Lire et questionner la proposition 21, le théorème 22 et l'exemple 23 du [polycopié](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/7.%20Poduit%20scalaire/Polycopie/ProduitScalaire.pdf) sur le produit scalaire: Equation de droite et produit scalaire.
+
+1. Exercices [1 à 3 page 220](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/7.%20Poduit%20scalaire/Images/1-4p220.png): Calcul de produit scalaire.
+
+- Pour [jeudi 6 avril 2017](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/59):
+
+1. Lire et questionner les théorème 24 démonstration 25 exemple 26 et théorème 27 du [polycopié](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/7.%20Poduit%20scalaire/Polycopie/ProduitScalaire.pdf) sur le produit scalaire: Equations de cercles.
+
+1. Exercices [32 à 39 page 230](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/7.%20Poduit%20scalaire/Images/32-39p230.png): Exercices qu'on peut faire de tête.
+
+---
+
+Jeudi 30 mars 2017:
 
 1. Exercices [9 à 11 page 199 ](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/53): Utiliser la relation de Chasles.
 
@@ -138,7 +167,7 @@ Plan de la séquence du jeudi 30 mars 2017:
     - Définition 15: Définitions du produit scalaire.
     - Proposition 16, exemple 17: Propriétés calculatoires.
     - Théorème 18, proposition 19: Orthogonalité.
-1. Exercices [12 à 15 page 200](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/7.%20Poduit%20scalaire/Images/12-15p200.png): Utilisation des angles orientés.  
+    - Définition 20: Vecteur normal à une droite.
 
 Devoirs:
 
@@ -152,7 +181,9 @@ Devoirs:
 
 - Pour [mardi 4 avril 2017](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/58):
 
-Exercices [1 à 3 page 220](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/7.%20Poduit%20scalaire/Images/1-4p220.png): Calcul de produit scalaire.
+1. Lire et questionner la proposition 21, le théorème 22 et l'exemple 23 du [polycopié](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/7.%20Poduit%20scalaire/Polycopie/ProduitScalaire.pdf) sur le produit scalaire: Equation de droite et produit scalaire.
+
+1. Exercices [1 à 3 page 220](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/7.%20Poduit%20scalaire/Images/1-4p220.png): Calcul de produit scalaire.
 
 ---
 
