@@ -131,7 +131,20 @@ Pour [jeudi 9 mars 2017](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/
 ---
 -->
 
-Plan de la séquence du lundi 3 avril 2017:
+Plan de la séquence du mardi 4 avril 2017:
+
+1. [Présentation](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/7.%20Poduit%20scalaire/Pr%C3%A9sentation/ProduitScalaire.pdf) sur le produit scalaire.
+
+- Théorème 24, démonstration 25, exemple 26: Equation de cercle.
+- Théorème 27, démonstration 28: Triangle inscrit dans un cercle.
+
+1. Exercices [26 à 29 page 205](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/7.%20Poduit%20scalaire/Images/26-29p205.png): Exercices sur les angles orientés que l'on peut faire de tête.
+
+1. Correction d'exercices.
+
+---
+
+Lundi 3 avril 2017:
 
 1. Exercice [A page 220](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/7.%20Poduit%20scalaire/Images/Ap220.png): Choisir la bonne expression pour le produit scalaire.
 
