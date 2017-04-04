@@ -142,6 +142,14 @@ Plan de la séquence du mardi 4 avril 2017:
 
 1. Correction d'exercices.
 
+Devoirs:
+
+- Pour [jeudi 6 avril 2017](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/59):
+
+1. Lire et questionner les théorème 24 démonstration 25 exemple 26 et théorème 27 du [polycopié](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/7.%20Poduit%20scalaire/Polycopie/ProduitScalaire.pdf) sur le produit scalaire: Equations de cercles.
+
+1. Exercices [32 à 39 page 230](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/7.%20Poduit%20scalaire/Images/32-39p230.png): Exercices qu'on peut faire de tête.
+
 ---
 
 Lundi 3 avril 2017:
