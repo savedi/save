@@ -14,3 +14,5 @@
 - Sur les [dérivées](https://github.com/EdisonLorgues1SD1617/Math1SD1617/tree/master/Donn%C3%A9es/Chapitres/3.%20Derivation/Contr%C3%B4les).
 
 - Sur les [suites](https://github.com/EdisonLorgues1SD1617/Math1SD1617/tree/master/Donn%C3%A9es/Chapitres/4.%20Suites/Contr%C3%B4les)(avec corrections).
+
+- Sur les [probabilités](https://github.com/EdisonLorgues1SD1617/Math1SD1617/tree/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Contr%C3%B4les).
