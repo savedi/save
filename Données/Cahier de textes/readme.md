@@ -133,7 +133,7 @@ Pour [jeudi 9 mars 2017](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/
 
 Plan de la séquence du jeudi 6 avril 2017:
 
-1. 1. Exercices [26 à 29 page 205](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/7.%20Poduit%20scalaire/Images/26-29p205.png): Exercices sur les angles orientés que l'on peut faire de tête.
+1. Exercices [26 à 29 page 205](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/7.%20Poduit%20scalaire/Images/26-29p205.png): Exercices sur les angles orientés que l'on peut faire de tête.
 
 1. Correction d'exercices.
 
