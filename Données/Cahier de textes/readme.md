@@ -159,6 +159,8 @@ Devoirs:
 
 Exercices [63 et 64 page 256](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/7.%20Poduit%20scalaire/Images/63-64p257.png): Equations de cercles.
 
+- Pour jeudi 4 mai 2017: Contrôle avec des produits scalaires.
+
 ---
 
 Mardi 4 avril 2017:
