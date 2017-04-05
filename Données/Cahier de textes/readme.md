@@ -131,16 +131,43 @@ Pour [jeudi 9 mars 2017](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/
 ---
 -->
 
-Plan de la séquence du mardi 4 avril 2017:
+Plan de la séquence du jeudi 6 avril 2017:
+
+1. 1. Exercices [26 à 29 page 205](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/7.%20Poduit%20scalaire/Images/26-29p205.png): Exercices sur les angles orientés que l'on peut faire de tête.
+
+1. Correction d'exercices.
+
+1. [Présentation](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/7.%20Poduit%20scalaire/Pr%C3%A9sentation/ProduitScalaire.pdf) sur le produit scalaire.
+
+- Théorème 29, démonstration 30: Le théorème de Pythagore généralisé.
+- Théorème 31, démonstration 32: Théorème de la médiane.
+- Théorème 33: Trigonométrie: formules d'addition et de duplication.
+
+Devoirs:
+
+- Pour [lundi 24 avril 2017](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/60):
+
+**Devoir à la maison**:
+
+1. Recopier les théorèmes 29 et 31 du
+[polycopié](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/7.%20Poduit%20scalaire/Polycopie/ProduitScalaire.pdf) sur le produit scalaire.
+
+1. Exercices [49 et 50 page 256](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/7.%20Poduit%20scalaire/Images/49-50p256.png): Utilisation des théorèmes issus du produit scalaires.
+
+- Pour [mardi 25 avril 2017](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/61):
+
+Exercices [63 et 64 page 256](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/7.%20Poduit%20scalaire/Images/63-64p257.png): Equations de cercles.
+
+---
+
+Mardi 4 avril 2017:
 
 1. [Présentation](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/7.%20Poduit%20scalaire/Pr%C3%A9sentation/ProduitScalaire.pdf) sur le produit scalaire.
 
 - Théorème 24, démonstration 25, exemple 26: Equation de cercle.
 - Théorème 27, démonstration 28: Triangle inscrit dans un cercle.
 
-1. Exercices [26 à 29 page 205](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/7.%20Poduit%20scalaire/Images/26-29p205.png): Exercices sur les angles orientés que l'on peut faire de tête.
 
-1. Correction d'exercices.
 
 Devoirs:
 
