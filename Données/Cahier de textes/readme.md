@@ -141,7 +141,8 @@ Plan de la séquence du jeudi 6 avril 2017:
 
 - Théorème 29, démonstration 30: Le théorème de Pythagore généralisé.
 - Théorème 31, démonstration 32: Théorème de la médiane.
-- Théorème 33: Trigonométrie: formules d'addition et de duplication.
+- Théorème 33: Trigonométrie: Formules d'addition et de duplication.
+[Démonstration](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/7.%20Poduit%20scalaire/Images/DemoAddition.png) dans le [cercle](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/7.%20Poduit%20scalaire/Images/trigo.png).
 
 Devoirs:
 
