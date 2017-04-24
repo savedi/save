@@ -131,7 +131,23 @@ Pour [jeudi 9 mars 2017](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/
 ---
 -->
 
-Plan de la séquence du jeudi 6 avril 2017:
+Plan de la séquence du 24 avril 2017:
+
+1. Exercices [10 à 14 page 247](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/7.%20Poduit%20scalaire/Images/10-14p247.png): Equations de cercles.
+
+1. Exercices [5 à 9 page 246](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/7.%20Poduit%20scalaire/Images/5-9p246.png): Utiliser le théorème de la médiane.
+
+Devoirs:
+
+- Pour [mardi 25 avril 2017](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/61):
+
+Exercices [63 et 64 page 256](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/7.%20Poduit%20scalaire/Images/63-64p257.png): Equations de cercles.
+
+- Pour jeudi 4 mai 2017: Contrôle avec des produits scalaires.
+
+---
+
+Jeudi 6 avril 2017:
 
 1. Exercices [26 à 29 page 205](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/7.%20Poduit%20scalaire/Images/26-29p205.png): Exercices sur les angles orientés que l'on peut faire de tête.
 
