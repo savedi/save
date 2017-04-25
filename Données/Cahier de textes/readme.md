@@ -149,6 +149,14 @@ Devoirs;
 
 Exercices [6, 7 et 8 page 198](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/7.%20Poduit%20scalaire/Images/5-8p198.png): Equations trigonométriques.
 
+- Pour jeudi 4 mai 2017:
+
+Contrôle avec des produit scalaire.
+
+- Pour mardi 16 mai 2017:
+
+Contrôle commun de première S de 8 heures à 10 heures.
+
 ---
 
 Lundi 24 avril 2017:
