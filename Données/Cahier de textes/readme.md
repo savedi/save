@@ -141,13 +141,13 @@ Mardi 25 avril 2017:
 
 1. [ROC] Montrer à l'aide de la définition du produit scalaire utilisant seulement les normes de vecteurs que:
 
-u.v=xx'+yy' où (x,y) (resp. (x',y')) sont les coordonnées de u (resp. v) dans un repère orthonormée.
+u.v=xx'+yy' où (x,y) (resp. (x',y')) sont les coordonnées de u (resp. v) dans un repère orthonormé.
 
 Devoirs;
 
-- Pour jeudi 27 avril 2017:
+- Pour [jeudi 27 avril 2017](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/64):
 
-Exercices [6, 7 et 8 page 198](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/7.%20Poduit%20scalaire/Images/5-8p198.png).
+Exercices [6, 7 et 8 page 198](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/7.%20Poduit%20scalaire/Images/5-8p198.png): Equations trigonométriques.
 
 ---
 
