@@ -131,11 +131,31 @@ Pour [jeudi 9 mars 2017](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/
 ---
 -->
 
-Plan de la séquence du 24 avril 2017:
+Mardi 25 avril 2017:
 
-1. Exercices [10 à 14 page 247](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/7.%20Poduit%20scalaire/Images/10-14p247.png): Equations de cercles.
+1. [ROC] Démontrer que la fonction racine carrée est strictement croissante sur son ensemble de définition.
 
-1. Exercices [5 à 9 page 246](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/7.%20Poduit%20scalaire/Images/5-9p246.png): Utiliser le théorème de la médiane.
+1. Correction exercices [63 et 64 page 256](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/7.%20Poduit%20scalaire/Images/63-64p257.png): Equations de cercles.
+
+1. Exercice [5 page 198](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/7.%20Poduit%20scalaire/Images/5-8p198.png): Résolution d'équation trigonométrique.
+
+1. [ROC] Montrer à l'aide de la définition du produit scalaire utilisant seulement les normes de vecteurs que:
+
+u.v=xx'+yy' où (x,y) (resp. (x',y')) sont les coordonnées de u (resp. v) dans un repère orthonormée.
+
+Devoirs;
+
+- Pour jeudi 27 avril 2017:
+
+Exercices [6, 7 et 8 page 198](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/7.%20Poduit%20scalaire/Images/5-8p198.png).
+
+---
+
+Lundi 24 avril 2017:
+
+1. Exercices [10 page 247](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/7.%20Poduit%20scalaire/Images/10-14p247.png): Equations de cercles.
+
+1. Exercices [5 page 246](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/7.%20Poduit%20scalaire/Images/5-9p246.png): Utiliser le théorème de la médiane.
 
 Devoirs:
 
