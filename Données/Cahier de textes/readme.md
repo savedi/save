@@ -129,19 +129,42 @@ Pour [jeudi 9 mars 2017](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/
 1. Exercices [12 à 15 page 200](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/7.%20Poduit%20scalaire/Images/12-15p200.png): Utilisation des angles orientés.
 
 ---
+
+
+
 -->
+
+Jeudi 27 avril 2017:
+
+1. Calculer l'équation d'une médiatrice et l'équation d'une hauteur.
+
+1. Correction exercice [64 page 256](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/7.%20Poduit%20scalaire/Images/63-64p257.png): Equations de cercles.
+
+1. Exercice [5 page 198](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/7.%20Poduit%20scalaire/Images/5-8p198.png): Résolution d'équation trigonométrique.
+
+1. Exercices [85 et 86 page 260](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/7.%20Poduit%20scalaire/Images/85-86p260.png): Formule de duplication.
+
+1. [ROC] Montrer à l'aide de la définition du produit scalaire utilisant seulement les normes de vecteurs que:
+
+u.v=xx'+yy' où (x,y) (resp. (x',y')) sont les coordonnées de u (resp. v) dans un repère orthonormé.
+
+1. Exercices [87 à 91 page 260](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/7.%20Poduit%20scalaire/Images/87-91p260.png): Formules trigonométriques.
+
+Devoirs:
+
+- Pour [mardi 2 mai 2017](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/65):
+
+1. Préparer un fiche de synthèse et une fiche des compétences sur le produit scalaire. (Vous pouvez publier vos production sur GitHub).
+
+1. 1. Exercices [8 et 9 page 246](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/7.%20Poduit%20scalaire/Images/5-9p246.png): Utiliser le théorème de la médiane.
+
+---
 
 Mardi 25 avril 2017:
 
 1. [ROC] Démontrer que la fonction racine carrée est strictement croissante sur son ensemble de définition.
 
-1. Correction exercices [63 et 64 page 256](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/7.%20Poduit%20scalaire/Images/63-64p257.png): Equations de cercles.
-
-1. Exercice [5 page 198](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/7.%20Poduit%20scalaire/Images/5-8p198.png): Résolution d'équation trigonométrique.
-
-1. [ROC] Montrer à l'aide de la définition du produit scalaire utilisant seulement les normes de vecteurs que:
-
-u.v=xx'+yy' où (x,y) (resp. (x',y')) sont les coordonnées de u (resp. v) dans un repère orthonormé.
+1. Correction exercices [63 page 256](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/7.%20Poduit%20scalaire/Images/63-64p257.png): Equations de cercles.
 
 Devoirs;
 
