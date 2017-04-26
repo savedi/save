@@ -156,7 +156,7 @@ Devoirs:
 
 1. Préparer un fiche de synthèse et une fiche des compétences sur le produit scalaire. (Vous pouvez publier vos production sur GitHub).
 
-1. 1. Exercices [8 et 9 page 246](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/7.%20Poduit%20scalaire/Images/5-9p246.png): Utiliser le théorème de la médiane.
+1. Exercices [8 et 9 page 246](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/7.%20Poduit%20scalaire/Images/5-9p246.png): Utiliser le théorème de la médiane.
 
 ---
 
