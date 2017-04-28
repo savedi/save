@@ -131,6 +131,11 @@ Pour [jeudi 9 mars 2017](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/
 ---
 
 
+1. [ROC] Montrer à l'aide de la définition du produit scalaire utilisant seulement les normes de vecteurs que:
+
+u.v=xx'+yy' où (x,y) (resp. (x',y')) sont les coordonnées de u (resp. v) dans un repère orthonormé.
+
+1. Exercices [87 à 91 page 260](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/7.%20Poduit%20scalaire/Images/87-91p260.png): Formules trigonométriques.
 
 -->
 
@@ -143,12 +148,6 @@ Jeudi 27 avril 2017:
 1. Exercice [5 page 198](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/7.%20Poduit%20scalaire/Images/5-8p198.png): Résolution d'équation trigonométrique.
 
 1. Exercices [85 et 86 page 260](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/7.%20Poduit%20scalaire/Images/85-86p260.png): Formule de duplication.
-
-1. [ROC] Montrer à l'aide de la définition du produit scalaire utilisant seulement les normes de vecteurs que:
-
-u.v=xx'+yy' où (x,y) (resp. (x',y')) sont les coordonnées de u (resp. v) dans un repère orthonormé.
-
-1. Exercices [87 à 91 page 260](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/7.%20Poduit%20scalaire/Images/87-91p260.png): Formules trigonométriques.
 
 Devoirs:
 
