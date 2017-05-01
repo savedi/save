@@ -139,6 +139,25 @@ u.v=xx'+yy' où (x,y) (resp. (x',y')) sont les coordonnées de u (resp. v) dans 
 
 -->
 
+
+Séquence du mardi 2 mai 2017:
+
+1. Séance de révision pour le contrôle sur le produit scalaire.
+
+1. 1. Exercices [87 à 91 page 260](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/7.%20Poduit%20scalaire/Images/87-91p260.png): Formules trigonométriques.
+
+Devoirs:
+
+- Pour jeudi 4 mai 2017:
+
+Contrôle avec des produit scalaire.
+
+- Pour mardi 16 mai 2017:
+
+Contrôle commun de première S de 8 heures à 10 heures.
+
+---
+
 Jeudi 27 avril 2017:
 
 1. Calculer l'équation d'une médiatrice et l'équation d'une hauteur.
@@ -156,6 +175,14 @@ Devoirs:
 1. Préparer un fiche de synthèse et une fiche des compétences sur le produit scalaire. (Vous pouvez publier vos production sur GitHub).
 
 1. Exercices [8 et 9 page 246](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/7.%20Poduit%20scalaire/Images/5-9p246.png): Utiliser le théorème de la médiane.
+
+- Pour jeudi 4 mai 2017:
+
+Contrôle avec des produit scalaire.
+
+- Pour mardi 16 mai 2017:
+
+Contrôle commun de première S de 8 heures à 10 heures.
 
 ---
 
