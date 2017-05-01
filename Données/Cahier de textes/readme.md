@@ -144,7 +144,7 @@ Séquence du mardi 2 mai 2017:
 
 1. Séance de révision pour le contrôle sur le produit scalaire.
 
-1. 1. Exercices [87 à 91 page 260](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/7.%20Poduit%20scalaire/Images/87-91p260.png): Formules trigonométriques.
+1. Exercices [87 à 91 page 260](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/7.%20Poduit%20scalaire/Images/87-91p260.png): Formules trigonométriques.
 
 Devoirs:
 
