@@ -146,6 +146,8 @@ Séquence du mardi 2 mai 2017:
 
 1. Exercices [87 à 91 page 260](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/7.%20Poduit%20scalaire/Images/87-91p260.png): Formules trigonométriques.
 
+1. Correction exercice [9 page 246](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/7.%20Poduit%20scalaire/Images/5-9p246.png): Lieu géométrique.
+
 Devoirs:
 
 - Pour jeudi 4 mai 2017:
