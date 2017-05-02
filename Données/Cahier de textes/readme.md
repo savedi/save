@@ -152,7 +152,7 @@ Devoirs:
 
 - Pour jeudi 4 mai 2017:
 
-Contrôle avec des produit scalaire.
+Contrôle avec des produits scalaires.
 
 - Pour mardi 16 mai 2017:
 
