@@ -139,6 +139,8 @@ Pour [jeudi 9 mars 2017](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/
 
 Jeudi 4 mai 2017:
 
+1. [Classement](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Olympiades/classement.md) des olympiades de mathématiques. 
+
 1. Echantillonage [Activité 3 page 317](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Images/3p317.png): Problématique et analyse de situation.
 
 1. Mise en place du protocol de [décision](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Images/3bp318.png).
