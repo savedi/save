@@ -131,20 +131,42 @@ Pour [jeudi 9 mars 2017](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/
 ---
 
 
-1. [ROC] Montrer à l'aide de la définition du produit scalaire utilisant seulement les normes de vecteurs que:
 
-u.v=xx'+yy' où (x,y) (resp. (x',y')) sont les coordonnées de u (resp. v) dans un repère orthonormé.
 
 1. Exercices [87 à 91 page 260](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/7.%20Poduit%20scalaire/Images/87-91p260.png): Formules trigonométriques.
 
 -->
 
+Jeudi 4 mai 2017:
 
-Séquence du mardi 2 mai 2017:
+1. Echantillonage [Activité 3 page 317](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Images/3p317.png): Problématique et analyse de situation.
+
+1. Mise en place du protocol de [décision](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Images/3bp318.png).
+
+1. [Conclusion](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Images/3cp318.png).
+
+1. [ROC] Montrer à l'aide de la définition du produit scalaire utilisant seulement les normes de vecteurs que:
+
+u.v=xx'+yy' où (x,y) (resp. (x',y')) sont les coordonnées de u (resp. v) dans un repère orthonormé.
+
+Devoirs:
+
+- Pour [mardi 9 mai 2017](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/67):
+
+1. Exercice [11 page 330](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Images/11p330.png): Prise de décision.
+
+- Pour mardi 16 mai 2017:
+
+Contrôle commun de première S de 8 heures à 10 heures.
+
+
+---
+
+mardi 2 mai 2017:
 
 1. Séance de révision pour le contrôle sur le produit scalaire.
 
-1. Exercices [87 à 91 page 260](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/7.%20Poduit%20scalaire/Images/87-91p260.png): Formules trigonométriques.
+1. Exercices [87 et 88 page 260](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/7.%20Poduit%20scalaire/Images/87-91p260.png): Formules trigonométriques.
 
 1. Correction exercice [9 page 246](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/7.%20Poduit%20scalaire/Images/5-9p246.png): Lieu géométrique.
 
