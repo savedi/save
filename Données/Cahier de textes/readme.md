@@ -137,9 +137,21 @@ Pour [jeudi 9 mars 2017](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/
 
 -->
 
+Mardi 9 mai 2017:
+
+Révisions pour le devoir commun:
+
+[Sujet 2016](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/R%C3%A9visions/1S_Epreuve.commune2016.pdf).
+
+- Pour mardi 16 mai 2017:
+
+Contrôle commun de première S de 8 heures à 10 heures.
+
+---
+
 Jeudi 4 mai 2017:
 
-1. [Classement](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Olympiades/classement.md) des olympiades de mathématiques. 
+1. [Classement](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Olympiades/classement.md) des olympiades de mathématiques.
 
 1. Echantillonage [Activité 3 page 317](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/6.%20Probabilit%C3%A9s/Images/3p317.png): Problématique et analyse de situation.
 
