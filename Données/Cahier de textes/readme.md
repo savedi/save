@@ -135,7 +135,7 @@ Pour [jeudi 9 mars 2017](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/
 
 1. Exercices [87 à 91 page 260](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/7.%20Poduit%20scalaire/Images/87-91p260.png): Formules trigonométriques.
 
--->
+
 
 Jeudi 11 mai 2017:
 
@@ -146,6 +146,7 @@ Révisions pour le devoir commun:
 1. [Exercice 4 du devoir commun 2016](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/R%C3%A9visions/1S_Epreuve.commune2016.pdf): Suites et algorithmes.
 
 ---
+-->
 
 Mardi 9 mai 2017:
 
