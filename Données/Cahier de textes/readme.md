@@ -137,11 +137,33 @@ Pour [jeudi 9 mars 2017](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/
 
 -->
 
+Jeudi 11 mai 2017:
+
+Révisions pour le devoir commun:
+
+1. [Suites et probas](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/R%C3%A9visions/revision(suites%2Cprobas).png).
+
+1. [Exercice 4 du devoir commun 2016](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/R%C3%A9visions/1S_Epreuve.commune2016.pdf): Suites et algorithmes.
+
+---
+
 Mardi 9 mai 2017:
 
 Révisions pour le devoir commun:
 
 [Sujet 2016](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/R%C3%A9visions/1S_Epreuve.commune2016.pdf).
+
+- Pour [jeudi 11 mai 2017](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/68):
+
+1. Terminer l'exercice 1 du [devoir commun de 2016](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/R%C3%A9visions/1S_Epreuve.commune2016.pdf).
+
+1. Suites: [Exercice 142 page 139](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/R%C3%A9visions/142p139.png): Intérêts composés.
+
+1. Réaliser un algorithme qui permet de répondre à la question d de l'exercice précédent.
+
+1. Refaire l'exercice 2 du [contrôle sur les vecteurs](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/R%C3%A9visions/vecteursA.pdf).
+
+
 
 - Pour mardi 16 mai 2017:
 
