@@ -6,6 +6,13 @@
 
 - [Polycopié](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/7.%20Poduit%20scalaire/Polycopie/ProduitScalaire.pdf) -->
 
+Programme du devoir commun:
+
+  - Vecteurs et équations de droites.
+  - Dérivation.
+  - Suites numériques.
+  - Probabilités.
+
 - [Compétences]()
 
 

@@ -148,6 +148,29 @@ Révisions pour le devoir commun:
 ---
 -->
 
+Lundi 15 mai 2017:
+
+
+
+Jeudi 11 mai 2017:
+
+Révisions pour le devoir commu.
+
+Devoirs:
+
+- Pour [mardi 15 mai 2017](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/69):
+
+Devoir à la maison facultatif
+
+1. Recopier les définitions 7 et 10 du cours sur les suites.
+1. Montrer que la suite définie par récurrence
+u_0=1 et u_{n+1}=2u_n+3
+est ni arithmétique ni géométrique.
+
+
+
+---
+
 Mardi 9 mai 2017:
 
 Révisions pour le devoir commun:
