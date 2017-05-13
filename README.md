@@ -1,10 +1,10 @@
 # [Cahier de textes](https://github.com/EdisonLorgues1SD1617/math1sd1617/blob/master/Donn%C3%A9es/Cahier%20de%20textes/readme.md)
 
-## Chapitre en cours: Produit scalaire.
+<!-- ## Chapitre en cours: Produit scalaire.
 
 - [Présentation](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/7.%20Poduit%20scalaire/Pr%C3%A9sentation/ProduitScalaire.pdf)
 
-- [Polycopié](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/7.%20Poduit%20scalaire/Polycopie/ProduitScalaire.pdf)
+- [Polycopié](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/7.%20Poduit%20scalaire/Polycopie/ProduitScalaire.pdf) -->
 
 - [Compétences]()
 
