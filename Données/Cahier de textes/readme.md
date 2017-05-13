@@ -150,11 +150,13 @@ Révisions pour le devoir commun:
 
 Lundi 15 mai 2017:
 
+[Révisions probabilités](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/R%C3%A9visions/revision(suites%2Cprobas.png).
 
+---
 
 Jeudi 11 mai 2017:
 
-Révisions pour le devoir commu.
+Révisions pour le devoir commun.
 
 Devoirs:
 
