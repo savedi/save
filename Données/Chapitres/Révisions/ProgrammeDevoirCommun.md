@@ -1,3 +1,5 @@
+# Programme du devoir commun:
+
 - Vecteurs et équations de droites:
   - Tester l'appartenance d'un point à une droite en utilisant son équation.
   - Tester le parallélisme de droites en utilisant la propriété de colinéarité des vecteurs directeurs.
@@ -25,4 +27,4 @@
   - Représenter une expérience à l'aide d'un arbre pondéré.
   - Utiliser la loi des chemins pour calculer la probabilité d'un événement.
   - Déterminer la loi d'une variable aléatoire.
-  - Calculer et in
+  - Calculer et interpréter l'espérance d'un variable aléatoire.
