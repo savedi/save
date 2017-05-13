@@ -1,0 +1,287 @@
+\documentclass[a4paper,11pt]{article}
+\usepackage{pdflscape}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+%\usepackage{fourier} % math & rm
+%\usepackage{amsthm,amsfonts,amsmath,amssymb,textcomp}
+\usepackage{pst-all,pstricks-add,pst-eucl}
+\everymath{\displaystyle}
+\usepackage{fp,ifthen}
+%\usepackage{color}
+%\usepackage{graphicx}
+\usepackage{setspace}
+\usepackage{array}
+\usepackage{tabularx}
+\usepackage{supertabular}
+\usepackage{hhline}
+\usepackage{variations}
+\usepackage{enumerate}
+\usepackage{pifont}
+\usepackage{framed}
+\usepackage[fleqn]{amsmath}
+\usepackage{amssymb}
+\usepackage[framed]{ntheorem}
+\usepackage{multicol}
+\usepackage{kpfonts}
+\usepackage{manfnt}
+
+%\usepackage[hmargin=2.5cm, vmargin=2.5cm]{geometry}
+\usepackage{vmargin}          % Pour fixer les marges du document
+\setmarginsrb
+{1.5cm} 	%marge gauche
+{0.5cm} 	  %marge en haut
+{1.5cm}     %marge droite
+{0.5cm}   %marge en bas
+{1cm} 	%hauteur de l'entête
+{0.5cm}   %distance entre l'entête et le texte
+{1cm} 	  %hauteur du pied de page
+{0.5cm}     %distance entre le texte et le pied de page
+
+\newcommand{\R}{\mathbb{R}}
+\newcommand{\N}{\mathbb{N}}
+%\newcommand{\D}{\mathbb{D}}
+\newcommand{\Z}{\mathbb{Z}}
+\newcommand{\Q}{\mathbb{Q}}
+\newcommand{\C}{\mathbb{C}}
+\newcommand{\e}{\text{e}}
+\newcommand{\dx}{\text{d}x}
+\newcommand{\vect}[1]{\mathchoice%
+  {\overrightarrow{\displaystyle\mathstrut#1\,\,}}%
+  {\overrightarrow{\textstyle\mathstrut#1\,\,}}%
+  {\overrightarrow{\scriptstyle\mathstrut#1\,\,}}%
+  {\overrightarrow{\scriptscriptstyle\mathstrut#1\,\,}}}
+\newcommand\arraybslash{\let\\\@arraycr}
+\renewcommand{\theenumi}{\textbf{\arabic{enumi}}}
+\renewcommand{\labelenumi}{\textbf{\theenumi.}}
+\renewcommand{\theenumii}{\textbf{\alph{enumii}}}
+\renewcommand{\labelenumii}{\textbf{\theenumii.}}
+\renewcommand{\and}{\wedge}
+
+\theoremstyle{break}
+\theorembodyfont{\upshape}
+\newframedtheorem{Theo}{Théorème}
+\newframedtheorem{Prop}{Propriété}
+\newframedtheorem{Def}{Définition}
+
+\newtheorem{Term}{Terminologie}
+\newtheorem{Rq}{Remarque}
+\newtheorem{Ex}{Exemple}
+%\newtheorem{exo}{Exercice}
+
+%\theorembodyfont{\small \sffamily}
+%\newtheorem{sol}{solution}
+
+\newenvironment{sol}% 
+{\def\FrameCommand{\hspace{0.5cm} {\color{black} \vrule width 1pt} \hspace{-0.7cm}}%
+  \framed {\advance\hsize-\width}
+  \noindent \small \sffamily  %\underline{Solution :}%\\
+}%
+{\endframed}
+
+\newrgbcolor{vert}{0 0.4 0}
+\newrgbcolor{bistre}{1 .50 .30}
+\setlength\tabcolsep{1mm}
+\renewcommand\arraystretch{1.3}
+
+\everymath{\displaystyle}
+\hyphenpenalty 10000 %supprime toutes les césures
+%\setcounter{secnumdepth}{0}
+%\newcounter{saveenum}
+
+\usepackage[frenchb]{babel}
+\usepackage{fancyhdr,lastpage}
+\usepackage{fancybox}
+
+%\headheight 15.0 pt
+\fancyhead[L]{Avec des suites}
+\fancyhead[C]{Contrôle sujet D}
+\fancyhead[R]{Jeudi 2 mars 2017}
+%\fancyfoot[L]{{\scriptsize\textsl{Cité scolaire de Lorgues}}}
+\fancyfoot[C]{}
+%\fancyfoot[C]{\scriptsize\thepage}
+%\fancyfoot[C]{\scriptsize\thepage/\pageref{LastPage}}
+
+\title{}
+\author{}
+\date{}
+
+%\pagestyle{empty}
+\pagestyle{fancy}
+\usepackage[np]{numprint}
+
+\renewcommand\arraystretch{1.8}
+
+\newcounter{numero}
+\newcommand{\exo}{
+  \addtocounter{numero}{1}%
+  \textbf{\underline{Exercice \arabic{numero}:}}\quad}
+
+\frenchbsetup{StandardEnumerateEnv=true}
+\usepackage{etex}
+\usepackage{pgf,tikz,tkz-tab}
+\usepackage{comment}
+\includecomment{correction}
+%\renewcommand{correction}{correction}
+%\excludecomment{correction}
+\usepackage{array}
+
+
+\begin{document}
+  \setlength{\unitlength}{1mm}
+  \setlength\parindent{0mm}
+  
+  %\thispagestyle{empty}
+  %\exo
+  
+  \vspace{1cm}
+  ~
+  
+
+ 
+   \begin{exo}(8 points)
+   ~
+      \vspace{0.25cm}
+   
+  %Calculs de termes d'une suite géométrique et forme explicite d'une suite aithmétique
+  
+  \begin{enumerate}
+  
+  \item Démontrer que la suite $(x_n)$ défine pour tout entier $n$ par $x_n=n^3$ n'est ni
+   arithmétique ni géométrique.  
+   
+   \item Calculer la somme des 8 premiers termes de la suite géométrique de premier terme $v_0=2$ et de raison $3$.
+   
+  
+   
+   \item Démontrer que la suite$(w_n)$ définie pour tout entier $n$ par $w_n=2(-4)^n$ est géométrique
+   et donner sa raison et son premier terme. 
+   
+   \item Soit $(u_n)$ une suite arithmétique de raison 2 avec $u_1=5$.
+   
+   Calculer la somme $S$ des 30 premiers termes de la suite $(u_n)$. 
+   
+   
+  \end{enumerate}
+
+\begin{correction}
+
+Correction
+\begin{enumerate}
+
+ \item $x_1=1$, $x_2=8=x_1+7=x_1 \times 8$. 
+ $x_3=27 \neq 15=x_2+7$ et $x_3 \neq 64 = x_2 \times 8$. Ainsi, $(u_n)$ n'est ni arithm\'etique ni 
+ g\'eom\'etrique. (2 pts)
+
+ \item $v_{0}+...+v_7=v_0({3}^{0}+...+{3}^{7})=v_0 \frac{1-{3}^{8}}{1-3}=2\frac{{3}^{8}-1}{3-1}=2\frac{6560}{2}=6560$. (2 pts)
+ \item $w_{n+1}=2(-4)^{n+1}=2(-4)^n\times (-4)=w_n \times (-4)$. (1 pt)
+ La suite est bien g\'eom\'etrique de raison $-4$ 
+ et de premier terme $w_0=2$. (1 pt)
+
+  \item $2S=(u_1+u_{30})\times 30=5+(5+58)\times 30=68 \times 30=2040$ d'o\`u $S=1020$. (2 pt)
+\end{enumerate}
+
+\end{correction}
+  \end{exo}
+    
+     ~
+  \vspace{0.5cm}
+  
+ \begin{exo}(5 points)
+  ~
+      \vspace{0.25cm}
+      
+ %Variation d'une suite définie explicitement par un trinôme du second degré.
+ 
+ \begin{enumerate}
+ 
+ \item  Calculer la dérivée $f'(x)$ de la fonction
+ $f(x)=-\frac{4}{3}x^3-4 x^2 -4 x +1$  
+ \item Décomposer $f'(x)$ en un produit de facteurs de degré $1$ et étudier son signe.  
+ \item Montrer que la suite $(u_n)$ définie pour tout entier naturel par 
+ $u_n=-\frac{4}{3}n^3-4 n^2 -4 n +1$ est strictement décroissante. 
+   
+ \end{enumerate}
+
+\begin{correction}
+
+Correction
+\begin{enumerate}
+ \item $f'(x)=-4 x^2-8 x-4$ (1 pt)
+ \item $f'(x)=-4(x+1)(x+1)$, en effet, $\Delta=0, x_0= \frac{-(-8)}{-8}=-1$. (2 pts)
+ 
+ $f'(x)<0$ sur $]-\infty;-1[ \cup ]-1;+\infty[$, $f'(x)=0$ en $-1$.(1 pt)
+ \item La fonction $f$ est strictement d\'ecroissante sur l'intervalle $[0;+\infty[$ donc la suite
+ $(u_n=f(n))$ 
+ est strictement d\'ecroissante. (1 pt)
+\end{enumerate}
+
+
+  
+  
+\end{correction}
+
+  \end{exo}
+  
+   ~
+  \vspace{0.5cm}
+   
+  \begin{exo}(3 points)
+
+Soit $(u_n)$ la suite définie par récurrence par $u_0=1$ et pour tout entier $n$ par 
+$u_{n+1}=3 u_n +2$. On admet que pour tout entier naturel $n$, $u_n>0$.
+
+\begin{enumerate}
+  \item Démontrer que le suite $(u_n)$ est strictement croissante.
+  \item Trouver une forme explicite pour la suite $(u_n)$. On pourra introduire la suite auxiliaire
+  $v_n=u_n+1$.
+\end{enumerate}
+
+\begin{correction}
+
+Correction
+\begin{enumerate}
+ \item $u_{n+1}-u_n=2u_n+2>0$ pour tout entier naturel. $(u_n)$ est donc strictement croissante. (1 pt)
+ \item $v_{n+1}=u_{n+1}+1=3 u_n+2+1=3 u_n +3=3(u_n+1)=3 v_n$. La suite $(v_n)$ est g\'eom\'etrique
+  de raison 3 et de premier terme $v_0=u_0+1=2$. D'o\`u $v_n=2 \times 3^n$ et $u_n=2 \times 3^n-1$. (2 pts)
+\end{enumerate}
+
+
+\end{correction}
+
+\begin{correction}
+
+\end{correction}
+
+
+\end{exo}
+
+ ~
+  \vspace{1cm} 
+ 
+  \begin{exo}(4 points)
+~
+      \vspace{0.25cm}
+      
+      Réaliser un algorithme permettant de calculer et afficher les 50 premières puissances de 2 (de $2^1$ à $2^{50}$).
+            
+      
+\begin{correction}
+
+Correction
+
+   Pour n allant de 1 \`a 50 faire
+   
+      x prend la valeur $2^n$
+      
+      Afficher x
+      
+   fin pour
+      
+      
+      
+\end{correction}      
+      
+      
+\end{exo}  
+    
+\end{document}

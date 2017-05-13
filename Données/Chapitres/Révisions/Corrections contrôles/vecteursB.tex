@@ -1,0 +1,374 @@
+\documentclass[a4paper,11pt]{article}
+\usepackage{pdflscape}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+%\usepackage{fourier} % math & rm
+%\usepackage{amsthm,amsfonts,amsmath,amssymb,textcomp}
+\usepackage{pst-all,pstricks-add,pst-eucl}
+\everymath{\displaystyle}
+\usepackage{fp,ifthen}
+%\usepackage{color}
+%\usepackage{graphicx}
+\usepackage{setspace}
+\usepackage{array}
+\usepackage{tabularx}
+\usepackage{supertabular}
+\usepackage{hhline}
+\usepackage{variations}
+\usepackage{enumerate}
+\usepackage{pifont}
+\usepackage{framed}
+\usepackage[fleqn]{amsmath}
+\usepackage{amssymb}
+\usepackage[framed]{ntheorem}
+\usepackage{multicol}
+\usepackage{kpfonts}
+\usepackage{manfnt}
+
+%\usepackage[hmargin=2.5cm, vmargin=2.5cm]{geometry}
+\usepackage{vmargin}          % Pour fixer les marges du document
+\setmarginsrb
+{1.5cm} 	%marge gauche
+{0.5cm} 	  %marge en haut
+{1.5cm}     %marge droite
+{0.5cm}   %marge en bas
+{1cm} 	%hauteur de l'entête
+{0.5cm}   %distance entre l'entête et le texte
+{1cm} 	  %hauteur du pied de page
+{0.5cm}     %distance entre le texte et le pied de page
+
+\newcommand{\R}{\mathbb{R}}
+\newcommand{\N}{\mathbb{N}}
+%\newcommand{\D}{\mathbb{D}}
+\newcommand{\Z}{\mathbb{Z}}
+\newcommand{\Q}{\mathbb{Q}}
+\newcommand{\C}{\mathbb{C}}
+\newcommand{\e}{\text{e}}
+\newcommand{\dx}{\text{d}x}
+\newcommand{\vect}[1]{\mathchoice%
+  {\overrightarrow{\displaystyle\mathstrut#1\,\,}}%
+  {\overrightarrow{\textstyle\mathstrut#1\,\,}}%
+  {\overrightarrow{\scriptstyle\mathstrut#1\,\,}}%
+  {\overrightarrow{\scriptscriptstyle\mathstrut#1\,\,}}}
+\newcommand\arraybslash{\let\\\@arraycr}
+\renewcommand{\theenumi}{\textbf{\arabic{enumi}}}
+\renewcommand{\labelenumi}{\textbf{\theenumi.}}
+\renewcommand{\theenumii}{\textbf{\alph{enumii}}}
+\renewcommand{\labelenumii}{\textbf{\theenumii.}}
+\renewcommand{\and}{\wedge}
+
+\theoremstyle{break}
+\theorembodyfont{\upshape}
+\newframedtheorem{Theo}{Théorème}
+\newframedtheorem{Prop}{Propriété}
+\newframedtheorem{Def}{Définition}
+
+\newtheorem{Term}{Terminologie}
+\newtheorem{Rq}{Remarque}
+\newtheorem{Ex}{Exemple}
+%\newtheorem{exo}{Exercice}
+
+%\theorembodyfont{\small \sffamily}
+%\newtheorem{sol}{solution}
+
+\newenvironment{sol}% 
+{\def\FrameCommand{\hspace{0.5cm} {\color{black} \vrule width 1pt} \hspace{-0.7cm}}%
+  \framed {\advance\hsize-\width}
+  \noindent \small \sffamily  %\underline{Solution :}%\\
+}%
+{\endframed}
+
+\newrgbcolor{vert}{0 0.4 0}
+\newrgbcolor{bistre}{1 .50 .30}
+\setlength\tabcolsep{1mm}
+\renewcommand\arraystretch{1.3}
+
+\everymath{\displaystyle}
+\hyphenpenalty 10000 %supprime toutes les césures
+%\setcounter{secnumdepth}{0}
+%\newcounter{saveenum}
+
+\usepackage[frenchb]{babel}
+\usepackage{fancyhdr,lastpage}
+\usepackage{fancybox}
+
+%\headheight 15.0 pt
+\fancyhead[L]{Avec de la colinéarité}
+\fancyhead[C]{Contrôle sujet B}
+\fancyhead[R]{Jeudi 17 novembre 2016}
+%\fancyfoot[L]{{\scriptsize\textsl{Cité scolaire de Lorgues}}}
+\fancyfoot[C]{}
+%\fancyfoot[C]{\scriptsize\thepage}
+%\fancyfoot[C]{\scriptsize\thepage/\pageref{LastPage}}
+
+\title{}
+\author{}
+\date{}
+
+%\pagestyle{empty}
+\pagestyle{fancy}
+\usepackage[np]{numprint}
+
+\renewcommand\arraystretch{1.8}
+
+\newcounter{numero}
+\newcommand{\exo}{
+  \addtocounter{numero}{1}%
+  \textbf{\underline{Exercice \arabic{numero}:}}\quad}
+
+\frenchbsetup{StandardEnumerateEnv=true}
+\usepackage{etex}
+\usepackage{pgf,tikz,tkz-tab}
+\usepackage{comment}
+\includecomment{correction}
+%\renewcommand{correction}{correction}
+%\excludecomment{correction}
+\usepackage{array}
+
+
+\begin{document}
+  \setlength{\unitlength}{1mm}
+  \setlength\parindent{0mm}
+  
+  %\thispagestyle{empty}
+  %\exo
+  
+  \vspace{1cm}
+  ~
+  
+     \begin{exo}(11 points)
+   Soit $(O;\vec{i},\vec{j})$ un repère du plan.
+   \begin{enumerate}
+   
+     \item Déterminer si le point $F(2;-1)$ appartient à la droite 
+  $d_1= \frac{x}{9}+\frac{y}{5}=0$. 
+  
+\begin{correction}
+ $\frac{2}{9}+\frac{-1}{5}=\frac{10}{45}-\frac{9}{45} = \frac{1}{45} \neq 0$ et $F \notin d_1$. (1 pt)
+\end{correction}
+   
+       \item Dans chacun des cas, donner un vecteur directeur:
+    
+    \begin{itemize}
+    \item $u_2$ de la droite $d_2:7x-4y+2=0$.
+    \item $u_3$ de la droite $d_3:y=5x-6$.
+    \item $u_4$ de la droite $d_4:x-3=0$.
+     
+    \end{itemize}
+
+    
+\begin{correction}
+ $\vec{u_2}(4;7)$ est un vecteur directeur directeur de $d_2$. (1 pt)
+ 
+ $\vec{u}_3(1;5)$ est un vecteur directeur de $d_3$. (1pt) 
+ 
+ $\vec{u}_4(0;1)$ est un vecteur directeur de $d_4$. (1pt)
+\end{correction}
+
+    \item Trouver une équation cartésienne pour la droite $d_5$ qui passe par le point $C(3;8)$ 
+    et qui a pour vecteur directeur $\vec{u}(2;3)$. 
+
+\begin{correction}
+    
+   $d_5$ poss\`ede une \'equation de la forme $d_1:3x-2y+c=0$.
+   
+   $C \in d_1 \Leftrightarrow 3 \times 3-2 \times 8+c=0 \Leftrightarrow c=7$
+   
+   $d_5$ admet comme \'equation cart\'esienne $d_5:3x-2y+7=0$. (1 pt)
+
+\end{correction}    
+    
+    \item Donner l'équation réduite de la droite $d_5$.
+
+\begin{correction}
+    
+ $3x-2y+7=0 \Leftrightarrow 3x+7=2y \Leftrightarrow y=\frac{3}{2}x+\frac{7}{2}$
+   $d_5$ admet comme \'equation r\'eduite $d_5:y=\frac{3}{2}x+\frac{7}{2}$ (1 pt)
+
+\end{correction}
+   
+    \item Trouver l'équation réduite de la droite $d_6$ dirigée par le vecteur $\vec{v}(0;5)$ 
+    passant par le point $D(-2;4)$.
+    
+\begin{correction}
+ $d_6$ est parall\`ele \`a l'axe des ordonn\'ees, son \'equation r\'eduite est de la forme $d_6:x=k$ et comme $D(-2;4) \in d_6$,
+ $d_6:x=-2$. (1 pt)
+\end{correction}
+   
+\item Trouver une équation cartésienne pour la droite $(AB)$ avec $A(4;7)$ et $B(2;4)$.
+
+\begin{correction}
+ $\vec{AB}(2-4;4-7)=(-2;-3)$ est un vecteur directeur de $(AB)$, $\vec{u}(2;3)$ aussi. La droite $(AB)$ poss\`ede une \'equation
+ de la forme $3x-2y+c=0$. Or $A(4;7)$ appartient \`a $(AB)$ d'o\`u $3 \times 4-2 \times 7+c=0$ et $c=2$. 
+ 
+ En d\'efinitive, $(AB):3x-2y+2=0$. (1pt)
+\end{correction}
+    
+\item Donner l'ordonnée à l'origine de la droite $d_7:5x+6y-24=0$.
+    
+\begin{correction}
+  Le point de coordonn\'ees $(0;4)$ est sur $d_8$ car $5 \times 0 +6 \times 4-24=0$ et $4$ est donc l'ordonn\'ee \`a 
+  l'origine de $d_8$. (1 pt)
+\end{correction}
+
+    \item Trouver toutes les valeurs de $m$ pour lesquelles $d_8:mx+4y+3=0$ est parall\`ele 
+    à la droite $d_9:3x-5y+1=0$
+
+\begin{correction}
+ $d_8$ est parall\`ele \`a $d_9$ 
+ 
+ $\Leftrightarrow$
+ 
+ les vecteurs directeurs $\vec{u}(-4;m)$ et $\vec{v}(5;3)$ sont colin\'eaires. (1 pt)
+ 
+ $\Leftrightarrow$
+ 
+ $-4 \times 3-5 \times m=-12-5m=0$ soit $m=-\frac{12}{5}$. $-\frac{12}{5}$ est la seule valeur de $m$ pour laquelle 
+ les droites $d_8$ et $d_9$ sont parall\`eles. (1 pt)
+\end{correction}
+
+\end{enumerate}
+  \end{exo}
+    
+     ~
+  \vspace{0.5cm}
+  
+  \begin{exo}(1 point)
+   
+  
+  Résoudre l'inéquation $\frac{3}{2x+1} < 4x+1$.
+  
+\begin{correction}
+
+ $\frac{3}{2x+1} < 4x+1$
+ 
+ $\Leftrightarrow$
+ 
+ $\frac{3}{2x+1} - (4x+1) <0$
+ 
+ $\Leftrightarrow$
+ 
+ $\frac{3-(4x+1)(2x+1)}{2x+1}<0$
+ 
+ $\Leftrightarrow$
+ 
+ $\frac{-8x^2-6x+2}{2x+1}<0$ (0.5 pt)
+ 
+ $\Delta=36+64=10^2$, $x_1=\frac{-(-6)-10}{2\times (-8)}=\frac{1}{4}$ et $x_2=\frac{-(-6)+10}{2\times (-6)}=-1$. 
+ 
+ On pose $f(x)=-8x^2-6x+2$ et $g(x)=\frac{-8x^2-6x+2}{2x+1}$
+ 
+ \begin{tikzpicture}
+\tkzTabInit{$x$/1,$f(x)$/1,$2x+1$/1,$g(x)$/1}{$-\infty$,$-1$,$-\frac{1}{2}$,$\frac{1}{4}$,$+\infty$}
+\tkzTabLine{,-,z,,+,,z,-}
+\tkzTabLine{,,-,,z,,+,}
+\tkzTabLine{,+,z,-,d,+,z,-}
+\end{tikzpicture}
+
+ 
+ d'o\`u $S=\left ]-1;-\frac{1}{2}\right [ \cup \left ]\frac{1}{4};+\infty \right [$ (0.5 pt)
+\end{correction}
+\end{exo}
+
+ ~
+  \vspace{0.5cm}
+  
+  
+  \begin{exo}(8 points)
+  ~
+      \vspace{0.25cm}
+      
+      Soit $ABCD$ un parallélogramme non aplati et soient $M$ et $N$ les points tels que :
+\begin{center} $\overrightarrow{AM}=\dfrac{4}{5}\overrightarrow{AB}$, \hspace{0.2cm} et $\overrightarrow{CN}=\dfrac{5}{4}\overrightarrow{CB}$ \end{center}
+\begin{enumerate}
+\item Pourquoi les vecteurs $\vec{AB}$ et $\vec{AD}$ permettent de réaliser un repère $(A;\vec{AB},\vec{AD})$ ?
+
+\begin{correction}
+  $ABCD$ \'etant un parall\'elogramme non aplati, les vecteurs $\vec{AB}$ et $\vec{AD}$ ne sont pas colin\'eaires et peuvent ainsi former un rep\`ere $(A;\vec{AB},\vec{AD})$.
+  (1pt)
+\end{correction}
+
+
+\item Calculer les coordonnées des points $D$, $M$, $C$ et $N$ dans le repère $(A,\vec{AB},\vec{AD})$.
+
+\begin{correction}
+  Comme $\vec{AD}=0 \times \vec{AB}+ 1 \times \vec{AD}$, $D(0;1)$. (1pt)
+  
+  Comme $\vec{AM}=\dfrac{4}{5}\vec{AB}$, $M(\dfrac{4}{5};0)$. (1pt)
+  
+  Comme $ABCD$ est un parall\'elogramme $\vec{AC}=1 \times \vec{AB}+1 \vec{AD}$ et $C(1;1)$. (1pt)
+  
+  Or $\vec{CN}(x_N-1,y_N-1)=\dfrac{5}{4}\vec{CB}(\dfrac{5}{4}(1-1);\dfrac{5}{4}(0-1))=(0;-\dfrac{5}{4})$ d'o\`u $N(1;-\dfrac{1}{4})$. (1pt)
+\end{correction}
+
+\item Montrer que les points $D$, $M$ et $N$ sont alignés.
+
+\begin{correction}
+$\vec{DM}(\frac{4}{5}-0;0-1)=(\frac{4}{5};-1)$ et $\vec{DN}(1-0;-\frac{1}{4}-1)=(1;-\frac{5}{4})$
+
+$\vec{DN}=\frac{5}{4}\vec{DM}$ donc $\vec{DN}$ est colin\'eaire \`a $\vec{DM}$ et les points $D,N,M$ sont align\'es. (1pt)
+\end{correction}
+
+\item On considère un nombre réel $a$ non nul, et $P$ et $Q$ définis par
+      \begin{center} $\overrightarrow{AP}=a\overrightarrow{AB}$, \hspace{0.2cm} et $\overrightarrow{CQ}=\dfrac{1}{a}\overrightarrow{CB}$ \end{center}
+      Les points $D$, $P$ et $Q$ sont-ils toujours alignés ?
+      
+\begin{correction}
+
+$P(a;0)$ et $\vec{CQ}(x_Q-1,y_Q-1)=\dfrac{1}{a}\vec{CB}=(\dfrac{1}{a}(1-1);\dfrac{1}{a}(0-1)=(0;-\dfrac{1}{a})$ d'o\`u 
+$Q(1;1-\dfrac{1}{a})$; (1pt)
+
+$\vec{DP}(a-0;0-1)=(a;-1)$ et $\vec{DQ}(1-0;1-\dfrac{1}{a}-1)=(1;-\dfrac{1}{a})$.
+
+Ainsi $\vec{DP}$ et $\vec{DQ}$ sont colin\'eaires. Les points $D,P,Q$ sont toujours align\'es. (1pt)
+\end{correction}
+
+\end{enumerate}
+
+% \item   
+% Mais alors $\vec{CN}$
+% \item Montrer que les points $D$, $M$ et $N$ sont alignés.
+% \item On considère un nombre réel $a$ non nul, et $P$ et $Q$ définis par
+%       \begin{center} $\overrightarrow{AP}=a\overrightarrow{AB}$, \hspace{0.2cm} et $\overrightarrow{CQ}=\dfrac{1}{a}\overrightarrow{CB}$ \end{center}
+%       Les points $D$, $P$ et $Q$ sont-ils toujours alignés ?
+% 
+% \end{correction}
+
+  \end{exo}
+  
+  
+
+
+    
+\end{document}
+ 
+
+
+\begin{exo}(2 points)
+   \begin{enumerate}
+  \item Montrer que les droites $d_9:-3 x - y +6=0$ et $d_{10}:x-2 y +5=0$ sont sécantes et calculer 
+  les coordonnées de leur point d'intersection.
+
+\begin{correction}
+ Les vecteurs $\vec{u}(1;-3)$ et $\vec{v}(2;1)$ dirigent $d_9$ et $d_{10}$ et ne sont pas colin\'eaires
+ ($(1)(1)-(-3)(2) \neq 0$). (1 pt)
+ 
+  Un point $M(x;y)$ est sur $d_9$ et $d_{10}$
+  
+  $\Leftrightarrow$
+  
+  $y=-3x+6$ et $x-2(-3x+6)+5=0$ 
+  
+  $\Leftrightarrow$  
+  
+  $x=1$ et $y=3$
+  
+  Le point d'intersection de $d_9$ et $d_{10}$ est le point $P(1;3)$. (1 pt)
+\end{correction}
+  
+   \end{enumerate}
+
+ 
+\end{exo}
+
+$\sqrt{2}x^2-(2+\sqrt{2})x+2=0$.

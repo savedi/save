@@ -1,0 +1,355 @@
+\documentclass[a4paper,11pt]{article}
+\usepackage{pdflscape}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+%\usepackage{fourier} % math & rm
+%\usepackage{amsthm,amsfonts,amsmath,amssymb,textcomp}
+\usepackage{pst-all,pstricks-add,pst-eucl}
+\everymath{\displaystyle}
+\usepackage{fp,ifthen}
+%\usepackage{color}
+%\usepackage{graphicx}
+\usepackage{setspace}
+\usepackage{array}
+\usepackage{tabularx}
+\usepackage{supertabular}
+\usepackage{hhline}
+\usepackage{variations}
+\usepackage{enumerate}
+\usepackage{pifont}
+\usepackage{framed}
+\usepackage[fleqn]{amsmath}
+\usepackage{amssymb}
+\usepackage[framed]{ntheorem}
+\usepackage{multicol}
+\usepackage{kpfonts}
+\usepackage{manfnt}
+
+%\usepackage[hmargin=2.5cm, vmargin=2.5cm]{geometry}
+\usepackage{vmargin}          % Pour fixer les marges du document
+\setmarginsrb
+{1.5cm} 	%marge gauche
+{0.5cm} 	  %marge en haut
+{1.5cm}     %marge droite
+{0.5cm}   %marge en bas
+{1cm} 	%hauteur de l'entête
+{0.5cm}   %distance entre l'entête et le texte
+{1cm} 	  %hauteur du pied de page
+{0.5cm}     %distance entre le texte et le pied de page
+
+\newcommand{\R}{\mathbb{R}}
+\newcommand{\N}{\mathbb{N}}
+%\newcommand{\D}{\mathbb{D}}
+\newcommand{\Z}{\mathbb{Z}}
+\newcommand{\Q}{\mathbb{Q}}
+\newcommand{\C}{\mathbb{C}}
+\newcommand{\e}{\text{e}}
+\newcommand{\dx}{\text{d}x}
+\newcommand{\vect}[1]{\mathchoice%
+  {\overrightarrow{\displaystyle\mathstrut#1\,\,}}%
+  {\overrightarrow{\textstyle\mathstrut#1\,\,}}%
+  {\overrightarrow{\scriptstyle\mathstrut#1\,\,}}%
+  {\overrightarrow{\scriptscriptstyle\mathstrut#1\,\,}}}
+\newcommand\arraybslash{\let\\\@arraycr}
+\renewcommand{\theenumi}{\textbf{\arabic{enumi}}}
+\renewcommand{\labelenumi}{\textbf{\theenumi.}}
+\renewcommand{\theenumii}{\textbf{\alph{enumii}}}
+\renewcommand{\labelenumii}{\textbf{\theenumii.}}
+\renewcommand{\and}{\wedge}
+
+\theoremstyle{break}
+\theorembodyfont{\upshape}
+\newframedtheorem{Theo}{Théorème}
+\newframedtheorem{Prop}{Propriété}
+\newframedtheorem{Def}{Définition}
+
+\newtheorem{Term}{Terminologie}
+\newtheorem{Rq}{Remarque}
+\newtheorem{Ex}{Exemple}
+%\newtheorem{exo}{Exercice}
+
+%\theorembodyfont{\small \sffamily}
+%\newtheorem{sol}{solution}
+
+\newenvironment{sol}% 
+{\def\FrameCommand{\hspace{0.5cm} {\color{black} \vrule width 1pt} \hspace{-0.7cm}}%
+  \framed {\advance\hsize-\width}
+  \noindent \small \sffamily  %\underline{Solution :}%\\
+}%
+{\endframed}
+
+\newrgbcolor{vert}{0 0.4 0}
+\newrgbcolor{bistre}{1 .50 .30}
+\setlength\tabcolsep{1mm}
+\renewcommand\arraystretch{1.3}
+
+\everymath{\displaystyle}
+\hyphenpenalty 10000 %supprime toutes les césures
+%\setcounter{secnumdepth}{0}
+%\newcounter{saveenum}
+
+\usepackage[frenchb]{babel}
+\usepackage{fancyhdr,lastpage}
+\usepackage{fancybox}
+
+%\headheight 15.0 pt
+\fancyhead[L]{Avec des statistiques et des probabilités}
+\fancyhead[C]{Contrôle sujet A}
+\fancyhead[R]{Jeudi 30 mars 2017}
+%\fancyfoot[L]{{\scriptsize\textsl{Cité scolaire de Lorgues}}}
+\fancyfoot[C]{}
+%\fancyfoot[C]{\scriptsize\thepage}
+%\fancyfoot[C]{\scriptsize\thepage/\pageref{LastPage}}
+
+\title{}
+\author{}
+\date{}
+
+%\pagestyle{empty}
+\pagestyle{fancy}
+\usepackage[np]{numprint}
+
+\renewcommand\arraystretch{1.8}
+
+\newcounter{numero}
+\newcommand{\exo}{
+  \addtocounter{numero}{1}%
+  \textbf{\underline{Exercice \arabic{numero}:}}\quad}
+
+\frenchbsetup{StandardEnumerateEnv=true}
+\usepackage{etex}
+\usepackage{pgf,tikz,tkz-tab}
+\usepackage{comment}
+\includecomment{correction}
+%\renewcommand{correction}{correction}
+%\excludecomment{correction}
+\usepackage{array}
+
+
+\begin{document}
+  \setlength{\unitlength}{1mm}
+  \setlength\parindent{0mm}
+  
+  %\thispagestyle{empty}
+  %\exo
+  
+ 
+  \begin{exo}(6 points)
+  ~
+      \vspace{0.25cm}
+      
+ 
+ 
+ Un sac contient 150 jetons dont 90 sont gris et les autres sont marron.\\
+ On tire au hasard, successivement et avec remise 10 jetons de ce sac.
+ 
+  \begin{enumerate}
+  \item Identifier et justifier la loi que suit la variable aléatoire comptant le nombre de jetons 
+  gris obtenus.
+  \item Calculer la probabilité  d'obtenir au moins deux jetons gris (à $10^{-4}$ près).
+  \item Si on répète un grand nombre de fois cette expérience, combien de jetons gris obtient-on en moyenne ?
+ \end{enumerate}
+
+\begin{correction}
+
+Correction
+\begin{enumerate}
+ \item Comme on r\'ep\`ete 10 fois de mani\`ere ind\'ependante la m\^eme \'epreuve de Bernoulli 
+ (succ\`es:<<obtenir un jeton gris>>) de param\`etre $p=\frac{90}{150}=\frac{6}{10}$, on a un 
+ sch\'ema de Bernoulli d'ordre $n=10$.\\
+ La variable al\'eatoire $X$ comptant le nombre de jetons gris obtenus suit la loi binomiale $B(10;0.6)$.
+ \item On cherche $P(X \geq 2)$.\\
+ $P(X \geq 2)=1-P(X=0)-P(X=1)=
+ 1-C_{10}^0 \times (0.6)^0 \times (0.4)^{10}-C_{10}^1 \times (0.6)^1 \times (0.4)^9 \simeq 0.9983$.
+ \item $E(X)=10\times 0.6=6$. Si on r\'eit\`ere un grand nombre de fois cette exp\'erience, on obtient 
+ 6 jetons gris en moyenne.
+\end{enumerate}
+  
+\end{correction}
+
+  \end{exo}
+         ~
+  
+   \begin{exo}(5 points)
+   
+      \begin{tabular}{c|c c}
+  \begin{minipage}[b]{0.47\textwidth}
+  
+  Algorithme 1 \\
+
+   $N$ prend la valeur 0\\
+   
+   $R$ prend la valeur ...\\
+   
+   Tant que $R \leq $...\\
+   
+   $N$ prend la valeur ...\\
+   
+   $R$ prend la valeur ...\\ 
+   
+   Fin Tant que \\
+   
+   Afficher $R$
+
+  \end{minipage}
+  &
+&
+  \begin{minipage}[b]{0.47\textwidth}
+   
+   Algorithme 2\\
+ 
+ $S$ prend la valeur 0\\
+ 
+ Pour $I$ allant de 1 à 8\\
+ 
+ $S$ prend la valeur $S+I^2$ $(*)$\\
+ 
+ Fin Pour\\
+ 
+ Afficher $S$\\
+ 
+\vspace{1.5cm}
+
+
+  \end{minipage}
+
+  \end{tabular}
+  
+  \begin{enumerate}
+   \item L'algorithme incomplet 1 permet de calculer puis afficher
+   la plus petite puissance de 2 dépassant 10000.
+   Recopier-le sur votre feuille en le complétant.
+   
+      \item Donner les valeurs successives des variables $I$ et $S$ à la fin de 
+   l'exécution de l'instruction $(*)$ lors des quatre premières itérations de la boucle de 
+   l'algorithme 2.
+ 
+ \item Que permet de calculer puis afficher l'algorithme 2 ?
+ 
+  \end{enumerate}
+
+\begin{correction}
+
+Correction
+\begin{enumerate}
+ \item 
+ 
+ $N$ prend la valeur 0\\
+   
+   $R$ prend la valeur 1 (0.5 pt)\\
+   
+   Tant que $R \leq 10000$ (0.5 pt)\\
+   
+   $N$ prend la valeur $N+1$ (0.5 pt)\\
+   
+   $R$ prend la valeur $2 \times R$ (0.5 pt)\\ 
+   
+   Fin Tant que \\
+   
+   Afficher $R$
+ 
+ 
+ \item $I=1,S=1$ $I=2$ $S=1+4=5$; $I=3$ $S=5+9=14$; $I=4$ $S=14+16=30$. (2 pts)
+  
+ \item L'algorithme permet de calculer la somme des carr\'es des 8 premiers entiers. (1 pt)
+ 
+\end{enumerate}
+
+\end{correction}
+
+  \end{exo}
+ ~
+    
+\begin{exo}(4 points)
+      
+ Soit $f(x)=x^2+x-1$     
+\begin{enumerate}
+ \item Calculer le discriminant et les racines du trinôme $f(x)$.
+ \item Réaliser le tabeau de signe de $f(x)$.
+ \item Résoudre l'inéquation $x^2+2 x+1<2+x$ (vous pouvez utiliser l'étude précédente).
+\end{enumerate}
+
+
+
+\begin{correction}
+Correction
+\begin{enumerate}
+ \item $\Delta=1+4=5$ (0.5 pt), $x_1=\frac{-1-\sqrt{5}}{2}$, $x_2=\frac{-1+\sqrt{5}}{2}$ (1 pt).
+ \item $f(x)$ est n\'egatif sur l'intervalle $[x_1;x_2]$ positif en dehors (1 pt).
+ \item $x^2+2 x+1<2+x \Leftrightarrow x^2+x-1 <0$ (0.5 pt) , $S=]x_1;x_2[$ (1 pt).
+
+\end{enumerate}
+
+\end{correction}
+
+\end{exo}
+~
+   
+\begin{exo}(5 points)
+      
+Lors d'une saison footballistique comprenant 38 matchs, deux équipes
+ont encaissé des buts selon les répartitions suivantes:
+
+\begin{center}
+
+\begin{tabular}{l l}
+ 
+ Equipe A: 
+
+\begin{tabular}{|l|c|c|c|c|c|}
+  \hline
+  Nombres de buts  & 0  & 1 &3 & 4 & 5 \\
+  \hline
+  Nombre de matchs & 23 & 7 &5 & 1 &2 \\
+  
+  \hline
+\end{tabular}
+
+ &
+
+ Equipe B:
+
+\begin{tabular}{|l|c|c|c|c|}
+  \hline
+  Nombres de buts  & 0  & 1 &3 & 6 \\
+  \hline
+  Nombre de matchs & 19 & 12 &6 & 1  \\
+  
+  \hline
+\end{tabular}
+
+ \end{tabular}
+
+\end{center} 
+\vspace{0.5cm}
+Soit $(a_i,n_i)_{1 \leq i \leq 5}$ (resp $(b_j,m_j)_{1 \leq i \leq 4}$) la s\'erie statistique
+associ\'ee \'a l'\'equipe $1$ (resp. 2).
+\begin{enumerate}
+ \item Ecrire une formule littérale pour calculer le nombre moyen de buts
+  encaissés par match pour chacune de ces deux équipes (Bonus utiliser un symbole de somme).
+  \item Donner une valeur exacte (à l'aide d'une fraction) pour ces deux moyennes.
+  \item Ecrire une formule littérale pour calculer l'écart-type de la série
+  des nombres de buts encaissés par match pour chacune des deux équipes 
+  (Bonus utiliser un symbole de somme).
+  \item Donner une valeur approchées au dixième de but près pour ces deux écart-types.
+  \item Au vu de ces résultats, quelle équipe possède des performances défensives les plus 
+  irrégulières ?
+\end{enumerate}
+
+\begin{correction}
+
+Correction 
+
+\begin{enumerate}
+ \item  $\overline{a}=\sum_{i=1}^5 \frac{n_i a_i}{38}=\frac{36}{38}=\frac{18}{19}$. (1 pt)
+ et $\overline{b}=\sum_{i=1}^4 \frac{m_i b_i}{38}=\frac{36}{38}=\frac{18}{19}$. (1 pt)
+ \item $\sigma_{a}=\sqrt{\sum_{i=1}^5 \frac{n_i (a_i-\overline{a})^2}{38}} \simeq 1.5$ (1 pt)
+ et $\sigma_{b}=\sqrt{\sum_{i=1}^4 \frac{m_i (b_i-\overline{b})^2}{38}}\simeq 1.3$. (1 pt)
+  \item L'\'equipe B poss\`ede les performances d\'efensives les plus r\' eguli\`eres sur cette saison.
+\end{enumerate}
+
+\end{correction}
+
+\end{exo}
+    
+\end{document}

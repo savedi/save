@@ -1,0 +1,535 @@
+\documentclass[a4paper,11pt]{article}
+\usepackage{pdflscape}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+%\usepackage{fourier} % math & rm
+%\usepackage{amsthm,amsfonts,amsmath,amssymb,textcomp}
+\usepackage{pst-all,pstricks-add,pst-eucl}
+\everymath{\displaystyle}
+\usepackage{fp,ifthen}
+%\usepackage{color}
+%\usepackage{graphicx}
+\usepackage{setspace}
+\usepackage{array}
+\usepackage{tabularx}
+\usepackage{supertabular}
+\usepackage{hhline}
+\usepackage{variations}
+\usepackage{enumerate}
+\usepackage{pifont}
+\usepackage{framed}
+\usepackage[fleqn]{amsmath}
+\usepackage{amssymb}
+\usepackage[framed]{ntheorem}
+\usepackage{multicol}
+\usepackage{kpfonts}
+\usepackage{manfnt}
+
+%\usepackage[hmargin=2.5cm, vmargin=2.5cm]{geometry}
+\usepackage{vmargin}          % Pour fixer les marges du document
+\setmarginsrb
+{1.5cm} 	%marge gauche
+{0.5cm} 	  %marge en haut
+{1.5cm}     %marge droite
+{0.5cm}   %marge en bas
+{1cm} 	%hauteur de l'entête
+{0.5cm}   %distance entre l'entête et le texte
+{1cm} 	  %hauteur du pied de page
+{0.5cm}     %distance entre le texte et le pied de page
+
+\newcommand{\R}{\mathbb{R}}
+\newcommand{\N}{\mathbb{N}}
+%\newcommand{\D}{\mathbb{D}}
+\newcommand{\Z}{\mathbb{Z}}
+\newcommand{\Q}{\mathbb{Q}}
+\newcommand{\C}{\mathbb{C}}
+\newcommand{\e}{\text{e}}
+\newcommand{\dx}{\text{d}x}
+\newcommand{\vect}[1]{\mathchoice%
+  {\overrightarrow{\displaystyle\mathstrut#1\,\,}}%
+  {\overrightarrow{\textstyle\mathstrut#1\,\,}}%
+  {\overrightarrow{\scriptstyle\mathstrut#1\,\,}}%
+  {\overrightarrow{\scriptscriptstyle\mathstrut#1\,\,}}}
+\newcommand\arraybslash{\let\\\@arraycr}
+\renewcommand{\theenumi}{\textbf{\arabic{enumi}}}
+\renewcommand{\labelenumi}{\textbf{\theenumi.}}
+\renewcommand{\theenumii}{\textbf{\alph{enumii}}}
+\renewcommand{\labelenumii}{\textbf{\theenumii.}}
+\renewcommand{\and}{\wedge}
+
+\theoremstyle{break}
+\theorembodyfont{\upshape}
+\newframedtheorem{Theo}{Théorème}
+\newframedtheorem{Prop}{Propriété}
+\newframedtheorem{Def}{Définition}
+
+\newtheorem{Term}{Terminologie}
+\newtheorem{Rq}{Remarque}
+\newtheorem{Ex}{Exemple}
+%\newtheorem{exo}{Exercice}
+
+%\theorembodyfont{\small \sffamily}
+%\newtheorem{sol}{solution}
+
+\newenvironment{sol}% 
+{\def\FrameCommand{\hspace{0.5cm} {\color{black} \vrule width 1pt} \hspace{-0.7cm}}%
+  \framed {\advance\hsize-\width}
+  \noindent \small \sffamily  %\underline{Solution :}%\\
+}%
+{\endframed}
+
+\newrgbcolor{vert}{0 0.4 0}
+\newrgbcolor{bistre}{1 .50 .30}
+\setlength\tabcolsep{1mm}
+\renewcommand\arraystretch{1.3}
+
+\everymath{\displaystyle}
+\hyphenpenalty 10000 %supprime toutes les césures
+%\setcounter{secnumdepth}{0}
+%\newcounter{saveenum}
+
+\usepackage[frenchb]{babel}
+\usepackage{fancyhdr,lastpage}
+\usepackage{fancybox}
+
+%\headheight 15.0 pt
+\fancyhead[L]{Second degré}
+\fancyhead[C]{Contrôle sujet A}
+\fancyhead[R]{Mardi 27 septembre 2016}
+%\fancyfoot[L]{{\scriptsize\textsl{Thomas Gire Cité scolaire de Lorgues}}}
+\fancyfoot[C]{}
+%\fancyfoot[C]{\scriptsize\thepage}
+%\fancyfoot[C]{\scriptsize\thepage/\pageref{LastPage}}
+
+\title{}
+\author{}
+\date{}
+
+%\pagestyle{empty}
+\pagestyle{fancy}
+\usepackage[np]{numprint}
+
+\renewcommand\arraystretch{1.8}
+
+\newcounter{numero}
+\newcommand{\exo}{
+  \addtocounter{numero}{1}%
+  \textbf{\underline{Exercice \arabic{numero}:}}\quad}
+
+\frenchbsetup{StandardEnumerateEnv=true}
+\usepackage{etex}
+\usepackage{pgf,tikz,tkz-tab}
+\usepackage{comment}
+\includecomment{correction}
+%\renewcommand{correction}{correction}
+%\excludecomment{correction}
+\usepackage{array}
+
+
+\begin{document}
+  \setlength{\unitlength}{1mm}
+  \setlength\parindent{0mm}
+  
+  %\thispagestyle{empty}
+  %\exo
+  
+  \vspace{1.5cm}
+  ~
+  
+  \begin{exo}(6 points)
+   \begin{enumerate}
+    \item Développer et réduire l'expression $(2x+2)(x+1)+(x-3)^2-4x-35$
+    
+\begin{correction}
+    
+   $=2x^2+2 x+2 x+2+x^2-6x+9-4x-35=3x^2-6x-24$ (1 pt)
+
+\end{correction}
+
+    
+    \item Calculer le discriminant du trinôme $g(x)=3x^2-6x-24$.
+    
+\begin{correction}
+ 
+ $\Delta=b^2-4ac=(-6)^2-4(3)(-24)=36+36 \times 8=36*9=18^2$ (1 pt)
+ 
+ 
+\end{correction}
+    
+    
+    \item Combien le trinôme $g(x)$ admet-il de racines ? Calculer toutes ses racines.
+
+\begin{correction}
+ 
+ Comme $\Delta>0$, $g(x)$ admet deux racines. (1 pt)
+    
+    $x_1=\frac{-b-\sqrt{\Delta}}{2a}=\frac{-(-6)-18}{2 \times 3}=\frac{-12}{6}=-2$ (1 pt)
+    et 
+    $x_2=\frac{-(-6)+18}{2 \times 3}=4$ (1 pt)
+ 
+\end{correction}
+
+    \item Donner si possible la forme factorisée de $g(x)$.
+    
+\begin{correction}
+ 
+$g(x)=3(x-4)(x+2)$ (1 pt)
+
+
+ 
+\end{correction}
+
+
+\end{enumerate}
+\end{exo}
+  
+ 
+  \vspace{0.5cm}
+  ~
+  
+  \begin{exo}(4.5 points)
+  
+   Résoudre dans $\mathbb{R}$ :
+   \begin{enumerate}
+   
+       \item $\frac{9}{2}x^2-5 x+\frac{2}{3}=0$
+    
+\begin{correction}
+ 
+ Les solutions de cette \'equation sont les racines du trin\^ome $\frac{9}{2}x^2-5 x+\frac{2}{3}$
+ dont le discriminant est $\Delta=b^2-4ac=(-5)^2-4\times \frac{9}{2} \times \frac{2}{3}=25-12=13$
+ %$3/2(x^2-8/3 x+1)$, $\Delta=64/9-36/9=7$
+    
+    $x_1=\frac{-b-\sqrt{\Delta}}{2a}=\frac{5-\sqrt{13}}{2(\frac{9}{2})}=\frac{5-\sqrt{13}}{9}$
+    
+    $x_2=\frac{5+\sqrt{13}}{9}$
+    
+    d'o\`u $S=\left \{\frac{5-\sqrt{13}}{9};\frac{5+\sqrt{13}}{9}\right \}$ (1 pt)
+ 
+\end{correction}
+   
+    %\item $(-2x+3)(x+2)=0$
+    \item $(x+1)(x+3)=(4x+4)x$
+    
+\begin{correction}
+
+$\begin{aligned}[t]
+           & (x+1)(x+3)=(4x+4)x \\
+      \iff \\
+           & (x+1)(x+3)-4(x+1)x=0\\
+      \iff \\
+           & (x+1)(x+3-4x)=0\\
+      \iff  \\
+           &(x+1)(1-x)=0\\
+      \iff  \\
+          &x+1=0 \textrm{ ou } 1-x=0\\    
+      \iff  \\
+          &x=-1 \textrm{ ou } x=1\\      
+\end{aligned}$
+    
+donc $S=\{-1;1\}$ (1 pt)
+ 
+\end{correction}  
+    
+ 
+    \item $13 x^2-7 x+9>7$
+
+\begin{correction}
+
+$\begin{aligned}[t]
+           & 13 x^2-7 x+9>7 \\
+      \iff \\
+           & 13 x^2-7 x+2>0\\
+ \end{aligned}$          
+ 
+ $13 x^2-7 x+2=0$ , $\Delta=b^2-4ac=49-4(13)(2)<0$, Il n'y a pas de racine.
+ Ce trin\^ome est toujours strictement positif (a=13>0)
+    
+ et   $S=\mathbb{R}$ (1 pt)
+    
+ 
+\end{correction}   
+
+  \item $\frac{5-3 x}{x-3}>x$.
+
+\begin{correction}
+
+$\begin{aligned}[t]
+           & \frac{5-3x}{x-3}>x\\
+      \iff \\
+           & \frac{5-3x}{x-3}-x>0\\
+      \iff \\
+           & \frac{5-3x-x(x-3)}{x-3}>0\\
+      \iff \\
+           &\frac{-x^2+5}{x-3}>0 \textrm{ (0.5 pt pour la r\'eduction) }\\     
+      \iff \\
+           &\frac{-(x-\sqrt{5})(x+\sqrt{5})}{x-3}>0 \textrm{ (0.5 pt pour le calcul des racines) }\\    
+\end{aligned}$
+ 
+ Soit $f(x)=\frac{-(x-\sqrt{5})(x+\sqrt{5})}{x-3}$
+%$\Delta=5$, $x_1=\frac{1-\sqrt{5}}{2}$, $x_2=\frac{1+\sqrt{5}}{2}$
+
+\begin{tikzpicture}
+\tkzTabInit{$x$/1,$x-3$/1,$x+\sqrt{5}$/1,$-(x-\sqrt{5})$/1,$f(x)$/1}{$-\infty$,$-\sqrt{5}$,$\sqrt{5}$,$3$,$+\infty$}
+\tkzTabLine{,,,-,,,z,+}
+\tkzTabLine{,-,z,,,+,,}
+\tkzTabLine{,,+,,z,,-,}
+\tkzTabLine{,+,z,-,z,+,d,-}
+\end{tikzpicture}
+ (1 pt) 
+ 
+ d'o\`u $S=\left ]-\infty;-\sqrt{5}\right [ \cup \left ]\sqrt{5};3 \right [$ (0.5 pt)
+\end{correction}   
+   
+    
+    
+    
+    \end{enumerate}
+  \end{exo}
+
+  
+  \vspace{0.5cm}
+  ~
+  
+  \begin{exo}(4 points)
+  
+  \vspace{0.15cm}
+    Soient $f_1(x)=(x+3)^2-2$ et $f_2(x)=-x^2+5x+7$ deux trinômes. 
+    
+    Soient $\mathcal{P}_1:y=f_1(x)$ et $\mathcal{P}_2:y=f_2(x)$
+    leurs représentations graphiques.
+    \begin{enumerate}
+     \item Calculer les coordonnées du sommet des paraboles $\mathcal{P}_1$ et $\mathcal{P}_2$.
+
+\begin{correction}
+ 
+ $f_1(x)$ est sous forme canonique, on peut lire directement les coordonn\'ees du sommet $S(-3;-2)$ (1 pt)
+ 
+ $\alpha=\frac{-b}{2a}=\frac{-5}{-2}=\frac{5}{2}$ et 
+ $\beta=f_2(\frac{5}{2})=-(\frac{5}{2})^2+5(\frac{5}{2})+7=-\frac{25}{4}+\frac{50}{4}+\frac{28}{4}=\frac{53}{4}$ 
+ et $S(\frac{5}{2};\frac{53}{4})$ (1 pt)
+ 
+\end{correction}
+
+   
+    
+    \item Dresser les tableaux de variations de $f_1$ et $f_2$.
+
+\begin{correction}
+ 
+  \[
+      \begin{tikzpicture}
+	\tkzTabInit{$x$ /1,$f_1(x)$/2}{$-\infty$, $-3$, $+\infty$}
+	
+	\tkzTabVar{+/$+\infty$,-/$-2$,+/$+\infty$}
+      \end{tikzpicture}
+      \textrm{ car }a=1>0\textrm{ (1 pt) }
+      \] 
+    
+     \[
+      \begin{tikzpicture}
+	\tkzTabInit{$x$/1,$f_2(x)$/2}{$-\infty$, $\frac{5}{2}$, $+\infty$}
+	
+	\tkzTabVar{-/$-\infty$,+/$\frac{53}{4}$,-/$-\infty$}
+      \end{tikzpicture}
+      \textrm{ car }a=-1<0\textrm{ (1 pt) }
+      \]
+ 
+\end{correction}     
+    
+    
+%    \item En déduire, sans justification, le nombre de racines de ces deux trinômes.
+
+%\begin{correction}
+ 
+%  Par lecture des tableaux de variations, $f_1$ n'admet pas de racine et $f_2$ admet
+%    deux racines. (1 pt)
+ 
+%\end{correction}
+    
+    
+    
+    
+    \end{enumerate}
+  \end{exo}
+  
+ 
+  \vspace{0.5cm}
+  ~
+  
+  \begin{exo}(2.5 points)
+  La parabole suivante est la représentation graphique d'un trinôme 
+  
+  $f(x)=ax^2+bx+c$ dont la forme canonique est $f(x)=a(x-\alpha)^2+\beta$. On note $\Delta$ le discriminant de $f(x)$.
+  Donner sans justification le signe des paramètres 
+  $a,c,\alpha,\beta,\Delta$ 
+  pour le trinôme
+  dont la représentation graphique est la suivante:
+  
+  \begin{center}
+   \begin{tikzpicture}
+    
+    \draw[step=0.5cm,gray,very thin](-2.9,-2.4) grid (2.9,2.9);
+    \draw[very thick,->](-2.5,-2)--(2.5,-2);
+    \draw[very thick,->](-2,-2.5)--(-2,2.5);
+    \draw[thick][domain=-2.9:1.1] plot (\x,{(\x+1)*(\x+1)-1.5});
+    %(\x -0.5*(\x-3)(\x-3)+2);
+    
+   \end{tikzpicture}
+   \end{center}
+
+\begin{correction}
+ 
+  $a>0$,$c>0$, $\alpha>0$, $\beta>0$ et $\Delta<0$. (0.5 pt par r\'eponse)
+ 
+\end{correction}
+  
+  \end{exo}
+    
+  
+  \vspace{0.5cm}
+  ~
+  
+  \begin{exo}(3 points)
+  
+Déterminer toutes les valeurs du réél $m$ pour lesquelles l'équation $x^2+2mx+1=0$ admet une racine double.
+
+\begin{correction}
+ $x^2+2mx+1=0$ admet une racine double.
+ 
+ \vspace{0.5cm}
+ 
+$
+\begin{aligned}[t]
+           & x^2+2mx+2=0 \\ %\textrm{admet une racine double}\\
+      \iff \\
+           & \Delta=0\\
+      \iff \\
+           & 4m^2-8=0\\
+      \iff \\
+           & m^2-2=0\\
+      \iff \\
+           & m^2-(\sqrt{2})^2=0\\
+      \iff \\
+           & (m-\sqrt{2})(m+\sqrt{2})=0\\     
+\end{aligned}
+$
+
+  $\sqrt{2}$ et $-\sqrt{2}$ sont les seules valeurs pour $m$ pour lesquelles le trin\^ome admet une racine double.
+\end{correction}
+
+    
+  \end{exo}
+  
+  
+%  \begin{exo}(2 points)
+  
+%  \vspace{0.15cm}
+  
+%   Trouver toutes les valeurs $t$ pour lesquelles le trinôme
+%   $h(x)=b^2-4ac$
+%  \end{exo}
+  
+
+
+\end{document}
+
+  \vspace{0.5cm}
+  ~
+  
+  \begin{exo}(3 points)
+  
+   Déterminer deux réels dont la somme est égale à 5 et le produit est égal à 2.
+
+   
+\begin{correction}
+ 
+ 
+ Soient $x$ et $y$ deux r\'eels. 
+
+ \iffalse
+$\begin{aligned}[t]
+           &
+\begin{cases}
+x+y=5\\
+x y=2\\
+\end{cases}\\
+      \iff \\
+  &
+\begin{cases}
+ 
+y=5-x\\
+ 
+x(5-x)=2
+ 
+\end{cases}\\
+      
+ \end{aligned}$
+ 
+ 
+ 
+ 
+  
+  
+
+   $y=5-x$ et $x(5-x)=2$
+   
+   $-x^2+5x-2=0$, 
+
+\fi
+    
+    \begin{tabular}{ >{$}l<{$} }
+\left  \{ \begin{tabular}{ >{$}l<{$} } x+y=5  \\ xy=2 \end{tabular}\right.\\
+\iff  \\
+\left \{ \begin{tabular}{ >{$}l<{$} } y=5-x  \\ x(5-x)=2 \end{tabular}\right.\\
+\end{tabular}
+(0.5 pt pour la mise en \'equation) 
+(1 pt pour la substitution)
+
+or $x(5-x)=2 \iff -x^2+5 x-2=0$
+
+$\Delta=25-4(-1)(-2)=17$, $x_1=\frac{-5-\sqrt{17}}{-2}=\frac{5+\sqrt{17}}{2}$
+  $x_2=\frac{5-\sqrt{17}}{2}$ (1 pt pour le calcul des racines).
+  
+  On remarque $x_2=5-x_1$ et $x_1=5-x_2$. Il y a donc une unique paire de r\'eels
+  dont la somme est \'egale \' a 5 et le produit est \'egal \`a 2. Il s'agit de la paire 
+  $\left \{\frac{5+\sqrt{17}}{2},\frac{5-\sqrt{17}}{2}\right \}$. (0.5 pt pour la conclusion).
+
+\end{correction}
+
+   \end{exo}
+
+ \vspace{0.5cm}
+  ~
+  
+  \begin{exo}(2 points)
+  
+   Calculer les coordonnées des points d'intersection entre la droite $d$ d'équation
+   $d:y=2x+2$ et la parabole $\mathcal{P}$ d'équation $\mathcal{P}:y=x^2-1$.
+  \end{exo}
+ 
+\begin{correction}
+ 
+ \begin{tabular}{ >{$}l<{$} }
+\left \{ \begin{tabular}{ >{$}l<{$} } y=2x+2  \\ y=x^2-1 \end{tabular}\right.\\
+\iff  \\
+\left \{ \begin{tabular}{ >{$}l<{$} }  y=2x+2 \\ 2x+2=x^2-1 \end{tabular}\right.\\
+\iff  \\
+\left \{ \begin{tabular}{ >{$}l<{$} }  y=2x+2 \\ x^2-2x-3=0 \end{tabular}\right.\\
+\iff  \\
+\left \{ \begin{tabular}{ >{$}l<{$} }  y=2x+2 \\ (x+1)(x-3)=0 \end{tabular}\right.\\
+\iff  \\
+\left \{ \begin{tabular}{ >{$}l<{$} }  y=2x+2 \\ x=-1 \textrm{ ou } x=3 \end{tabular}\right.\\
+\iff  \\
+  (x=-1\textrm{ et }y=0)\textrm{ ou }(x=3\textrm{ et }y=8)\\
+
+\end{tabular}
+(1 pt pour le calcul des racines)
+
+Il y a deux points d'intersection entre $d$ et $\mathcal{P}$ qui sont les points
+$A(-1;0)$ et $B(3;8)$. (1 pt pour la conclusion)
+   
+  
+  
+ 
+\end{correction}
