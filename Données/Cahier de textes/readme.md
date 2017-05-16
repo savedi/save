@@ -148,6 +148,20 @@ Révisions pour le devoir commun:
 ---
 -->
 
+Mardi 16 mai 2017:
+
+Retour sur le devoir commun.
+
+Devoirs:
+
+Pour [jeudi 18 mai 2017](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/71):
+
+1. Refaire le contrôle sur le produit scalaire.
+
+1. Associer à chaque question de ce contrôle une compétence que vous définirez vous même.
+
+---
+
 Lundi 15 mai 2017:
 
 [Révisions pour les probabilités](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/R%C3%A9visions/revision(suites%2Cprobas).png).
