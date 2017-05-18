@@ -152,9 +152,9 @@ Jeudi 18 mai 2017:
 
 1. Retour sur le contrôle sur le produit scalaire.
 
-[sujet A](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/R%C3%A9visions/ProduitScalaireA.pdf)
+- [sujet A](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/R%C3%A9visions/ProduitScalaireA.pdf)
 
-[sujet B](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/R%C3%A9visions/ProduitScalaireB.pdf)
+- [sujet B](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/R%C3%A9visions/ProduitScalaireB.pdf)
 
 1. Introduction à la notion de limite.
 
