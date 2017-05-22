@@ -178,10 +178,6 @@ Jeudi 18 mai 2017:
 
 - Approche de la notion de [limite de suite](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/notionDeLimite.png).
 
-- Utilisation de [la notion de limite](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/AireSousUneCourbe.png).
-
-
-
 ---
 
 Mardi 16 mai 2017:
