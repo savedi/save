@@ -148,6 +148,24 @@ Révisions pour le devoir commun:
 ---
 -->
 
+Lundi 22 mai 2017:
+
+1. Introduction à la notion de limite suite:
+
+- Approche de la notion de [limite de suite](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/notionDeLimite.png).
+
+- Utilisation de [la notion de limite](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/AireSousUneCourbe.png).
+
+Devoirs:
+
+Pour [mardi 23 mai 2017](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/72):
+
+[Exercice 47 page 158](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/47p158.png): Une limite de suite.
+
+
+
+---
+
 Jeudi 18 mai 2017:
 
 1. Retour sur le contrôle sur le produit scalaire.
