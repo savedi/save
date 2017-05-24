@@ -148,13 +148,33 @@ Révisions pour le devoir commun:
 ---
 -->
 
+Mardi 23 mai 2017:
+
+Application de la notion de limite. Calcul de l'aire sous une courbe:
+
+- Utilisation de [la notion de limite](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/AireSousUneCourbe.png).
+
+Devoirs:
+
+- Pour [lundi 29 mai 2017](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/73):
+
+Devoir à la maison facultatif:
+
+Rendre une correction du contrôle sur le produit scalaire:
+
+  - [sujet A](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/R%C3%A9visions/ProduitScalaireA.pdf)
+
+  - [sujet B](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/R%C3%A9visions/ProduitScalaireB.pdf)
+
+---
+
 Lundi 22 mai 2017:
 
 1. Introduction à la notion de limite suite:
 
 - Approche de la notion de [limite de suite](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/notionDeLimite.png).
 
-- Utilisation de [la notion de limite](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/AireSousUneCourbe.png).
+
 
 Devoirs:
 
