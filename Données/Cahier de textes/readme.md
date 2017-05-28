@@ -166,6 +166,14 @@ Rendre une correction du contrôle sur le produit scalaire:
 
   - [sujet B](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/R%C3%A9visions/ProduitScalaireB.pdf)
 
+- Pour [mardi 30 mai 2017](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/74):
+
+Exercice [87 page 113](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/3.%20Derivation/Images/87p113.png): Une fonction à paramètre.  
+
+- Pour [jeudi 1er juin 2017](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/75):
+
+Exercice [97 page 187](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/97p187.png): Droites concourantes.
+
 ---
 
 Lundi 22 mai 2017:
