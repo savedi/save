@@ -148,6 +148,24 @@ Révisions pour le devoir commun:
 ---
 -->
 
+Lundi 29 mai 2017:
+
+1. [Exercice 75 page 110](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/3.%20Derivation/Images/75p110.png): Un problème avec des dérivées.
+
+1. [Exercice 148 page 139](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/148p139.png): Nombres pentagonaux.
+
+Devoirs:
+
+- Pour [mardi 30 mai 2017](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/74):
+
+Exercice [87 page 113](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/3.%20Derivation/Images/87p113.png): Une fonction à paramètre.  
+
+- Pour [jeudi 1er juin 2017](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/75):
+
+Exercice [97 page 187](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/97p187.png): Droites concourantes.
+
+---
+
 Mardi 23 mai 2017:
 
 Application de la notion de limite. Calcul de l'aire sous une courbe:
