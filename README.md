@@ -4,7 +4,7 @@
 
 - [Présentation](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/7.%20Poduit%20scalaire/Pr%C3%A9sentation/ProduitScalaire.pdf)
 
-- [Polycopié](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/7.%20Poduit%20scalaire/Polycopie/ProduitScalaire.pdf) -->
+- [Polycopié](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/7.%20Poduit%20scalaire/Polycopie/ProduitScalaire.pdf)
 
 ---
 
@@ -13,7 +13,7 @@
 ---
 
 ## [Sujets corrigés des contrôles de l'année](https://github.com/EdisonLorgues1SD1617/Math1SD1617/tree/master/Donn%C3%A9es/Chapitres/R%C3%A9visions/Corrections%20contr%C3%B4les/Donn%C3%A9es)
-
+-->
 
 <!-- - [Compétences]() -->
 
