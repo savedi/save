@@ -148,6 +148,20 @@ Révisions pour le devoir commun:
 ---
 -->
 
+Mardi 30 mai 2017:
+
+- Calcul d'aire sous une parabole (suite et fin)
+
+- Utilisation de [la notion de limite](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/AireSousUneCourbe.png).
+
+- Comparer les fonctions f(x)=x^2, g(x)=x et h(x)=sqrt(x).
+
+- Pour [jeudi 1er juin 2017](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/75):
+
+Exercice [97 page 187](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/2.%20Vecteurs/images/97p187.png): Droites concourantes.
+
+---
+
 Lundi 29 mai 2017:
 
 1. [Exercice 75 page 110](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/3.%20Derivation/Images/75p110.png): Un problème avec des dérivées.
