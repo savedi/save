@@ -150,9 +150,7 @@ Révisions pour le devoir commun:
 
 Mardi 30 mai 2017:
 
-- Calcul d'aire sous une parabole (suite et fin)
-
-- Utilisation de [la notion de limite](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/AireSousUneCourbe.png).
+- Calcul d'[aire sous une parabole](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/AireSousUneCourbe.png) (suite et fin).
 
 - Comparer les fonctions f(x)=x^2, g(x)=x et h(x)=sqrt(x).
 
