@@ -160,6 +160,8 @@ Jeudi 1er juin 2016:
 
 1. [Exercice 148 page 139](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/148p139.png): Nombres pentagonaux.
 
+Devoirs:
+
 Pour [mardi 6 juin 2017](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/76):
 
 [Exercice 32 page 129](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/32p129.png):Lien entre termes et somme de termes d'une suite.
