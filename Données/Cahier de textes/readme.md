@@ -148,15 +148,27 @@ Révisions pour le devoir commun:
 ---
 -->
 
-Mardi 30 mai 2017:
+Jeudi 1er juin 2016:
 
 1. Calcul d'[aire sous une parabole](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/AireSousUneCourbe.png) (suite et fin).
 
 1. Comparer les fonctions f(x)=x^2, g(x)=x et h(x)=sqrt(x).
 
+1. [Narration de recherche](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/3.%20Derivation/Images/14-15p81.png): Paraboles.
+
 1. [Exercice 75 page 110](https://github.com/EdisonLorgues1SD1617/Math1SD1617/blob/master/Donn%C3%A9es/Chapitres/3.%20Derivation/Images/75p110.png): Un problème avec des dérivées.
 
 1. [Exercice 148 page 139](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/148p139.png): Nombres pentagonaux.
+
+Pour [mardi 6 juin 2017](https://github.com/EdisonLorgues1SD1617/Devoirs/issues/76):
+
+[Exercice 32 page 129](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/32p129.png):Lien entre termes et somme de termes d'une suite.
+
+---
+
+Mardi 30 mai 2017:
+
+1. Remédiation: Utiliser les formes canoniques pour montrer qu'une équation est celle d'un cerle.
 
 Devoirs:
 
