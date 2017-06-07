@@ -148,6 +148,25 @@ Révisions pour le devoir commun:
 ---
 -->
 
+Mardi 6 juin 2017:
+
+1. Exercice sur les variations d'une fonction en retournant à la définition.
+
+1. Un calcul de dérivée utilisant la formule du produit.
+
+1. Montrer l'équivalence géométrique suivante:
+
+Un quadrilatère est un parallèlogramme si et seulement si ses diagonales se coupent en leur milieu.
+
+Devoirs:
+
+- Pour jeudi 8 juin 2017:
+
+1. Exercice [49 page 207](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/7.%20Poduit%20scalaire/Images/49p207.png): Calculs d'angles orientés.
+
+
+---
+
 Jeudi 1er juin 2016:
 
 1. Calcul d'[aire sous une parabole](https://raw.githubusercontent.com/EdisonLorgues1SD1617/Math1SD1617/master/Donn%C3%A9es/Chapitres/4.%20Suites/Images/AireSousUneCourbe.png) (suite et fin).
